@@ -1,0 +1,19 @@
+[
+  "crosses",
+  "shots",
+  "possession",
+  "pressing",
+  "blocked_shots",
+  "gk_saves",
+  "crosses_per_shot",
+  "crosses_per_pressing",
+  "corners_per_shot",
+  "interaction_crosses_pressing",
+  "tempo",
+  "style_wings",
+  "style_direct",
+  "style_counter",
+  "style_dominant",
+  "style_passive",
+  "avg_corners_conceded"
+]
