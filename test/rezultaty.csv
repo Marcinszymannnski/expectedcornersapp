@@ -1,0 +1,3604 @@
+home_team,away_team,expected_corners,total_corners,expected_rounded,total_rounded,hit,abs_error,extreme_miss
+Cagliari,Monza,8.43,10.0,8,10,True,2,False
+Fiorentina,Atalanta,9.13,6.0,9,6,False,3,False
+Inter,Udinese,10.27,6.0,10,6,False,4,False
+Napoli,Milan,11.95,8.0,12,8,False,4,False
+Hellas Verona,Parma,7.85,10.0,8,10,True,2,False
+Lazio,Torino,9.49,5.0,9,5,False,4,False
+Getafe,Villarreal,9.48,4.0,9,4,False,5,True
+Barcelona,Girona FC,10.87,12.0,11,12,True,1,False
+Athletic Club,Osasuna,9.91,7.0,10,7,False,3,False
+Valencia,Mallorca,8.99,9.0,9,9,True,0,False
+Real Betis,Sevilla,8.8,4.0,9,4,False,5,True
+Celta Vigo,Las Palmas,7.88,2.0,8,2,False,6,True
+SC Freiburg,1. FC Union Berlin,9.01,6.0,9,6,False,3,False
+Borussia Dortmund,1. FSV Mainz 05,10.04,10.0,10,10,True,0,False
+Toulouse,Stade Brestois,9.35,13.0,9,13,True,4,False
+Angers,Stade Rennais,9.07,11.0,9,11,True,2,False
+Auxerre,Montpellier,8.57,16.0,9,16,True,7,True
+Le Havre,Nantes,8.66,7.0,9,7,False,2,False
+Lille,RC Lens,9.72,8.0,10,8,False,2,False
+Como,Empoli,8.12,5.0,8,5,False,3,False
+Venezia,Bologna,9.01,5.0,9,5,False,4,False
+Juventus,Genoa,9.31,7.0,9,7,False,2,False
+Lecce,Roma,8.94,12.0,9,12,True,3,False
+Cagliari,Monza,8.43,10.0,8,10,True,2,False
+Fiorentina,Atalanta,9.13,6.0,9,6,False,3,False
+Inter,Udinese,10.27,6.0,10,6,False,4,False
+Napoli,Milan,11.95,8.0,12,8,False,4,False
+Real Sociedad,Real Valladolid,8.43,9.0,8,9,True,1,False
+Espanyol,Atlético Madrid,8.78,7.0,9,7,False,2,False
+Deportivo Alavés,Rayo Vallecano,9.59,13.0,10,13,True,3,False
+Real Madrid,Leganés,9.14,11.0,9,11,True,2,False
+Getafe,Villarreal,9.48,4.0,9,4,False,5,True
+Barcelona,Girona FC,10.87,12.0,11,12,True,1,False
+Athletic Club,Osasuna,9.91,7.0,10,7,False,3,False
+Valencia,Mallorca,8.99,9.0,9,9,True,0,False
+Real Betis,Sevilla,8.8,4.0,9,4,False,5,True
+Borussia M'gladbach,RB Leipzig,9.12,13.0,9,13,True,4,False
+FC Bayern München,FC St. Pauli,10.08,9.0,10,9,False,1,False
+Holstein Kiel,SV Werder Bremen,8.77,7.0,9,7,False,2,False
+TSG Hoffenheim,FC Augsburg,8.9,4.0,9,4,False,5,True
+VfL Wolfsburg,1. FC Heidenheim,9.06,9.0,9,9,True,0,False
+Eintracht Frankfurt,VfB Stuttgart,9.8,16.0,10,16,True,6,True
+SC Freiburg,1. FC Union Berlin,9.01,6.0,9,6,False,3,False
+Borussia Dortmund,1. FSV Mainz 05,10.04,10.0,10,10,True,0,False
+Stade de Reims,Olympique de Marseille,10.76,12.0,11,12,True,1,False
+Saint-Étienne,Paris Saint-Germain,9.51,9.0,10,9,False,1,False
+AS Monaco,Nice,9.57,11.0,10,11,True,1,False
+Toulouse,Stade Brestois,9.35,13.0,9,13,True,4,False
+Angers,Stade Rennais,9.07,11.0,9,11,True,2,False
+Auxerre,Montpellier,8.57,16.0,9,16,True,7,True
+Le Havre,Nantes,8.66,7.0,9,7,False,2,False
+Lille,RC Lens,9.72,8.0,10,8,False,2,False
+Como,Empoli,8.12,5.0,8,5,False,3,False
+Venezia,Bologna,9.01,5.0,9,5,False,4,False
+Juventus,Genoa,9.31,7.0,9,7,False,2,False
+Lecce,Roma,8.94,12.0,9,12,True,3,False
+Cagliari,Monza,8.43,10.0,8,10,True,2,False
+Real Sociedad,Real Valladolid,8.43,9.0,8,9,True,1,False
+Espanyol,Atlético Madrid,8.78,7.0,9,7,False,2,False
+Deportivo Alavés,Rayo Vallecano,9.59,13.0,10,13,True,3,False
+Real Madrid,Leganés,9.14,11.0,9,11,True,2,False
+Bayer 04 Leverkusen,VfL Bochum 1848,10.93,5.0,11,5,False,6,True
+Borussia M'gladbach,RB Leipzig,9.12,13.0,9,13,True,4,False
+FC Bayern München,FC St. Pauli,10.08,9.0,10,9,False,1,False
+Holstein Kiel,SV Werder Bremen,8.77,7.0,9,7,False,2,False
+TSG Hoffenheim,FC Augsburg,8.9,4.0,9,4,False,5,True
+VfL Wolfsburg,1. FC Heidenheim,9.06,9.0,9,9,True,0,False
+Eintracht Frankfurt,VfB Stuttgart,9.8,16.0,10,16,True,6,True
+RC Strasbourg,Olympique Lyonnais,8.91,11.0,9,11,True,2,False
+Stade de Reims,Olympique de Marseille,10.76,12.0,11,12,True,1,False
+Saint-Étienne,Paris Saint-Germain,9.51,9.0,10,9,False,1,False
+AS Monaco,Nice,9.57,11.0,10,11,True,1,False
+Barcelona,Osasuna,10.27,12.0,10,12,True,2,False
+Bayer 04 Leverkusen,VfL Bochum 1848,10.93,5.0,11,5,False,6,True
+RC Strasbourg,Olympique Lyonnais,8.91,11.0,9,11,True,2,False
+Barcelona,Osasuna,10.27,12.0,10,12,True,2,False
+Arsenal,Chelsea,12.26,9.0,12,9,False,3,False
+Fulham,Tottenham Hotspur,10.9,11.0,11,11,True,0,False
+Leicester City,Manchester United,8.7,10.0,9,10,True,1,False
+Venezia,Napoli,9.46,11.0,9,11,True,2,False
+Bologna,Lazio,10.92,8.0,11,8,False,3,False
+Roma,Cagliari,9.46,11.0,9,11,True,2,False
+Fiorentina,Juventus,9.15,7.0,9,7,False,2,False
+Atalanta,Inter,11.36,8.0,11,8,False,3,False
+Leganés,Real Betis,8.41,10.0,8,10,True,2,False
+Sevilla,Athletic Club,9.62,10.0,10,10,True,0,False
+Osasuna,Getafe,8.75,5.0,9,5,False,4,False
+Rayo Vallecano,Real Sociedad,9.46,8.0,9,8,False,1,False
+Atlético Madrid,Barcelona,10.63,12.0,11,12,True,1,False
+VfL Bochum 1848,Eintracht Frankfurt,9.97,11.0,10,11,True,1,False
+1. FC Heidenheim,Holstein Kiel,8.32,8.0,8,8,True,0,False
+VfB Stuttgart,Bayer 04 Leverkusen,10.61,11.0,11,11,True,0,False
+Olympique Lyonnais,Le Havre,9.34,5.0,9,5,False,4,False
+Montpellier,Saint-Étienne,8.36,10.0,8,10,True,2,False
+RC Strasbourg,Toulouse,8.62,7.0,9,7,False,2,False
+Stade Brestois,Stade de Reims,9.72,8.0,10,8,False,2,False
+Paris Saint-Germain,Olympique de Marseille,12.26,10.0,12,10,False,2,False
+Everton,West Ham United,8.7,11.0,9,11,True,2,False
+Ipswich Town,Nottingham Forest,7.92,9.0,8,9,True,1,False
+Manchester City,Brighton & Hove Albion,10.41,9.0,10,9,False,1,False
+Southampton,Wolverhampton,7.64,6.0,8,6,False,2,False
+Bournemouth,Brentford,9.59,7.0,10,7,False,3,False
+Arsenal,Chelsea,12.26,9.0,12,9,False,3,False
+Fulham,Tottenham Hotspur,10.9,11.0,11,11,True,0,False
+Leicester City,Manchester United,8.7,10.0,9,10,True,1,False
+Monza,Parma,8.24,9.0,8,9,True,1,False
+Udinese,Hellas Verona,8.37,3.0,8,3,False,5,True
+Milan,Como,9.97,5.0,10,5,False,5,True
+Torino,Empoli,7.7,10.0,8,10,True,2,False
+Venezia,Napoli,9.46,11.0,9,11,True,2,False
+Bologna,Lazio,10.92,8.0,11,8,False,3,False
+Roma,Cagliari,9.46,11.0,9,11,True,2,False
+Fiorentina,Juventus,9.15,7.0,9,7,False,2,False
+Atalanta,Inter,11.36,8.0,11,8,False,3,False
+Real Valladolid,Celta Vigo,7.78,7.0,8,7,False,1,False
+Mallorca,Espanyol,8.04,8.0,8,8,True,0,False
+Villarreal,Real Madrid,10.83,15.0,11,15,True,4,False
+Girona FC,Valencia,9.65,13.0,10,13,True,3,False
+Leganés,Real Betis,8.41,10.0,8,10,True,2,False
+Sevilla,Athletic Club,9.62,10.0,10,10,True,0,False
+Osasuna,Getafe,8.75,5.0,9,5,False,4,False
+Rayo Vallecano,Real Sociedad,9.46,8.0,9,8,False,1,False
+Atlético Madrid,Barcelona,10.63,12.0,11,12,True,1,False
+1. FC Union Berlin,FC Bayern München,10.93,16.0,11,16,True,5,True
+1. FSV Mainz 05,SC Freiburg,8.64,5.0,9,5,False,4,False
+FC Augsburg,VfL Wolfsburg,8.7,5.0,9,5,False,4,False
+SV Werder Bremen,Borussia M'gladbach,9.52,5.0,10,5,False,5,True
+RB Leipzig,Borussia Dortmund,9.98,15.0,10,15,True,5,True
+VfL Bochum 1848,Eintracht Frankfurt,9.97,11.0,10,11,True,1,False
+1. FC Heidenheim,Holstein Kiel,8.32,8.0,8,8,True,0,False
+VfB Stuttgart,Bayer 04 Leverkusen,10.61,11.0,11,11,True,0,False
+Nantes,Lille,8.31,8.0,8,8,True,0,False
+Angers,AS Monaco,8.82,9.0,9,9,True,0,False
+RC Lens,Stade Rennais,11.01,9.0,11,9,False,2,False
+Olympique Lyonnais,Le Havre,9.34,5.0,9,5,False,4,False
+Montpellier,Saint-Étienne,8.36,10.0,8,10,True,2,False
+RC Strasbourg,Toulouse,8.62,7.0,9,7,False,2,False
+Stade Brestois,Stade de Reims,9.72,8.0,10,8,False,2,False
+Paris Saint-Germain,Olympique de Marseille,12.26,10.0,12,10,False,2,False
+Everton,West Ham United,8.7,11.0,9,11,True,2,False
+Ipswich Town,Nottingham Forest,7.92,9.0,8,9,True,1,False
+Manchester City,Brighton & Hove Albion,10.41,9.0,10,9,False,1,False
+Southampton,Wolverhampton,7.64,6.0,8,6,False,2,False
+Bournemouth,Brentford,9.59,7.0,10,7,False,3,False
+Genoa,Lecce,8.04,6.0,8,6,False,2,False
+Monza,Parma,8.24,9.0,8,9,True,1,False
+Udinese,Hellas Verona,8.37,3.0,8,3,False,5,True
+Milan,Como,9.97,5.0,10,5,False,5,True
+Torino,Empoli,7.7,10.0,8,10,True,2,False
+Venezia,Napoli,9.46,11.0,9,11,True,2,False
+Las Palmas,Deportivo Alavés,8.41,9.0,8,9,True,1,False
+Real Valladolid,Celta Vigo,7.78,7.0,8,7,False,1,False
+Mallorca,Espanyol,8.04,8.0,8,8,True,0,False
+Villarreal,Real Madrid,10.83,15.0,11,15,True,4,False
+Girona FC,Valencia,9.65,13.0,10,13,True,3,False
+FC St. Pauli,TSG Hoffenheim,9.43,13.0,9,13,True,4,False
+1. FC Union Berlin,FC Bayern München,10.93,16.0,11,16,True,5,True
+1. FSV Mainz 05,SC Freiburg,8.64,5.0,9,5,False,4,False
+FC Augsburg,VfL Wolfsburg,8.7,5.0,9,5,False,4,False
+SV Werder Bremen,Borussia M'gladbach,9.52,5.0,10,5,False,5,True
+RB Leipzig,Borussia Dortmund,9.98,15.0,10,15,True,5,True
+Nice,Auxerre,8.65,10.0,9,10,True,1,False
+Nantes,Lille,8.31,8.0,8,8,True,0,False
+Angers,AS Monaco,8.82,9.0,9,9,True,0,False
+RC Lens,Stade Rennais,11.01,9.0,11,9,False,2,False
+Genoa,Lecce,8.04,6.0,8,6,False,2,False
+Las Palmas,Deportivo Alavés,8.41,9.0,8,9,True,1,False
+FC St. Pauli,TSG Hoffenheim,9.43,13.0,9,13,True,4,False
+Nice,Auxerre,8.65,10.0,9,10,True,1,False
+West Ham United,Newcastle United,10.04,7.0,10,7,False,3,False
+Lazio,Udinese,10.12,13.0,10,13,True,3,False
+Espanyol,Girona FC,8.69,13.0,9,13,True,4,False
+Chelsea,Leicester City,9.76,14.0,10,14,True,4,False
+Tottenham Hotspur,Bournemouth,10.79,9.0,11,9,False,2,False
+Manchester United,Arsenal,10.89,11.0,11,11,True,0,False
+West Ham United,Newcastle United,10.04,7.0,10,7,False,3,False
+Hellas Verona,Bologna,9.01,4.0,9,4,False,5,True
+Napoli,Fiorentina,9.61,8.0,10,8,False,2,False
+Empoli,Roma,8.94,10.0,9,10,True,1,False
+Juventus,Atalanta,10.85,7.0,11,7,False,4,False
+Lazio,Udinese,10.12,13.0,10,13,True,3,False
+Getafe,Atlético Madrid,9.37,8.0,9,8,False,1,False
+Real Madrid,Rayo Vallecano,10.64,10.0,11,10,False,1,False
+Athletic Club,Mallorca,9.65,6.0,10,6,False,4,False
+Real Betis,Las Palmas,8.57,12.0,9,12,True,3,False
+Real Sociedad,Sevilla,8.76,9.0,9,9,True,0,False
+Espanyol,Girona FC,8.69,13.0,9,13,True,4,False
+Eintracht Frankfurt,1. FC Union Berlin,9.6,6.0,10,6,False,4,False
+TSG Hoffenheim,1. FC Heidenheim,9.67,10.0,10,10,True,0,False
+Stade Brestois,Angers,8.51,12.0,9,12,True,3,False
+Le Havre,Saint-Étienne,8.22,11.0,8,11,True,3,False
+Nantes,RC Strasbourg,7.94,12.0,8,12,True,4,False
+Stade de Reims,Auxerre,8.8,18.0,9,18,True,9,True
+Nice,Olympique Lyonnais,9.57,11.0,10,11,True,1,False
+Nottingham Forest,Manchester City,9.81,5.0,10,5,False,5,True
+Brighton & Hove Albion,Fulham,10.01,10.0,10,10,True,0,False
+Crystal Palace,Ipswich Town,8.46,9.0,8,9,True,1,False
+Liverpool,Southampton,9.51,10.0,10,10,True,0,False
+Brentford,Aston Villa,9.66,11.0,10,11,True,1,False
+Wolverhampton,Everton,8.09,10.0,8,10,True,2,False
+Chelsea,Leicester City,9.76,14.0,10,14,True,4,False
+Tottenham Hotspur,Bournemouth,10.79,9.0,11,9,False,2,False
+Manchester United,Arsenal,10.89,11.0,11,11,True,0,False
+Como,Venezia,8.12,8.0,8,8,True,0,False
+Parma,Torino,8.11,11.0,8,11,True,3,False
+Lecce,Milan,9.2,9.0,9,9,True,0,False
+Inter,Monza,9.76,14.0,10,14,True,4,False
+Hellas Verona,Bologna,9.01,4.0,9,4,False,5,True
+Napoli,Fiorentina,9.61,8.0,10,8,False,2,False
+Empoli,Roma,8.94,10.0,9,10,True,1,False
+Juventus,Atalanta,10.85,7.0,11,7,False,4,False
+Celta Vigo,Leganés,7.72,7.0,8,7,False,1,False
+Deportivo Alavés,Villarreal,9.75,7.0,10,7,False,3,False
+Valencia,Real Valladolid,8.56,9.0,9,9,True,0,False
+Getafe,Atlético Madrid,9.37,8.0,9,8,False,1,False
+Real Madrid,Rayo Vallecano,10.64,10.0,11,10,False,1,False
+Athletic Club,Mallorca,9.65,6.0,10,6,False,4,False
+Real Betis,Las Palmas,8.57,12.0,9,12,True,3,False
+Real Sociedad,Sevilla,8.76,9.0,9,9,True,0,False
+Bayer 04 Leverkusen,SV Werder Bremen,11.1,13.0,11,13,True,2,False
+Borussia Dortmund,FC Augsburg,9.46,15.0,9,15,True,6,True
+FC Bayern München,VfL Bochum 1848,10.93,12.0,11,12,True,1,False
+Holstein Kiel,VfB Stuttgart,8.78,4.0,9,4,False,5,True
+VfL Wolfsburg,FC St. Pauli,8.94,12.0,9,12,True,3,False
+SC Freiburg,RB Leipzig,8.5,8.0,8,8,True,0,False
+Eintracht Frankfurt,1. FC Union Berlin,9.6,6.0,10,6,False,4,False
+TSG Hoffenheim,1. FC Heidenheim,9.67,10.0,10,10,True,0,False
+Stade Rennais,Paris Saint-Germain,11.08,5.0,11,5,False,6,True
+Lille,Montpellier,8.67,8.0,9,8,False,1,False
+Olympique de Marseille,RC Lens,12.19,7.0,12,7,False,5,True
+Stade Brestois,Angers,8.51,12.0,9,12,True,3,False
+Le Havre,Saint-Étienne,8.22,11.0,8,11,True,3,False
+Nantes,RC Strasbourg,7.94,12.0,8,12,True,4,False
+Stade de Reims,Auxerre,8.8,18.0,9,18,True,9,True
+Nice,Olympique Lyonnais,9.57,11.0,10,11,True,1,False
+Nottingham Forest,Manchester City,9.81,5.0,10,5,False,5,True
+Brighton & Hove Albion,Fulham,10.01,10.0,10,10,True,0,False
+Crystal Palace,Ipswich Town,8.46,9.0,8,9,True,1,False
+Liverpool,Southampton,9.51,10.0,10,10,True,0,False
+Brentford,Aston Villa,9.66,11.0,10,11,True,1,False
+Wolverhampton,Everton,8.09,10.0,8,10,True,2,False
+Cagliari,Genoa,8.53,7.0,9,7,False,2,False
+Como,Venezia,8.12,8.0,8,8,True,0,False
+Parma,Torino,8.11,11.0,8,11,True,3,False
+Lecce,Milan,9.2,9.0,9,9,True,0,False
+Inter,Monza,9.76,14.0,10,14,True,4,False
+Hellas Verona,Bologna,9.01,4.0,9,4,False,5,True
+Celta Vigo,Leganés,7.72,7.0,8,7,False,1,False
+Deportivo Alavés,Villarreal,9.75,7.0,10,7,False,3,False
+Valencia,Real Valladolid,8.56,9.0,9,9,True,0,False
+Borussia M'gladbach,1. FSV Mainz 05,9.12,7.0,9,7,False,2,False
+Bayer 04 Leverkusen,SV Werder Bremen,11.1,13.0,11,13,True,2,False
+Borussia Dortmund,FC Augsburg,9.46,15.0,9,15,True,6,True
+FC Bayern München,VfL Bochum 1848,10.93,12.0,11,12,True,1,False
+Holstein Kiel,VfB Stuttgart,8.78,4.0,9,4,False,5,True
+VfL Wolfsburg,FC St. Pauli,8.94,12.0,9,12,True,3,False
+SC Freiburg,RB Leipzig,8.5,8.0,8,8,True,0,False
+Toulouse,AS Monaco,9.62,8.0,10,8,False,2,False
+Stade Rennais,Paris Saint-Germain,11.08,5.0,11,5,False,6,True
+Lille,Montpellier,8.67,8.0,9,8,False,1,False
+Olympique de Marseille,RC Lens,12.19,7.0,12,7,False,5,True
+Cagliari,Genoa,8.53,7.0,9,7,False,2,False
+Borussia M'gladbach,1. FSV Mainz 05,9.12,7.0,9,7,False,2,False
+Toulouse,AS Monaco,9.62,8.0,10,8,False,2,False
+Juventus,Hellas Verona,9.02,6.0,9,6,False,3,False
+Monza,Torino,8.2,5.0,8,5,False,3,False
+Bologna,Cagliari,9.56,5.0,10,5,False,5,True
+Genoa,Empoli,8.04,9.0,8,9,True,1,False
+Roma,Como,9.71,3.0,10,3,False,7,True
+Milan,Lazio,11.41,8.0,11,8,False,3,False
+Juventus,Hellas Verona,9.02,6.0,9,6,False,3,False
+Leganés,Getafe,8.12,8.0,8,8,True,0,False
+Barcelona,Real Sociedad,10.37,12.0,10,12,True,2,False
+Mallorca,Deportivo Alavés,8.74,12.0,9,12,True,3,False
+Osasuna,Valencia,9.12,6.0,9,6,False,3,False
+1. FC Union Berlin,Holstein Kiel,8.58,14.0,9,14,True,5,True
+FC Augsburg,SC Freiburg,7.97,7.0,8,7,False,1,False
+Olympique Lyonnais,Stade Brestois,9.62,7.0,10,7,False,3,False
+Angers,Toulouse,8.62,13.0,9,13,True,4,False
+Auxerre,RC Strasbourg,7.97,8.0,8,8,True,0,False
+Montpellier,Stade Rennais,9.86,11.0,10,11,True,1,False
+Olympique de Marseille,Nantes,9.7,5.0,10,5,False,5,True
+Atalanta,Venezia,8.99,5.0,9,5,False,4,False
+Napoli,Inter,12.26,15.0,12,15,True,3,False
+Udinese,Parma,8.67,14.0,9,14,True,5,True
+Monza,Torino,8.2,5.0,8,5,False,3,False
+Bologna,Cagliari,9.56,5.0,10,5,False,5,True
+Genoa,Empoli,8.04,9.0,8,9,True,1,False
+Roma,Como,9.71,3.0,10,3,False,7,True
+Milan,Lazio,11.41,8.0,11,8,False,3,False
+Girona FC,Celta Vigo,8.88,6.0,9,6,False,3,False
+Rayo Vallecano,Sevilla,9.22,12.0,9,12,True,3,False
+Real Betis,Real Madrid,9.98,11.0,10,11,True,1,False
+Atlético Madrid,Athletic Club,10.44,8.0,10,8,False,2,False
+Leganés,Getafe,8.12,8.0,8,8,True,0,False
+Barcelona,Real Sociedad,10.37,12.0,10,12,True,2,False
+Mallorca,Deportivo Alavés,8.74,12.0,9,12,True,3,False
+Osasuna,Valencia,9.12,6.0,9,6,False,3,False
+1. FC Heidenheim,Borussia M'gladbach,8.92,8.0,9,8,False,1,False
+FC St. Pauli,Borussia Dortmund,10.02,8.0,10,8,False,2,False
+RB Leipzig,1. FSV Mainz 05,9.18,8.0,9,8,False,1,False
+SV Werder Bremen,VfL Wolfsburg,10.04,10.0,10,10,True,0,False
+VfL Bochum 1848,TSG Hoffenheim,10.02,13.0,10,13,True,3,False
+Eintracht Frankfurt,Bayer 04 Leverkusen,11.19,8.0,11,8,False,3,False
+1. FC Union Berlin,Holstein Kiel,8.58,14.0,9,14,True,5,True
+FC Augsburg,SC Freiburg,7.97,7.0,8,7,False,1,False
+Saint-Étienne,Nice,8.44,7.0,8,7,False,1,False
+RC Lens,Le Havre,10.21,11.0,10,11,True,1,False
+Paris Saint-Germain,Lille,9.78,12.0,10,12,True,2,False
+Olympique Lyonnais,Stade Brestois,9.62,7.0,10,7,False,3,False
+Angers,Toulouse,8.62,13.0,9,13,True,4,False
+Auxerre,RC Strasbourg,7.97,8.0,8,8,True,0,False
+Montpellier,Stade Rennais,9.86,11.0,10,11,True,1,False
+Olympique de Marseille,Nantes,9.7,5.0,10,5,False,5,True
+Fiorentina,Lecce,7.67,7.0,8,7,False,1,False
+Atalanta,Venezia,8.99,5.0,9,5,False,4,False
+Napoli,Inter,12.26,15.0,12,15,True,3,False
+Udinese,Parma,8.67,14.0,9,14,True,5,True
+Monza,Torino,8.2,5.0,8,5,False,3,False
+Real Valladolid,Las Palmas,7.77,17.0,8,17,True,9,True
+Girona FC,Celta Vigo,8.88,6.0,9,6,False,3,False
+Rayo Vallecano,Sevilla,9.22,12.0,9,12,True,3,False
+Real Betis,Real Madrid,9.98,11.0,10,11,True,1,False
+Atlético Madrid,Athletic Club,10.44,8.0,10,8,False,2,False
+VfB Stuttgart,FC Bayern München,10.72,10.0,11,10,False,1,False
+1. FC Heidenheim,Borussia M'gladbach,8.92,8.0,9,8,False,1,False
+FC St. Pauli,Borussia Dortmund,10.02,8.0,10,8,False,2,False
+RB Leipzig,1. FSV Mainz 05,9.18,8.0,9,8,False,1,False
+SV Werder Bremen,VfL Wolfsburg,10.04,10.0,10,10,True,0,False
+VfL Bochum 1848,TSG Hoffenheim,10.02,13.0,10,13,True,3,False
+Eintracht Frankfurt,Bayer 04 Leverkusen,11.19,8.0,11,8,False,3,False
+AS Monaco,Stade de Reims,9.98,9.0,10,9,False,1,False
+Saint-Étienne,Nice,8.44,7.0,8,7,False,1,False
+RC Lens,Le Havre,10.21,11.0,10,11,True,1,False
+Paris Saint-Germain,Lille,9.78,12.0,10,12,True,2,False
+West Ham United,Leicester City,8.62,6.0,9,6,False,3,False
+Bologna,Milan,11.17,9.0,11,9,False,2,False
+Fiorentina,Lecce,7.67,7.0,8,7,False,1,False
+Real Valladolid,Las Palmas,7.77,17.0,8,17,True,9,True
+VfB Stuttgart,FC Bayern München,10.72,10.0,11,10,False,1,False
+AS Monaco,Stade de Reims,9.98,9.0,10,9,False,1,False
+Brentford,Everton,8.58,7.0,9,7,False,2,False
+Manchester United,Ipswich Town,8.41,11.0,8,11,True,3,False
+Nottingham Forest,Arsenal,9.81,14.0,10,14,True,4,False
+Tottenham Hotspur,Manchester City,11.53,11.0,12,11,False,1,False
+Liverpool,Newcastle United,11.81,6.0,12,6,False,6,True
+West Ham United,Leicester City,8.62,6.0,9,6,False,3,False
+Bologna,Milan,11.17,9.0,11,9,False,2,False
+Brighton & Hove Albion,Bournemouth,9.71,10.0,10,10,True,0,False
+Crystal Palace,Aston Villa,9.81,11.0,10,11,True,1,False
+Wolverhampton,Fulham,9.21,11.0,9,11,True,2,False
+Chelsea,Southampton,9.51,6.0,10,6,False,4,False
+Brentford,Everton,8.58,7.0,9,7,False,2,False
+Manchester United,Ipswich Town,8.41,11.0,8,11,True,3,False
+Nottingham Forest,Arsenal,9.81,14.0,10,14,True,4,False
+Tottenham Hotspur,Manchester City,11.53,11.0,12,11,False,1,False
+Liverpool,Newcastle United,11.81,6.0,12,6,False,6,True
+Brighton & Hove Albion,Bournemouth,9.71,10.0,10,10,True,0,False
+Crystal Palace,Aston Villa,9.81,11.0,10,11,True,1,False
+Wolverhampton,Fulham,9.21,11.0,9,11,True,2,False
+Chelsea,Southampton,9.51,6.0,10,6,False,4,False
+Roma,Monza,9.24,9.0,9,9,True,0,False
+Sevilla,Mallorca,8.42,8.0,8,8,True,0,False
+Newcastle United,Nottingham Forest,9.43,13.0,9,13,True,4,False
+Manchester City,Liverpool,12.26,12.0,12,12,True,0,False
+Como,Napoli,10.24,10.0,10,10,True,0,False
+Hellas Verona,Fiorentina,7.67,5.0,8,5,False,3,False
+Empoli,Atalanta,8.99,7.0,9,7,False,2,False
+Cagliari,Juventus,9.52,7.0,10,7,False,3,False
+Roma,Monza,9.24,9.0,9,9,True,0,False
+Athletic Club,Real Valladolid,9.27,8.0,9,8,False,1,False
+Real Madrid,Girona FC,10.45,16.0,10,16,True,6,True
+Getafe,Real Betis,8.99,7.0,9,7,False,2,False
+Real Sociedad,Leganés,8.38,6.0,8,6,False,2,False
+Sevilla,Mallorca,8.42,8.0,8,8,True,0,False
+RB Leipzig,1. FC Heidenheim,8.99,11.0,9,11,True,2,False
+FC Bayern München,Eintracht Frankfurt,11.19,5.0,11,5,False,6,True
+TSG Hoffenheim,VfB Stuttgart,10.14,12.0,10,12,True,2,False
+Nantes,RC Lens,9.64,13.0,10,13,True,3,False
+Le Havre,Toulouse,9.07,8.0,9,8,False,1,False
+Nice,Montpellier,9.16,13.0,9,13,True,4,False
+RC Strasbourg,Stade Brestois,8.63,9.0,9,9,True,0,False
+Olympique Lyonnais,Paris Saint-Germain,10.89,9.0,11,9,False,2,False
+Everton,Manchester United,8.64,15.0,9,15,True,6,True
+Arsenal,West Ham United,10.6,2.0,11,2,False,9,True
+Bournemouth,Wolverhampton,8.86,13.0,9,13,True,4,False
+Fulham,Crystal Palace,10.11,14.0,10,14,True,4,False
+Ipswich Town,Tottenham Hotspur,9.09,8.0,9,8,False,1,False
+Southampton,Brighton & Hove Albion,8.27,11.0,8,11,True,3,False
+Aston Villa,Chelsea,11.26,5.0,11,5,False,6,True
+Newcastle United,Nottingham Forest,9.43,13.0,9,13,True,4,False
+Manchester City,Liverpool,12.26,12.0,12,12,True,0,False
+Parma,Bologna,9.33,4.0,9,4,False,5,True
+Venezia,Lazio,9.21,12.0,9,12,True,3,False
+Torino,Milan,9.36,15.0,9,15,True,6,True
+Inter,Genoa,9.7,13.0,10,13,True,3,False
+Como,Napoli,10.24,10.0,10,10,True,0,False
+Hellas Verona,Fiorentina,7.67,5.0,8,5,False,3,False
+Empoli,Atalanta,8.99,7.0,9,7,False,2,False
+Cagliari,Juventus,9.52,7.0,10,7,False,3,False
+Deportivo Alavés,Espanyol,8.25,7.0,8,7,False,1,False
+Rayo Vallecano,Villarreal,10.42,8.0,10,8,False,2,False
+Valencia,Atlético Madrid,9.74,7.0,10,7,False,3,False
+Las Palmas,Barcelona,9.51,8.0,10,8,False,2,False
+Athletic Club,Real Valladolid,9.27,8.0,9,8,False,1,False
+Real Madrid,Girona FC,10.45,16.0,10,16,True,6,True
+Getafe,Real Betis,8.99,7.0,9,7,False,2,False
+Real Sociedad,Leganés,8.38,6.0,8,6,False,2,False
+1. FSV Mainz 05,FC St. Pauli,8.74,11.0,9,11,True,2,False
+Borussia M'gladbach,FC Augsburg,8.45,6.0,8,6,False,2,False
+Holstein Kiel,Bayer 04 Leverkusen,9.46,16.0,9,16,True,7,True
+VfL Wolfsburg,VfL Bochum 1848,9.89,8.0,10,8,False,2,False
+Borussia Dortmund,1. FC Union Berlin,10.79,8.0,11,8,False,3,False
+RB Leipzig,1. FC Heidenheim,8.99,11.0,9,11,True,2,False
+FC Bayern München,Eintracht Frankfurt,11.19,5.0,11,5,False,6,True
+TSG Hoffenheim,VfB Stuttgart,10.14,12.0,10,12,True,2,False
+Lille,AS Monaco,9.34,7.0,9,7,False,2,False
+Saint-Étienne,Angers,7.66,7.0,8,7,False,1,False
+Auxerre,Olympique de Marseille,9.68,7.0,10,7,False,3,False
+Nantes,RC Lens,9.64,13.0,10,13,True,3,False
+Le Havre,Toulouse,9.07,8.0,9,8,False,1,False
+Nice,Montpellier,9.16,13.0,9,13,True,4,False
+RC Strasbourg,Stade Brestois,8.63,9.0,9,9,True,0,False
+Olympique Lyonnais,Paris Saint-Germain,10.89,9.0,11,9,False,2,False
+Leicester City,Brentford,8.64,11.0,9,11,True,2,False
+Everton,Manchester United,8.64,15.0,9,15,True,6,True
+Arsenal,West Ham United,10.6,2.0,11,2,False,9,True
+Bournemouth,Wolverhampton,8.86,13.0,9,13,True,4,False
+Fulham,Crystal Palace,10.11,14.0,10,14,True,4,False
+Ipswich Town,Tottenham Hotspur,9.09,8.0,9,8,False,1,False
+Southampton,Brighton & Hove Albion,8.27,11.0,8,11,True,3,False
+Aston Villa,Chelsea,11.26,5.0,11,5,False,6,True
+Lecce,Udinese,8.37,19.0,8,19,True,11,True
+Parma,Bologna,9.33,4.0,9,4,False,5,True
+Venezia,Lazio,9.21,12.0,9,12,True,3,False
+Torino,Milan,9.36,15.0,9,15,True,6,True
+Inter,Genoa,9.7,13.0,10,13,True,3,False
+Como,Napoli,10.24,10.0,10,10,True,0,False
+Celta Vigo,Osasuna,8.35,9.0,8,9,True,1,False
+Deportivo Alavés,Espanyol,8.25,7.0,8,7,False,1,False
+Rayo Vallecano,Villarreal,10.42,8.0,10,8,False,2,False
+Valencia,Atlético Madrid,9.74,7.0,10,7,False,3,False
+Las Palmas,Barcelona,9.51,8.0,10,8,False,2,False
+SC Freiburg,SV Werder Bremen,9.19,10.0,9,10,True,1,False
+1. FSV Mainz 05,FC St. Pauli,8.74,11.0,9,11,True,2,False
+Borussia M'gladbach,FC Augsburg,8.45,6.0,8,6,False,2,False
+Holstein Kiel,Bayer 04 Leverkusen,9.46,16.0,9,16,True,7,True
+VfL Wolfsburg,VfL Bochum 1848,9.89,8.0,10,8,False,2,False
+Borussia Dortmund,1. FC Union Berlin,10.79,8.0,11,8,False,3,False
+Stade Rennais,Stade de Reims,10.01,11.0,10,11,True,1,False
+Lille,AS Monaco,9.34,7.0,9,7,False,2,False
+Saint-Étienne,Angers,7.66,7.0,8,7,False,1,False
+Auxerre,Olympique de Marseille,9.68,7.0,10,7,False,3,False
+Leicester City,Brentford,8.64,11.0,9,11,True,2,False
+Lecce,Udinese,8.37,19.0,8,19,True,11,True
+Celta Vigo,Osasuna,8.35,9.0,8,9,True,1,False
+SC Freiburg,SV Werder Bremen,9.19,10.0,9,10,True,1,False
+Stade Rennais,Stade de Reims,10.01,11.0,10,11,True,1,False
+Aston Villa,Liverpool,11.33,14.0,11,14,True,3,False
+Aston Villa,Liverpool,11.33,14.0,11,14,True,3,False
+Genoa,Venezia,7.77,9.0,8,9,True,1,False
+Barcelona,Rayo Vallecano,11.22,9.0,11,9,False,2,False
+Liverpool,Wolverhampton,9.51,7.0,10,7,False,3,False
+Tottenham Hotspur,Manchester United,10.34,15.0,10,15,True,5,True
+Fiorentina,Como,8.25,3.0,8,3,False,5,True
+Monza,Lecce,7.94,10.0,8,10,True,2,False
+Udinese,Empoli,8.37,14.0,8,14,True,6,True
+Parma,Roma,9.2,11.0,9,11,True,2,False
+Juventus,Inter,11.56,12.0,12,12,True,0,False
+Genoa,Venezia,7.77,9.0,8,9,True,1,False
+Espanyol,Athletic Club,9.21,9.0,9,9,True,0,False
+Real Valladolid,Sevilla,8.1,5.0,8,5,False,3,False
+Mallorca,Las Palmas,8.2,8.0,8,8,True,0,False
+Real Betis,Real Sociedad,9.25,10.0,9,10,True,1,False
+Barcelona,Rayo Vallecano,11.22,9.0,11,9,False,2,False
+SV Werder Bremen,TSG Hoffenheim,10.14,10.0,10,10,True,0,False
+Eintracht Frankfurt,Holstein Kiel,8.7,10.0,9,10,True,1,False
+1. FC Heidenheim,1. FSV Mainz 05,9.13,12.0,9,12,True,3,False
+Montpellier,Olympique Lyonnais,9.46,11.0,9,11,True,2,False
+Le Havre,Nice,9.02,8.0,9,8,False,1,False
+RC Lens,RC Strasbourg,9.6,10.0,10,10,True,0,False
+Stade de Reims,Angers,8.6,5.0,9,5,False,4,False
+Stade Rennais,Lille,9.59,12.0,10,12,True,2,False
+Leicester City,Arsenal,9.76,10.0,10,10,True,0,False
+Aston Villa,Ipswich Town,9.0,17.0,9,17,True,8,True
+Fulham,Nottingham Forest,9.56,12.0,10,12,True,2,False
+Manchester City,Newcastle United,11.81,11.0,12,11,False,1,False
+Southampton,Bournemouth,8.86,10.0,9,10,True,1,False
+West Ham United,Brentford,8.99,11.0,9,11,True,2,False
+Crystal Palace,Everton,8.74,8.0,9,8,False,1,False
+Liverpool,Wolverhampton,9.51,7.0,10,7,False,3,False
+Tottenham Hotspur,Manchester United,10.34,15.0,10,15,True,5,True
+Atalanta,Cagliari,9.48,10.0,9,10,True,1,False
+Lazio,Napoli,11.69,8.0,12,8,False,4,False
+Milan,Hellas Verona,9.2,17.0,9,17,True,8,True
+Fiorentina,Como,8.25,3.0,8,3,False,5,True
+Monza,Lecce,7.94,10.0,8,10,True,2,False
+Udinese,Empoli,8.37,14.0,8,14,True,6,True
+Parma,Roma,9.2,11.0,9,11,True,2,False
+Juventus,Inter,11.56,12.0,12,12,True,0,False
+Leganés,Deportivo Alavés,8.25,5.0,8,5,False,3,False
+Osasuna,Real Madrid,9.84,8.0,10,8,False,2,False
+Atlético Madrid,Celta Vigo,8.96,9.0,9,9,True,0,False
+Villarreal,Valencia,10.0,9.0,10,9,False,1,False
+Espanyol,Athletic Club,9.21,9.0,9,9,True,0,False
+Real Valladolid,Sevilla,8.1,5.0,8,5,False,3,False
+Mallorca,Las Palmas,8.2,8.0,8,8,True,0,False
+Real Betis,Real Sociedad,9.25,10.0,9,10,True,1,False
+1. FC Union Berlin,Borussia M'gladbach,9.26,9.0,9,9,True,0,False
+FC St. Pauli,SC Freiburg,8.42,8.0,8,8,True,0,False
+VfB Stuttgart,VfL Wolfsburg,9.83,12.0,10,12,True,2,False
+VfL Bochum 1848,Borussia Dortmund,10.93,10.0,11,10,False,1,False
+Bayer 04 Leverkusen,FC Bayern München,12.26,6.0,12,6,False,6,True
+SV Werder Bremen,TSG Hoffenheim,10.14,10.0,10,10,True,0,False
+Eintracht Frankfurt,Holstein Kiel,8.7,10.0,9,10,True,1,False
+1. FC Heidenheim,1. FSV Mainz 05,9.13,12.0,9,12,True,3,False
+Olympique de Marseille,Saint-Étienne,9.51,17.0,10,17,True,7,True
+AS Monaco,Nantes,8.99,10.0,9,10,True,1,False
+Toulouse,Paris Saint-Germain,10.37,7.0,10,7,False,3,False
+Montpellier,Olympique Lyonnais,9.46,11.0,9,11,True,2,False
+Le Havre,Nice,9.02,8.0,9,8,False,1,False
+RC Lens,RC Strasbourg,9.6,10.0,10,10,True,0,False
+Stade de Reims,Angers,8.6,5.0,9,5,False,4,False
+Stade Rennais,Lille,9.59,12.0,10,12,True,2,False
+Brighton & Hove Albion,Chelsea,10.41,11.0,10,11,True,1,False
+Leicester City,Arsenal,9.76,10.0,10,10,True,0,False
+Aston Villa,Ipswich Town,9.0,17.0,9,17,True,8,True
+Fulham,Nottingham Forest,9.56,12.0,10,12,True,2,False
+Manchester City,Newcastle United,11.81,11.0,12,11,False,1,False
+Southampton,Bournemouth,8.86,10.0,9,10,True,1,False
+West Ham United,Brentford,8.99,11.0,9,11,True,2,False
+Crystal Palace,Everton,8.74,8.0,9,8,False,1,False
+Bologna,Torino,9.29,10.0,9,10,True,1,False
+Atalanta,Cagliari,9.48,10.0,9,10,True,1,False
+Lazio,Napoli,11.69,8.0,12,8,False,4,False
+Milan,Hellas Verona,9.2,17.0,9,17,True,8,True
+Fiorentina,Como,8.25,3.0,8,3,False,5,True
+Girona FC,Getafe,9.28,6.0,9,6,False,3,False
+Leganés,Deportivo Alavés,8.25,5.0,8,5,False,3,False
+Osasuna,Real Madrid,9.84,8.0,10,8,False,2,False
+Atlético Madrid,Celta Vigo,8.96,9.0,9,9,True,0,False
+Villarreal,Valencia,10.0,9.0,10,9,False,1,False
+FC Augsburg,RB Leipzig,8.37,17.0,8,17,True,9,True
+1. FC Union Berlin,Borussia M'gladbach,9.26,9.0,9,9,True,0,False
+FC St. Pauli,SC Freiburg,8.42,8.0,8,8,True,0,False
+VfB Stuttgart,VfL Wolfsburg,9.83,12.0,10,12,True,2,False
+VfL Bochum 1848,Borussia Dortmund,10.93,10.0,11,10,False,1,False
+Bayer 04 Leverkusen,FC Bayern München,12.26,6.0,12,6,False,6,True
+Stade Brestois,Auxerre,8.82,10.0,9,10,True,1,False
+Olympique de Marseille,Saint-Étienne,9.51,17.0,10,17,True,7,True
+AS Monaco,Nantes,8.99,10.0,9,10,True,1,False
+Toulouse,Paris Saint-Germain,10.37,7.0,10,7,False,3,False
+Brighton & Hove Albion,Chelsea,10.41,11.0,10,11,True,1,False
+Bologna,Torino,9.29,10.0,9,10,True,1,False
+Girona FC,Getafe,9.28,6.0,9,6,False,3,False
+FC Augsburg,RB Leipzig,8.37,17.0,8,17,True,9,True
+Stade Brestois,Auxerre,8.82,10.0,9,10,True,1,False
+Everton,Liverpool,9.7,5.0,10,5,False,5,True
+Everton,Liverpool,9.7,5.0,10,5,False,5,True
+Inter,Fiorentina,9.61,9.0,10,9,False,1,False
+Mallorca,Osasuna,8.66,18.0,9,18,True,9,True
+Venezia,Roma,8.65,10.0,9,10,True,1,False
+Cagliari,Parma,8.34,13.0,8,13,True,5,True
+Lazio,Monza,9.69,9.0,10,9,False,1,False
+Lecce,Bologna,9.01,11.0,9,11,True,2,False
+Napoli,Udinese,10.27,12.0,10,12,True,2,False
+Inter,Fiorentina,9.61,9.0,10,9,False,1,False
+Deportivo Alavés,Getafe,8.83,11.0,9,11,True,2,False
+Valencia,Leganés,8.5,12.0,8,12,True,4,False
+Real Sociedad,Espanyol,8.38,6.0,8,6,False,2,False
+Sevilla,Barcelona,9.82,11.0,10,11,True,1,False
+Mallorca,Osasuna,8.66,18.0,9,18,True,9,True
+Holstein Kiel,VfL Bochum 1848,8.58,8.0,9,8,False,1,False
+RB Leipzig,FC St. Pauli,8.74,9.0,9,9,True,0,False
+Olympique Lyonnais,Stade de Reims,9.84,12.0,10,12,True,2,False
+Auxerre,Toulouse,8.82,8.0,9,8,False,1,False
+RC Strasbourg,Montpellier,8.49,8.0,8,8,True,0,False
+Angers,Olympique de Marseille,9.53,8.0,10,8,False,2,False
+Hellas Verona,Atalanta,8.99,9.0,9,9,True,0,False
+Empoli,Milan,9.2,8.0,9,8,False,1,False
+Torino,Genoa,8.05,6.0,8,6,False,2,False
+Venezia,Roma,8.65,10.0,9,10,True,1,False
+Cagliari,Parma,8.34,13.0,8,13,True,5,True
+Lazio,Monza,9.69,9.0,10,9,False,1,False
+Lecce,Bologna,9.01,11.0,9,11,True,2,False
+Napoli,Udinese,10.27,12.0,10,12,True,2,False
+Celta Vigo,Real Betis,8.59,11.0,9,11,True,2,False
+Athletic Club,Girona FC,10.49,13.0,10,13,True,3,False
+Las Palmas,Villarreal,9.01,11.0,9,11,True,2,False
+Real Madrid,Atlético Madrid,10.3,7.0,10,7,False,3,False
+Deportivo Alavés,Getafe,8.83,11.0,9,11,True,2,False
+Valencia,Leganés,8.5,12.0,8,12,True,4,False
+Real Sociedad,Espanyol,8.38,6.0,8,6,False,2,False
+Sevilla,Barcelona,9.82,11.0,10,11,True,1,False
+1. FSV Mainz 05,FC Augsburg,8.37,4.0,8,4,False,4,False
+Borussia Dortmund,VfB Stuttgart,10.72,13.0,11,13,True,2,False
+SC Freiburg,1. FC Heidenheim,8.62,9.0,9,9,True,0,False
+TSG Hoffenheim,1. FC Union Berlin,10.02,12.0,10,12,True,2,False
+VfL Wolfsburg,Bayer 04 Leverkusen,10.8,12.0,11,12,True,1,False
+Borussia M'gladbach,Eintracht Frankfurt,9.06,7.0,9,7,False,2,False
+Holstein Kiel,VfL Bochum 1848,8.58,8.0,9,8,False,1,False
+RB Leipzig,FC St. Pauli,8.74,9.0,9,9,True,0,False
+Nice,RC Lens,10.47,10.0,10,10,True,0,False
+Lille,Le Havre,8.72,18.0,9,18,True,9,True
+Saint-Étienne,Stade Rennais,8.93,6.0,9,6,False,3,False
+Olympique Lyonnais,Stade de Reims,9.84,12.0,10,12,True,2,False
+Auxerre,Toulouse,8.82,8.0,9,8,False,1,False
+RC Strasbourg,Montpellier,8.49,8.0,8,8,True,0,False
+Angers,Olympique de Marseille,9.53,8.0,10,8,False,2,False
+Como,Juventus,9.77,10.0,10,10,True,0,False
+Hellas Verona,Atalanta,8.99,9.0,9,9,True,0,False
+Empoli,Milan,9.2,8.0,9,8,False,1,False
+Torino,Genoa,8.05,6.0,8,6,False,2,False
+Venezia,Roma,8.65,10.0,9,10,True,1,False
+Rayo Vallecano,Real Valladolid,8.88,6.0,9,6,False,3,False
+Celta Vigo,Real Betis,8.59,11.0,9,11,True,2,False
+Athletic Club,Girona FC,10.49,13.0,10,13,True,3,False
+Las Palmas,Villarreal,9.01,11.0,9,11,True,2,False
+Real Madrid,Atlético Madrid,10.3,7.0,10,7,False,3,False
+FC Bayern München,SV Werder Bremen,11.1,7.0,11,7,False,4,False
+1. FSV Mainz 05,FC Augsburg,8.37,4.0,8,4,False,4,False
+Borussia Dortmund,VfB Stuttgart,10.72,13.0,11,13,True,2,False
+SC Freiburg,1. FC Heidenheim,8.62,9.0,9,9,True,0,False
+TSG Hoffenheim,1. FC Union Berlin,10.02,12.0,10,12,True,2,False
+VfL Wolfsburg,Bayer 04 Leverkusen,10.8,12.0,11,12,True,1,False
+Borussia M'gladbach,Eintracht Frankfurt,9.06,7.0,9,7,False,2,False
+Nantes,Stade Brestois,8.8,16.0,9,16,True,7,True
+Paris Saint-Germain,AS Monaco,11.02,2.0,11,2,False,9,True
+Nice,RC Lens,10.47,10.0,10,10,True,0,False
+Lille,Le Havre,8.72,18.0,9,18,True,9,True
+Saint-Étienne,Stade Rennais,8.93,6.0,9,6,False,3,False
+Fiorentina,Inter,9.61,9.0,10,9,False,1,False
+Como,Juventus,9.77,10.0,10,10,True,0,False
+Rayo Vallecano,Real Valladolid,8.88,6.0,9,6,False,3,False
+FC Bayern München,SV Werder Bremen,11.1,7.0,11,7,False,4,False
+Nantes,Stade Brestois,8.8,16.0,9,16,True,7,True
+Paris Saint-Germain,AS Monaco,11.02,2.0,11,2,False,9,True
+Fiorentina,Inter,9.61,9.0,10,9,False,1,False
+Chelsea,West Ham United,10.47,7.0,10,7,False,3,False
+Cagliari,Lazio,9.77,14.0,10,14,True,4,False
+Girona FC,Las Palmas,8.74,14.0,9,14,True,5,True
+Brentford,Tottenham Hotspur,9.84,13.0,10,13,True,3,False
+Manchester United,Crystal Palace,9.21,11.0,9,11,True,2,False
+Arsenal,Manchester City,12.26,7.0,12,7,False,5,True
+Chelsea,West Ham United,10.47,7.0,10,7,False,3,False
+Juventus,Empoli,9.02,14.0,9,14,True,5,True
+Fiorentina,Genoa,8.17,9.0,8,9,True,1,False
+Milan,Inter,11.95,19.0,12,19,True,7,True
+Roma,Napoli,11.51,5.0,12,5,False,7,True
+Cagliari,Lazio,9.77,14.0,10,14,True,4,False
+Barcelona,Deportivo Alavés,10.36,7.0,10,7,False,3,False
+Valencia,Celta Vigo,8.68,7.0,9,7,False,2,False
+Osasuna,Real Sociedad,9.01,8.0,9,8,False,1,False
+Real Betis,Athletic Club,10.05,10.0,10,10,True,0,False
+Girona FC,Las Palmas,8.74,14.0,9,14,True,5,True
+Eintracht Frankfurt,VfL Wolfsburg,9.82,10.0,10,10,True,0,False
+Bayer 04 Leverkusen,TSG Hoffenheim,11.26,6.0,11,6,False,5,True
+Toulouse,Nice,9.3,9.0,9,9,True,0,False
+Angers,Le Havre,8.23,6.0,8,6,False,2,False
+Stade Rennais,RC Strasbourg,9.19,8.0,9,8,False,1,False
+Stade de Reims,Nantes,8.65,12.0,9,12,True,3,False
+Olympique de Marseille,Olympique Lyonnais,10.89,8.0,11,8,False,3,False
+Nottingham Forest,Brighton & Hove Albion,8.75,10.0,9,10,True,1,False
+Bournemouth,Liverpool,11.47,6.0,11,6,False,5,True
+Everton,Leicester City,8.29,11.0,8,11,True,3,False
+Ipswich Town,Southampton,7.6,3.0,8,3,False,5,True
+Newcastle United,Fulham,11.2,10.0,11,10,False,1,False
+Wolverhampton,Aston Villa,9.05,13.0,9,13,True,4,False
+Brentford,Tottenham Hotspur,9.84,13.0,10,13,True,3,False
+Manchester United,Crystal Palace,9.21,11.0,9,11,True,2,False
+Arsenal,Manchester City,12.26,7.0,12,7,False,5,True
+Monza,Hellas Verona,7.94,10.0,8,10,True,2,False
+Udinese,Venezia,8.37,10.0,8,10,True,2,False
+Atalanta,Torino,9.14,8.0,9,8,False,1,False
+Bologna,Como,9.69,6.0,10,6,False,4,False
+Juventus,Empoli,9.02,14.0,9,14,True,5,True
+Fiorentina,Genoa,8.17,9.0,8,9,True,1,False
+Milan,Inter,11.95,19.0,12,19,True,7,True
+Roma,Napoli,11.51,5.0,12,5,False,7,True
+Getafe,Sevilla,8.5,11.0,8,11,True,3,False
+Villarreal,Real Valladolid,9.02,9.0,9,9,True,0,False
+Atlético Madrid,Mallorca,9.28,14.0,9,14,True,5,True
+Espanyol,Real Madrid,9.14,9.0,9,9,True,0,False
+Barcelona,Deportivo Alavés,10.36,7.0,10,7,False,3,False
+Valencia,Celta Vigo,8.68,7.0,9,7,False,2,False
+Osasuna,Real Sociedad,9.01,8.0,9,8,False,1,False
+Real Betis,Athletic Club,10.05,10.0,10,10,True,0,False
+1. FC Heidenheim,Borussia Dortmund,10.22,9.0,10,9,False,1,False
+FC Bayern München,Holstein Kiel,9.46,13.0,9,13,True,4,False
+FC St. Pauli,FC Augsburg,8.27,4.0,8,4,False,4,False
+VfB Stuttgart,Borussia M'gladbach,9.67,2.0,10,2,False,8,True
+VfL Bochum 1848,SC Freiburg,9.01,16.0,9,16,True,7,True
+1. FC Union Berlin,RB Leipzig,9.33,9.0,9,9,True,0,False
+Eintracht Frankfurt,VfL Wolfsburg,9.82,10.0,10,10,True,0,False
+Bayer 04 Leverkusen,TSG Hoffenheim,11.26,6.0,11,6,False,5,True
+Stade Brestois,Paris Saint-Germain,10.73,11.0,11,11,True,0,False
+AS Monaco,Auxerre,9.03,9.0,9,9,True,0,False
+Lille,Saint-Étienne,7.95,8.0,8,8,True,0,False
+Toulouse,Nice,9.3,9.0,9,9,True,0,False
+Angers,Le Havre,8.23,6.0,8,6,False,2,False
+Stade Rennais,RC Strasbourg,9.19,8.0,9,8,False,1,False
+Stade de Reims,Nantes,8.65,12.0,9,12,True,3,False
+Olympique de Marseille,Olympique Lyonnais,10.89,8.0,11,8,False,3,False
+Nottingham Forest,Brighton & Hove Albion,8.75,10.0,9,10,True,1,False
+Bournemouth,Liverpool,11.47,6.0,11,6,False,5,True
+Everton,Leicester City,8.29,11.0,8,11,True,3,False
+Ipswich Town,Southampton,7.6,3.0,8,3,False,5,True
+Newcastle United,Fulham,11.2,10.0,11,10,False,1,False
+Wolverhampton,Aston Villa,9.05,13.0,9,13,True,4,False
+Parma,Lecce,7.85,5.0,8,5,False,3,False
+Monza,Hellas Verona,7.94,10.0,8,10,True,2,False
+Udinese,Venezia,8.37,10.0,8,10,True,2,False
+Atalanta,Torino,9.14,8.0,9,8,False,1,False
+Bologna,Como,9.69,6.0,10,6,False,4,False
+Juventus,Empoli,9.02,14.0,9,14,True,5,True
+Leganés,Rayo Vallecano,8.83,11.0,9,11,True,2,False
+Getafe,Sevilla,8.5,11.0,8,11,True,3,False
+Villarreal,Real Valladolid,9.02,9.0,9,9,True,0,False
+Atlético Madrid,Mallorca,9.28,14.0,9,14,True,5,True
+Espanyol,Real Madrid,9.14,9.0,9,9,True,0,False
+SV Werder Bremen,1. FSV Mainz 05,9.59,11.0,10,11,True,1,False
+1. FC Heidenheim,Borussia Dortmund,10.22,9.0,10,9,False,1,False
+FC Bayern München,Holstein Kiel,9.46,13.0,9,13,True,4,False
+FC St. Pauli,FC Augsburg,8.27,4.0,8,4,False,4,False
+VfB Stuttgart,Borussia M'gladbach,9.67,2.0,10,2,False,8,True
+VfL Bochum 1848,SC Freiburg,9.01,16.0,9,16,True,7,True
+1. FC Union Berlin,RB Leipzig,9.33,9.0,9,9,True,0,False
+Montpellier,RC Lens,10.29,9.0,10,9,False,1,False
+Stade Brestois,Paris Saint-Germain,10.73,11.0,11,11,True,0,False
+AS Monaco,Auxerre,9.03,9.0,9,9,True,0,False
+Lille,Saint-Étienne,7.95,8.0,8,8,True,0,False
+Parma,Lecce,7.85,5.0,8,5,False,3,False
+Leganés,Rayo Vallecano,8.83,11.0,9,11,True,2,False
+SV Werder Bremen,1. FSV Mainz 05,9.59,11.0,10,11,True,1,False
+Montpellier,RC Lens,10.29,9.0,10,9,False,1,False
+Venezia,Hellas Verona,7.56,16.0,8,16,True,8,True
+Genoa,Monza,8.43,15.0,8,15,True,7,True
+Deportivo Alavés,Celta Vigo,8.42,7.0,8,7,False,1,False
+Crystal Palace,Brentford,8.93,11.0,9,11,True,2,False
+Tottenham Hotspur,Leicester City,9.37,10.0,9,10,True,1,False
+Aston Villa,West Ham United,9.64,7.0,10,7,False,3,False
+Fulham,Manchester United,10.42,3.0,10,3,False,7,True
+Milan,Parma,9.46,11.0,9,11,True,2,False
+Udinese,Roma,9.75,6.0,10,6,False,4,False
+Lecce,Inter,9.46,7.0,9,7,False,2,False
+Lazio,Fiorentina,9.35,16.0,9,16,True,7,True
+Venezia,Hellas Verona,7.56,16.0,8,16,True,8,True
+Genoa,Monza,8.43,15.0,8,15,True,7,True
+Rayo Vallecano,Girona FC,10.06,5.0,10,5,False,5,True
+Real Sociedad,Getafe,8.96,7.0,9,7,False,2,False
+Athletic Club,Leganés,9.21,17.0,9,17,True,8,True
+Barcelona,Valencia,10.63,18.0,11,18,True,7,True
+Deportivo Alavés,Celta Vigo,8.42,7.0,8,7,False,1,False
+TSG Hoffenheim,Eintracht Frankfurt,10.42,12.0,10,12,True,2,False
+FC St. Pauli,1. FC Union Berlin,8.96,12.0,9,12,True,3,False
+Le Havre,Stade Brestois,9.07,12.0,9,12,True,3,False
+Nantes,Olympique Lyonnais,8.94,12.0,9,12,True,3,False
+RC Lens,Angers,9.47,8.0,9,8,False,1,False
+Toulouse,Montpellier,9.22,8.0,9,8,False,1,False
+Nice,Olympique de Marseille,10.53,18.0,11,18,True,7,True
+Bournemouth,Nottingham Forest,9.02,12.0,9,12,True,3,False
+Brighton & Hove Albion,Everton,8.79,10.0,9,10,True,1,False
+Liverpool,Ipswich Town,9.46,7.0,9,7,False,2,False
+Southampton,Newcastle United,9.14,11.0,9,11,True,2,False
+Wolverhampton,Arsenal,9.51,6.0,10,6,False,4,False
+Manchester City,Chelsea,12.1,5.0,12,5,False,7,True
+Crystal Palace,Brentford,8.93,11.0,9,11,True,2,False
+Tottenham Hotspur,Leicester City,9.37,10.0,9,10,True,1,False
+Aston Villa,West Ham United,9.64,7.0,10,7,False,3,False
+Fulham,Manchester United,10.42,3.0,10,3,False,7,True
+Como,Atalanta,9.58,9.0,10,9,False,1,False
+Napoli,Juventus,11.56,10.0,12,10,False,2,False
+Empoli,Bologna,9.01,6.0,9,6,False,3,False
+Milan,Parma,9.46,11.0,9,11,True,2,False
+Udinese,Roma,9.75,6.0,10,6,False,4,False
+Lecce,Inter,9.46,7.0,9,7,False,2,False
+Lazio,Fiorentina,9.35,16.0,9,16,True,7,True
+Mallorca,Real Betis,8.9,8.0,9,8,False,1,False
+Atlético Madrid,Villarreal,10.18,11.0,10,11,True,1,False
+Sevilla,Espanyol,7.93,6.0,8,6,False,2,False
+Real Valladolid,Real Madrid,9.2,8.0,9,8,False,1,False
+Rayo Vallecano,Girona FC,10.06,5.0,10,5,False,5,True
+Real Sociedad,Getafe,8.96,7.0,9,7,False,2,False
+Athletic Club,Leganés,9.21,17.0,9,17,True,8,True
+Barcelona,Valencia,10.63,18.0,11,18,True,7,True
+1. FSV Mainz 05,VfB Stuttgart,9.59,11.0,10,11,True,1,False
+Borussia Dortmund,SV Werder Bremen,11.1,10.0,11,10,False,1,False
+FC Augsburg,1. FC Heidenheim,8.32,10.0,8,10,True,2,False
+RB Leipzig,Bayer 04 Leverkusen,9.98,10.0,10,10,True,0,False
+SC Freiburg,FC Bayern München,9.86,6.0,10,6,False,4,False
+Borussia M'gladbach,VfL Bochum 1848,9.41,15.0,9,15,True,6,True
+TSG Hoffenheim,Eintracht Frankfurt,10.42,12.0,10,12,True,2,False
+FC St. Pauli,1. FC Union Berlin,8.96,12.0,9,12,True,3,False
+AS Monaco,Stade Rennais,10.29,6.0,10,6,False,4,False
+RC Strasbourg,Lille,8.27,13.0,8,13,True,5,True
+Paris Saint-Germain,Stade de Reims,10.76,9.0,11,9,False,2,False
+Le Havre,Stade Brestois,9.07,12.0,9,12,True,3,False
+Nantes,Olympique Lyonnais,8.94,12.0,9,12,True,3,False
+RC Lens,Angers,9.47,8.0,9,8,False,1,False
+Toulouse,Montpellier,9.22,8.0,9,8,False,1,False
+Nice,Olympique de Marseille,10.53,18.0,11,18,True,7,True
+Bournemouth,Nottingham Forest,9.02,12.0,9,12,True,3,False
+Brighton & Hove Albion,Everton,8.79,10.0,9,10,True,1,False
+Liverpool,Ipswich Town,9.46,7.0,9,7,False,2,False
+Southampton,Newcastle United,9.14,11.0,9,11,True,2,False
+Wolverhampton,Arsenal,9.51,6.0,10,6,False,4,False
+Manchester City,Chelsea,12.1,5.0,12,5,False,7,True
+Torino,Cagliari,8.19,9.0,8,9,True,1,False
+Como,Atalanta,9.58,9.0,10,9,False,1,False
+Napoli,Juventus,11.56,10.0,12,10,False,2,False
+Empoli,Bologna,9.01,6.0,9,6,False,3,False
+Milan,Parma,9.46,11.0,9,11,True,2,False
+Las Palmas,Osasuna,8.22,6.0,8,6,False,2,False
+Mallorca,Real Betis,8.9,8.0,9,8,False,1,False
+Atlético Madrid,Villarreal,10.18,11.0,10,11,True,1,False
+Sevilla,Espanyol,7.93,6.0,8,6,False,2,False
+Real Valladolid,Real Madrid,9.2,8.0,9,8,False,1,False
+VfL Wolfsburg,Holstein Kiel,8.7,13.0,9,13,True,4,False
+1. FSV Mainz 05,VfB Stuttgart,9.59,11.0,10,11,True,1,False
+Borussia Dortmund,SV Werder Bremen,11.1,10.0,11,10,False,1,False
+FC Augsburg,1. FC Heidenheim,8.32,10.0,8,10,True,2,False
+RB Leipzig,Bayer 04 Leverkusen,9.98,10.0,10,10,True,0,False
+SC Freiburg,FC Bayern München,9.86,6.0,10,6,False,4,False
+Borussia M'gladbach,VfL Bochum 1848,9.41,15.0,9,15,True,6,True
+Auxerre,Saint-Étienne,7.85,7.0,8,7,False,1,False
+AS Monaco,Stade Rennais,10.29,6.0,10,6,False,4,False
+RC Strasbourg,Lille,8.27,13.0,8,13,True,5,True
+Paris Saint-Germain,Stade de Reims,10.76,9.0,11,9,False,2,False
+Torino,Cagliari,8.19,9.0,8,9,True,1,False
+Las Palmas,Osasuna,8.22,6.0,8,6,False,2,False
+VfL Wolfsburg,Holstein Kiel,8.7,13.0,9,13,True,4,False
+Auxerre,Saint-Étienne,7.85,7.0,8,7,False,1,False
+Chelsea,Wolverhampton,9.51,9.0,10,9,False,1,False
+Como,Udinese,8.95,5.0,9,5,False,4,False
+Villarreal,Mallorca,9.39,11.0,9,11,True,2,False
+Everton,Tottenham Hotspur,9.31,11.0,9,11,True,2,False
+Manchester United,Brighton & Hove Albion,9.26,6.0,9,6,False,3,False
+Nottingham Forest,Southampton,7.85,10.0,8,10,True,2,False
+Ipswich Town,Manchester City,9.46,11.0,9,11,True,2,False
+Chelsea,Wolverhampton,9.51,9.0,10,9,False,1,False
+Fiorentina,Torino,7.94,11.0,8,11,True,3,False
+Cagliari,Lecce,8.04,7.0,8,7,False,1,False
+Parma,Venezia,7.85,10.0,8,10,True,2,False
+Hellas Verona,Lazio,9.21,11.0,9,11,True,2,False
+Inter,Empoli,9.46,10.0,9,10,True,1,False
+Como,Udinese,8.95,5.0,9,5,False,4,False
+Celta Vigo,Athletic Club,9.4,7.0,9,7,False,2,False
+Real Madrid,Las Palmas,9.19,10.0,9,10,True,1,False
+Osasuna,Rayo Vallecano,9.5,9.0,10,9,False,1,False
+Valencia,Real Sociedad,9.34,11.0,9,11,True,2,False
+Villarreal,Mallorca,9.39,11.0,9,11,True,2,False
+1. FC Union Berlin,1. FSV Mainz 05,9.33,4.0,9,4,False,5,True
+SV Werder Bremen,FC Augsburg,8.77,8.0,9,8,False,1,False
+Saint-Étienne,Nantes,7.7,14.0,8,14,True,6,True
+Angers,Auxerre,7.86,6.0,8,6,False,2,False
+Stade de Reims,Le Havre,9.1,12.0,9,12,True,3,False
+Olympique de Marseille,RC Strasbourg,9.66,12.0,10,12,True,2,False
+Newcastle United,Bournemouth,10.89,13.0,11,13,True,2,False
+Brentford,Liverpool,10.27,17.0,10,17,True,7,True
+Leicester City,Fulham,9.45,7.0,9,7,False,2,False
+West Ham United,Crystal Palace,9.13,6.0,9,6,False,3,False
+Arsenal,Aston Villa,11.58,11.0,12,11,False,1,False
+Everton,Tottenham Hotspur,9.31,11.0,9,11,True,2,False
+Manchester United,Brighton & Hove Albion,9.26,6.0,9,6,False,3,False
+Nottingham Forest,Southampton,7.85,10.0,8,10,True,2,False
+Ipswich Town,Manchester City,9.46,11.0,9,11,True,2,False
+Bologna,Monza,9.49,4.0,9,4,False,5,True
+Juventus,Milan,11.26,10.0,11,10,False,1,False
+Atalanta,Napoli,11.36,4.0,11,4,False,7,True
+Fiorentina,Torino,7.94,11.0,8,11,True,3,False
+Cagliari,Lecce,8.04,7.0,8,7,False,1,False
+Parma,Venezia,7.85,10.0,8,10,True,2,False
+Hellas Verona,Lazio,9.21,11.0,9,11,True,2,False
+Inter,Empoli,9.46,10.0,9,10,True,1,False
+Girona FC,Sevilla,9.08,11.0,9,11,True,2,False
+Leganés,Atlético Madrid,8.78,11.0,9,11,True,2,False
+Real Betis,Deportivo Alavés,9.12,5.0,9,5,False,4,False
+Getafe,Barcelona,10.08,12.0,10,12,True,2,False
+Celta Vigo,Athletic Club,9.4,7.0,9,7,False,2,False
+Real Madrid,Las Palmas,9.19,10.0,9,10,True,1,False
+Osasuna,Rayo Vallecano,9.5,9.0,10,9,False,1,False
+Valencia,Real Sociedad,9.34,11.0,9,11,True,2,False
+1. FC Heidenheim,FC St. Pauli,8.69,8.0,9,8,False,1,False
+FC Bayern München,VfL Wolfsburg,11.11,8.0,11,8,False,3,False
+Holstein Kiel,TSG Hoffenheim,8.9,7.0,9,7,False,2,False
+VfB Stuttgart,SC Freiburg,9.19,5.0,9,5,False,4,False
+VfL Bochum 1848,RB Leipzig,9.33,9.0,9,9,True,0,False
+Bayer 04 Leverkusen,Borussia M'gladbach,10.06,13.0,10,13,True,3,False
+1. FC Union Berlin,1. FSV Mainz 05,9.33,4.0,9,4,False,5,True
+SV Werder Bremen,FC Augsburg,8.77,8.0,9,8,False,1,False
+RC Lens,Paris Saint-Germain,12.19,7.0,12,7,False,5,True
+Stade Rennais,Stade Brestois,10.0,8.0,10,8,False,2,False
+Olympique Lyonnais,Toulouse,9.63,13.0,10,13,True,3,False
+Saint-Étienne,Nantes,7.7,14.0,8,14,True,6,True
+Angers,Auxerre,7.86,6.0,8,6,False,2,False
+Stade de Reims,Le Havre,9.1,12.0,9,12,True,3,False
+Olympique de Marseille,RC Strasbourg,9.66,12.0,10,12,True,2,False
+Newcastle United,Bournemouth,10.89,13.0,11,13,True,2,False
+Brentford,Liverpool,10.27,17.0,10,17,True,7,True
+Leicester City,Fulham,9.45,7.0,9,7,False,2,False
+West Ham United,Crystal Palace,9.13,6.0,9,6,False,3,False
+Arsenal,Aston Villa,11.58,11.0,12,11,False,1,False
+Roma,Genoa,9.18,5.0,9,5,False,4,False
+Bologna,Monza,9.49,4.0,9,4,False,5,True
+Juventus,Milan,11.26,10.0,11,10,False,1,False
+Atalanta,Napoli,11.36,4.0,11,4,False,7,True
+Fiorentina,Torino,7.94,11.0,8,11,True,3,False
+Espanyol,Real Valladolid,7.61,8.0,8,8,True,0,False
+Girona FC,Sevilla,9.08,11.0,9,11,True,2,False
+Leganés,Atlético Madrid,8.78,11.0,9,11,True,2,False
+Real Betis,Deportivo Alavés,9.12,5.0,9,5,False,4,False
+Getafe,Barcelona,10.08,12.0,10,12,True,2,False
+Eintracht Frankfurt,Borussia Dortmund,11.19,12.0,11,12,True,1,False
+1. FC Heidenheim,FC St. Pauli,8.69,8.0,9,8,False,1,False
+FC Bayern München,VfL Wolfsburg,11.11,8.0,11,8,False,3,False
+Holstein Kiel,TSG Hoffenheim,8.9,7.0,9,7,False,2,False
+VfB Stuttgart,SC Freiburg,9.19,5.0,9,5,False,4,False
+VfL Bochum 1848,RB Leipzig,9.33,9.0,9,9,True,0,False
+Bayer 04 Leverkusen,Borussia M'gladbach,10.06,13.0,10,13,True,3,False
+Montpellier,AS Monaco,9.61,20.0,10,20,True,10,True
+Lille,Nice,8.75,14.0,9,14,True,5,True
+RC Lens,Paris Saint-Germain,12.19,7.0,12,7,False,5,True
+Stade Rennais,Stade Brestois,10.0,8.0,10,8,False,2,False
+Olympique Lyonnais,Toulouse,9.63,13.0,10,13,True,3,False
+Ipswich Town,Brighton & Hove Albion,8.37,10.0,8,10,True,2,False
+Manchester United,Southampton,8.46,8.0,8,8,True,0,False
+Roma,Genoa,9.18,5.0,9,5,False,4,False
+Espanyol,Real Valladolid,7.61,8.0,8,8,True,0,False
+Eintracht Frankfurt,Borussia Dortmund,11.19,12.0,11,12,True,1,False
+Montpellier,AS Monaco,9.61,20.0,10,20,True,10,True
+Lille,Nice,8.75,14.0,9,14,True,5,True
+Everton,Aston Villa,9.24,13.0,9,13,True,4,False
+Leicester City,Crystal Palace,8.74,7.0,9,7,False,2,False
+Newcastle United,Wolverhampton,9.14,6.0,9,6,False,3,False
+Arsenal,Tottenham Hotspur,11.53,14.0,12,14,True,2,False
+Ipswich Town,Brighton & Hove Albion,8.37,10.0,8,10,True,2,False
+Manchester United,Southampton,8.46,8.0,8,8,True,0,False
+Inter,Bologna,11.46,6.0,11,6,False,5,True
+VfL Bochum 1848,FC St. Pauli,9.14,13.0,9,13,True,4,False
+1. FC Union Berlin,FC Augsburg,8.58,11.0,9,11,True,2,False
+FC Bayern München,TSG Hoffenheim,11.26,14.0,11,14,True,3,False
+SV Werder Bremen,1. FC Heidenheim,9.54,6.0,10,6,False,4,False
+VfB Stuttgart,RB Leipzig,9.59,5.0,10,5,False,5,True
+Brentford,Manchester City,10.27,9.0,10,9,False,1,False
+Chelsea,Bournemouth,11.47,12.0,11,12,True,1,False
+West Ham United,Fulham,10.34,3.0,10,3,False,7,True
+Nottingham Forest,Liverpool,9.68,9.0,10,9,False,1,False
+Everton,Aston Villa,9.24,13.0,9,13,True,4,False
+Leicester City,Crystal Palace,8.74,7.0,9,7,False,2,False
+Newcastle United,Wolverhampton,9.14,6.0,9,6,False,3,False
+Arsenal,Tottenham Hotspur,11.53,14.0,12,14,True,2,False
+Como,Milan,9.97,6.0,10,6,False,4,False
+Atalanta,Juventus,10.85,6.0,11,6,False,5,True
+Inter,Bologna,11.46,6.0,11,6,False,5,True
+Holstein Kiel,Borussia Dortmund,9.46,10.0,9,10,True,1,False
+Bayer 04 Leverkusen,1. FSV Mainz 05,9.98,12.0,10,12,True,2,False
+Eintracht Frankfurt,SC Freiburg,8.95,9.0,9,9,True,0,False
+VfL Wolfsburg,Borussia M'gladbach,9.27,11.0,9,11,True,2,False
+VfL Bochum 1848,FC St. Pauli,9.14,13.0,9,13,True,4,False
+1. FC Union Berlin,FC Augsburg,8.58,11.0,9,11,True,2,False
+FC Bayern München,TSG Hoffenheim,11.26,14.0,11,14,True,3,False
+SV Werder Bremen,1. FC Heidenheim,9.54,6.0,10,6,False,4,False
+VfB Stuttgart,RB Leipzig,9.59,5.0,10,5,False,5,True
+Brentford,Manchester City,10.27,9.0,10,9,False,1,False
+Chelsea,Bournemouth,11.47,12.0,11,12,True,1,False
+West Ham United,Fulham,10.34,3.0,10,3,False,7,True
+Nottingham Forest,Liverpool,9.68,9.0,10,9,False,1,False
+Monza,Fiorentina,8.07,6.0,8,6,False,2,False
+Como,Milan,9.97,6.0,10,6,False,4,False
+Atalanta,Juventus,10.85,6.0,11,6,False,5,True
+Real Sociedad,Villarreal,9.76,10.0,10,10,True,0,False
+Holstein Kiel,Borussia Dortmund,9.46,10.0,9,10,True,1,False
+Bayer 04 Leverkusen,1. FSV Mainz 05,9.98,12.0,10,12,True,2,False
+Eintracht Frankfurt,SC Freiburg,8.95,9.0,9,9,True,0,False
+VfL Wolfsburg,Borussia M'gladbach,9.27,11.0,9,11,True,2,False
+Genoa,Parma,8.34,15.0,8,15,True,7,True
+Venezia,Inter,9.46,9.0,9,9,True,0,False
+Bologna,Roma,10.76,9.0,11,9,False,2,False
+Napoli,Hellas Verona,9.46,9.0,9,9,True,0,False
+Monza,Fiorentina,8.07,6.0,8,6,False,2,False
+Las Palmas,Getafe,8.28,9.0,8,9,True,1,False
+Atlético Madrid,Osasuna,9.38,4.0,9,4,False,5,True
+Real Sociedad,Villarreal,9.76,10.0,10,10,True,0,False
+RB Leipzig,SV Werder Bremen,9.59,5.0,10,5,False,5,True
+FC Augsburg,VfB Stuttgart,8.78,12.0,9,12,True,3,False
+Le Havre,RC Lens,10.21,11.0,10,11,True,1,False
+Montpellier,Angers,8.38,6.0,8,6,False,2,False
+Toulouse,RC Strasbourg,8.62,5.0,9,5,False,4,False
+Paris Saint-Germain,Saint-Étienne,9.51,10.0,10,10,True,0,False
+Empoli,Lecce,7.56,11.0,8,11,True,3,False
+Udinese,Atalanta,9.82,8.0,10,8,False,2,False
+Torino,Juventus,9.17,10.0,9,10,True,1,False
+Milan,Cagliari,9.72,10.0,10,10,True,0,False
+Genoa,Parma,8.34,15.0,8,15,True,7,True
+Venezia,Inter,9.46,9.0,9,9,True,0,False
+Bologna,Roma,10.76,9.0,11,9,False,2,False
+Napoli,Hellas Verona,9.46,9.0,9,9,True,0,False
+Deportivo Alavés,Girona FC,9.41,9.0,9,9,True,0,False
+Real Valladolid,Real Betis,8.47,9.0,8,9,True,1,False
+Espanyol,Leganés,7.56,12.0,8,12,True,4,False
+Sevilla,Valencia,9.0,11.0,9,11,True,2,False
+Las Palmas,Getafe,8.28,9.0,8,9,True,1,False
+Atlético Madrid,Osasuna,9.38,4.0,9,4,False,5,True
+1. FC Heidenheim,1. FC Union Berlin,9.27,9.0,9,9,True,0,False
+1. FSV Mainz 05,VfL Bochum 1848,9.33,11.0,9,11,True,2,False
+FC St. Pauli,Eintracht Frankfurt,8.96,6.0,9,6,False,3,False
+SC Freiburg,Holstein Kiel,7.97,8.0,8,8,True,0,False
+TSG Hoffenheim,VfL Wolfsburg,10.05,12.0,10,12,True,2,False
+Borussia M'gladbach,FC Bayern München,10.36,14.0,10,14,True,4,False
+RB Leipzig,SV Werder Bremen,9.59,5.0,10,5,False,5,True
+FC Augsburg,VfB Stuttgart,8.78,12.0,9,12,True,3,False
+Stade Brestois,Olympique Lyonnais,9.62,11.0,10,11,True,1,False
+Stade de Reims,Nice,9.53,9.0,10,9,False,1,False
+Stade Rennais,Olympique de Marseille,11.08,5.0,11,5,False,6,True
+Le Havre,RC Lens,10.21,11.0,10,11,True,1,False
+Montpellier,Angers,8.38,6.0,8,6,False,2,False
+Toulouse,RC Strasbourg,8.62,5.0,9,5,False,4,False
+Paris Saint-Germain,Saint-Étienne,9.51,10.0,10,10,True,0,False
+Lazio,Como,9.9,14.0,10,14,True,4,False
+Empoli,Lecce,7.56,11.0,8,11,True,3,False
+Udinese,Atalanta,9.82,8.0,10,8,False,2,False
+Torino,Juventus,9.17,10.0,9,10,True,1,False
+Milan,Cagliari,9.72,10.0,10,10,True,0,False
+Genoa,Parma,8.34,15.0,8,15,True,7,True
+Rayo Vallecano,Celta Vigo,9.01,6.0,9,6,False,3,False
+Deportivo Alavés,Girona FC,9.41,9.0,9,9,True,0,False
+Real Valladolid,Real Betis,8.47,9.0,8,9,True,1,False
+Espanyol,Leganés,7.56,12.0,8,12,True,4,False
+Sevilla,Valencia,9.0,11.0,9,11,True,2,False
+Borussia Dortmund,Bayer 04 Leverkusen,12.26,7.0,12,7,False,5,True
+1. FC Heidenheim,1. FC Union Berlin,9.27,9.0,9,9,True,0,False
+1. FSV Mainz 05,VfL Bochum 1848,9.33,11.0,9,11,True,2,False
+FC St. Pauli,Eintracht Frankfurt,8.96,6.0,9,6,False,3,False
+SC Freiburg,Holstein Kiel,7.97,8.0,8,8,True,0,False
+TSG Hoffenheim,VfL Wolfsburg,10.05,12.0,10,12,True,2,False
+Borussia M'gladbach,FC Bayern München,10.36,14.0,10,14,True,4,False
+Nantes,AS Monaco,8.99,14.0,9,14,True,5,True
+Auxerre,Lille,8.47,16.0,8,16,True,8,True
+Stade Brestois,Olympique Lyonnais,9.62,11.0,10,11,True,1,False
+Stade de Reims,Nice,9.53,9.0,10,9,False,1,False
+Stade Rennais,Olympique de Marseille,11.08,5.0,11,5,False,6,True
+Lazio,Como,9.9,14.0,10,14,True,4,False
+Rayo Vallecano,Celta Vigo,9.01,6.0,9,6,False,3,False
+Borussia Dortmund,Bayer 04 Leverkusen,12.26,7.0,12,7,False,5,True
+Nantes,AS Monaco,8.99,14.0,9,14,True,5,True
+Auxerre,Lille,8.47,16.0,8,16,True,8,True
+Wolverhampton,Nottingham Forest,8.11,8.0,8,8,True,0,False
+Fulham,Ipswich Town,9.17,11.0,9,11,True,2,False
+Liverpool,Manchester United,10.89,15.0,11,15,True,4,False
+Wolverhampton,Nottingham Forest,8.11,8.0,8,8,True,0,False
+Monza,Cagliari,8.43,4.0,8,4,False,4,False
+Lecce,Genoa,8.04,13.0,8,13,True,5,True
+Torino,Parma,8.11,15.0,8,15,True,7,True
+Roma,Lazio,10.99,13.0,11,13,True,2,False
+Angers,Stade Brestois,8.51,6.0,9,6,False,3,False
+RC Lens,Toulouse,10.31,8.0,10,8,False,2,False
+RC Strasbourg,Auxerre,7.97,7.0,8,7,False,1,False
+Olympique de Marseille,Le Havre,10.27,4.0,10,4,False,6,True
+Tottenham Hotspur,Newcastle United,11.11,19.0,11,19,True,8,True
+Aston Villa,Leicester City,9.3,8.0,9,8,False,1,False
+Bournemouth,Everton,9.04,12.0,9,12,True,3,False
+Crystal Palace,Chelsea,10.36,12.0,10,12,True,2,False
+Manchester City,West Ham United,10.6,8.0,11,8,False,3,False
+Southampton,Brentford,8.41,4.0,8,4,False,4,False
+Brighton & Hove Albion,Arsenal,10.48,7.0,10,7,False,3,False
+Fulham,Ipswich Town,9.17,11.0,9,11,True,2,False
+Liverpool,Manchester United,10.89,15.0,11,15,True,4,False
+Venezia,Empoli,7.56,10.0,8,10,True,2,False
+Fiorentina,Napoli,9.61,6.0,10,6,False,4,False
+Hellas Verona,Udinese,8.37,10.0,8,10,True,2,False
+Monza,Cagliari,8.43,4.0,8,4,False,4,False
+Lecce,Genoa,8.04,13.0,8,13,True,5,True
+Torino,Parma,8.11,15.0,8,15,True,7,True
+Roma,Lazio,10.99,13.0,11,13,True,2,False
+Saint-Étienne,Stade de Reims,8.59,15.0,9,15,True,6,True
+Lille,Nantes,8.31,2.0,8,2,False,6,True
+Olympique Lyonnais,Montpellier,9.46,8.0,9,8,False,1,False
+Angers,Stade Brestois,8.51,6.0,9,6,False,3,False
+RC Lens,Toulouse,10.31,8.0,10,8,False,2,False
+RC Strasbourg,Auxerre,7.97,7.0,8,7,False,1,False
+Olympique de Marseille,Le Havre,10.27,4.0,10,4,False,6,True
+Tottenham Hotspur,Newcastle United,11.11,19.0,11,19,True,8,True
+Aston Villa,Leicester City,9.3,8.0,9,8,False,1,False
+Bournemouth,Everton,9.04,12.0,9,12,True,3,False
+Crystal Palace,Chelsea,10.36,12.0,10,12,True,2,False
+Manchester City,West Ham United,10.6,8.0,11,8,False,3,False
+Southampton,Brentford,8.41,4.0,8,4,False,4,False
+Brighton & Hove Albion,Arsenal,10.48,7.0,10,7,False,3,False
+Venezia,Empoli,7.56,10.0,8,10,True,2,False
+Fiorentina,Napoli,9.61,6.0,10,6,False,4,False
+Hellas Verona,Udinese,8.37,10.0,8,10,True,2,False
+Monza,Cagliari,8.43,4.0,8,4,False,4,False
+Valencia,Real Madrid,10.23,7.0,10,7,False,3,False
+Nice,Stade Rennais,9.95,6.0,10,6,False,4,False
+Saint-Étienne,Stade de Reims,8.59,15.0,9,15,True,6,True
+Lille,Nantes,8.31,2.0,8,2,False,6,True
+Olympique Lyonnais,Montpellier,9.46,8.0,9,8,False,1,False
+Valencia,Real Madrid,10.23,7.0,10,7,False,3,False
+Nice,Stade Rennais,9.95,6.0,10,6,False,4,False
+Brentford,Arsenal,10.27,7.0,10,7,False,3,False
+Brentford,Arsenal,10.27,7.0,10,7,False,3,False
+Aston Villa,Brighton & Hove Albion,9.8,15.0,10,15,True,5,True
+Ipswich Town,Chelsea,9.46,11.0,9,11,True,2,False
+Manchester United,Newcastle United,10.47,5.0,10,5,False,5,True
+Como,Lecce,8.12,8.0,8,8,True,0,False
+Bologna,Hellas Verona,9.01,16.0,9,16,True,7,True
+Leicester City,Manchester City,9.76,8.0,10,8,False,2,False
+Crystal Palace,Southampton,8.22,15.0,8,15,True,7,True
+Everton,Nottingham Forest,8.28,9.0,8,9,True,1,False
+Fulham,Bournemouth,10.89,8.0,11,8,False,3,False
+Tottenham Hotspur,Wolverhampton,9.14,10.0,9,10,True,1,False
+West Ham United,Liverpool,10.47,8.0,10,8,False,2,False
+Aston Villa,Brighton & Hove Albion,9.8,15.0,10,15,True,5,True
+Ipswich Town,Chelsea,9.46,11.0,9,11,True,2,False
+Manchester United,Newcastle United,10.47,5.0,10,5,False,5,True
+Udinese,Torino,8.63,7.0,9,7,False,2,False
+Napoli,Venezia,9.46,18.0,9,18,True,9,True
+Juventus,Fiorentina,9.15,9.0,9,9,True,0,False
+Milan,Roma,10.89,11.0,11,11,True,0,False
+Como,Lecce,8.12,8.0,8,8,True,0,False
+Bologna,Hellas Verona,9.01,16.0,9,16,True,7,True
+Leicester City,Manchester City,9.76,8.0,10,8,False,2,False
+Crystal Palace,Southampton,8.22,15.0,8,15,True,7,True
+Everton,Nottingham Forest,8.28,9.0,8,9,True,1,False
+Fulham,Bournemouth,10.89,8.0,11,8,False,3,False
+Tottenham Hotspur,Wolverhampton,9.14,10.0,9,10,True,1,False
+West Ham United,Liverpool,10.47,8.0,10,8,False,2,False
+Empoli,Genoa,8.04,11.0,8,11,True,3,False
+Parma,Monza,8.24,10.0,8,10,True,2,False
+Cagliari,Inter,9.99,12.0,10,12,True,2,False
+Lazio,Atalanta,10.81,9.0,11,9,False,2,False
+Udinese,Torino,8.63,7.0,9,7,False,2,False
+Napoli,Venezia,9.46,18.0,9,18,True,9,True
+Juventus,Fiorentina,9.15,9.0,9,9,True,0,False
+Milan,Roma,10.89,11.0,11,11,True,0,False
+Brighton & Hove Albion,Brentford,8.97,8.0,9,8,False,1,False
+Arsenal,Ipswich Town,9.46,6.0,9,6,False,3,False
+Empoli,Genoa,8.04,11.0,8,11,True,3,False
+Parma,Monza,8.24,10.0,8,10,True,2,False
+Cagliari,Inter,9.99,12.0,10,12,True,2,False
+Lazio,Atalanta,10.81,9.0,11,9,False,2,False
+Udinese,Torino,8.63,7.0,9,7,False,2,False
+Manchester City,Everton,9.7,13.0,10,13,True,3,False
+Bournemouth,Crystal Palace,9.66,7.0,10,7,False,3,False
+Chelsea,Fulham,11.63,4.0,12,4,False,8,True
+Newcastle United,Aston Villa,11.14,15.0,11,15,True,4,False
+Nottingham Forest,Tottenham Hotspur,9.47,9.0,9,9,True,0,False
+Southampton,West Ham United,8.26,4.0,8,4,False,4,False
+Wolverhampton,Manchester United,8.46,8.0,8,8,True,0,False
+Liverpool,Leicester City,9.76,15.0,10,15,True,5,True
+Brighton & Hove Albion,Brentford,8.97,8.0,9,8,False,1,False
+Arsenal,Ipswich Town,9.46,6.0,9,6,False,3,False
+Manchester City,Everton,9.7,13.0,10,13,True,3,False
+Bournemouth,Crystal Palace,9.66,7.0,10,7,False,3,False
+Chelsea,Fulham,11.63,4.0,12,4,False,8,True
+Newcastle United,Aston Villa,11.14,15.0,11,15,True,4,False
+Nottingham Forest,Tottenham Hotspur,9.47,9.0,9,9,True,0,False
+Southampton,West Ham United,8.26,4.0,8,4,False,4,False
+Wolverhampton,Manchester United,8.46,8.0,8,8,True,0,False
+Liverpool,Leicester City,9.76,15.0,10,15,True,5,True
+Fiorentina,Udinese,8.5,12.0,8,12,True,4,False
+Inter,Como,10.24,8.0,10,8,False,2,False
+Everton,Chelsea,9.58,7.0,10,7,False,3,False
+Fulham,Southampton,9.21,11.0,9,11,True,2,False
+Leicester City,Wolverhampton,7.99,7.0,8,7,False,1,False
+Manchester United,Bournemouth,10.16,14.0,10,14,True,4,False
+Tottenham Hotspur,Liverpool,11.53,12.0,12,12,True,0,False
+Roma,Parma,9.2,7.0,9,7,False,2,False
+Venezia,Cagliari,8.04,12.0,8,12,True,4,False
+Atalanta,Empoli,8.99,9.0,9,9,True,0,False
+Monza,Juventus,9.43,10.0,9,10,True,1,False
+Fiorentina,Udinese,8.5,12.0,8,12,True,4,False
+Inter,Como,10.24,8.0,10,8,False,2,False
+Valencia,Deportivo Alavés,9.21,9.0,9,9,True,0,False
+Real Madrid,Sevilla,9.49,12.0,9,12,True,3,False
+Las Palmas,Espanyol,7.71,4.0,8,4,False,4,False
+Leganés,Villarreal,8.96,6.0,9,6,False,3,False
+Real Betis,Rayo Vallecano,9.43,10.0,9,10,True,1,False
+VfL Bochum 1848,1. FC Heidenheim,9.27,7.0,9,7,False,2,False
+VfL Wolfsburg,Borussia Dortmund,10.8,14.0,11,14,True,3,False
+Aston Villa,Manchester City,11.58,9.0,12,9,False,3,False
+Brentford,Nottingham Forest,8.74,14.0,9,14,True,5,True
+Ipswich Town,Newcastle United,9.09,3.0,9,3,False,6,True
+West Ham United,Brighton & Hove Albion,9.18,12.0,9,12,True,3,False
+Crystal Palace,Arsenal,10.66,6.0,11,6,False,5,True
+Everton,Chelsea,9.58,7.0,10,7,False,3,False
+Fulham,Southampton,9.21,11.0,9,11,True,2,False
+Leicester City,Wolverhampton,7.99,7.0,8,7,False,1,False
+Manchester United,Bournemouth,10.16,14.0,10,14,True,4,False
+Tottenham Hotspur,Liverpool,11.53,12.0,12,12,True,0,False
+Torino,Bologna,9.29,4.0,9,4,False,5,True
+Genoa,Napoli,9.99,11.0,10,11,True,1,False
+Lecce,Lazio,9.21,12.0,9,12,True,3,False
+Roma,Parma,9.2,7.0,9,7,False,2,False
+Venezia,Cagliari,8.04,12.0,8,12,True,4,False
+Atalanta,Empoli,8.99,9.0,9,9,True,0,False
+Monza,Juventus,9.43,10.0,9,10,True,1,False
+Getafe,Mallorca,8.61,3.0,9,3,False,6,True
+Celta Vigo,Real Sociedad,8.56,11.0,9,11,True,2,False
+Osasuna,Athletic Club,9.91,7.0,10,7,False,3,False
+Barcelona,Atlético Madrid,10.63,14.0,11,14,True,3,False
+Valencia,Deportivo Alavés,9.21,9.0,9,9,True,0,False
+Real Madrid,Sevilla,9.49,12.0,9,12,True,3,False
+Las Palmas,Espanyol,7.71,4.0,8,4,False,4,False
+Leganés,Villarreal,8.96,6.0,9,6,False,3,False
+Real Betis,Rayo Vallecano,9.43,10.0,9,10,True,1,False
+Eintracht Frankfurt,1. FSV Mainz 05,9.19,19.0,9,19,True,10,True
+Holstein Kiel,FC Augsburg,7.56,11.0,8,11,True,3,False
+SV Werder Bremen,1. FC Union Berlin,9.87,13.0,10,13,True,3,False
+TSG Hoffenheim,Borussia M'gladbach,9.51,12.0,10,12,True,2,False
+VfB Stuttgart,FC St. Pauli,9.29,10.0,9,10,True,1,False
+Bayer 04 Leverkusen,SC Freiburg,9.73,6.0,10,6,False,4,False
+VfL Bochum 1848,1. FC Heidenheim,9.27,7.0,9,7,False,2,False
+VfL Wolfsburg,Borussia Dortmund,10.8,14.0,11,14,True,3,False
+Aston Villa,Manchester City,11.58,9.0,12,9,False,3,False
+Brentford,Nottingham Forest,8.74,14.0,9,14,True,5,True
+Ipswich Town,Newcastle United,9.09,3.0,9,3,False,6,True
+West Ham United,Brighton & Hove Albion,9.18,12.0,9,12,True,3,False
+Crystal Palace,Arsenal,10.66,6.0,11,6,False,5,True
+Hellas Verona,Milan,9.2,11.0,9,11,True,2,False
+Torino,Bologna,9.29,4.0,9,4,False,5,True
+Genoa,Napoli,9.99,11.0,10,11,True,1,False
+Lecce,Lazio,9.21,12.0,9,12,True,3,False
+Roma,Parma,9.2,7.0,9,7,False,2,False
+Girona FC,Real Valladolid,8.75,10.0,9,10,True,1,False
+Getafe,Mallorca,8.61,3.0,9,3,False,6,True
+Celta Vigo,Real Sociedad,8.56,11.0,9,11,True,2,False
+Osasuna,Athletic Club,9.91,7.0,10,7,False,3,False
+Barcelona,Atlético Madrid,10.63,14.0,11,14,True,3,False
+FC Bayern München,RB Leipzig,10.27,9.0,10,9,False,1,False
+Eintracht Frankfurt,1. FSV Mainz 05,9.19,19.0,9,19,True,10,True
+Holstein Kiel,FC Augsburg,7.56,11.0,8,11,True,3,False
+SV Werder Bremen,1. FC Union Berlin,9.87,13.0,10,13,True,3,False
+TSG Hoffenheim,Borussia M'gladbach,9.51,12.0,10,12,True,2,False
+VfB Stuttgart,FC St. Pauli,9.29,10.0,9,10,True,1,False
+Bayer 04 Leverkusen,SC Freiburg,9.73,6.0,10,6,False,4,False
+Hellas Verona,Milan,9.2,11.0,9,11,True,2,False
+Girona FC,Real Valladolid,8.75,10.0,9,10,True,1,False
+FC Bayern München,RB Leipzig,10.27,9.0,10,9,False,1,False
+Espanyol,Valencia,8.5,11.0,8,11,True,3,False
+Villarreal,Rayo Vallecano,10.42,14.0,10,14,True,4,False
+AS Monaco,Paris Saint-Germain,11.02,10.0,11,10,False,1,False
+Espanyol,Valencia,8.5,11.0,8,11,True,3,False
+Villarreal,Rayo Vallecano,10.42,14.0,10,14,True,4,False
+AS Monaco,Paris Saint-Germain,11.02,10.0,11,10,False,1,False
+Bournemouth,West Ham United,9.75,18.0,10,18,True,8,True
+Lazio,Inter,11.69,6.0,12,6,False,6,True
+Brighton & Hove Albion,Crystal Palace,9.14,13.0,9,13,True,4,False
+Manchester City,Manchester United,10.89,10.0,11,10,False,1,False
+Chelsea,Brentford,9.98,13.0,10,13,True,3,False
+Southampton,Tottenham Hotspur,9.14,7.0,9,7,False,2,False
+Bournemouth,West Ham United,9.75,18.0,10,18,True,8,True
+Lecce,Monza,7.94,9.0,8,9,True,1,False
+Bologna,Fiorentina,9.14,4.0,9,4,False,5,True
+Parma,Hellas Verona,7.85,7.0,8,7,False,1,False
+Como,Roma,9.71,11.0,10,11,True,1,False
+Milan,Genoa,9.44,11.0,9,11,True,2,False
+Lazio,Inter,11.69,6.0,12,6,False,6,True
+Atlético Madrid,Getafe,9.37,11.0,9,11,True,2,False
+Deportivo Alavés,Athletic Club,10.01,6.0,10,6,False,4,False
+Real Sociedad,Las Palmas,8.54,14.0,9,14,True,5,True
+Villarreal,Real Betis,9.79,10.0,10,10,True,0,False
+Barcelona,Leganés,9.46,10.0,9,10,True,1,False
+1. FC Heidenheim,VfB Stuttgart,9.54,15.0,10,15,True,5,True
+Borussia Dortmund,TSG Hoffenheim,11.26,12.0,11,12,True,1,False
+RB Leipzig,Eintracht Frankfurt,9.06,13.0,9,13,True,4,False
+Montpellier,Nice,9.16,13.0,9,13,True,4,False
+Le Havre,RC Strasbourg,8.35,5.0,8,5,False,3,False
+Stade Brestois,Nantes,8.8,5.0,9,5,False,4,False
+Stade Rennais,Angers,9.07,3.0,9,3,False,6,True
+Paris Saint-Germain,Olympique Lyonnais,10.89,7.0,11,7,False,4,False
+Arsenal,Everton,9.7,10.0,10,10,True,0,False
+Liverpool,Fulham,11.63,9.0,12,9,False,3,False
+Newcastle United,Leicester City,9.38,7.0,9,7,False,2,False
+Wolverhampton,Ipswich Town,7.6,10.0,8,10,True,2,False
+Nottingham Forest,Aston Villa,9.34,7.0,9,7,False,2,False
+Brighton & Hove Albion,Crystal Palace,9.14,13.0,9,13,True,4,False
+Manchester City,Manchester United,10.89,10.0,11,10,False,1,False
+Chelsea,Brentford,9.98,13.0,10,13,True,3,False
+Southampton,Tottenham Hotspur,9.14,7.0,9,7,False,2,False
+Cagliari,Atalanta,9.48,7.0,9,7,False,2,False
+Udinese,Napoli,10.27,12.0,10,12,True,2,False
+Juventus,Venezia,9.02,11.0,9,11,True,2,False
+Lecce,Monza,7.94,9.0,8,9,True,1,False
+Bologna,Fiorentina,9.14,4.0,9,4,False,5,True
+Parma,Hellas Verona,7.85,7.0,8,7,False,1,False
+Como,Roma,9.71,11.0,10,11,True,1,False
+Milan,Genoa,9.44,11.0,9,11,True,2,False
+Espanyol,Osasuna,8.18,9.0,8,9,True,1,False
+Mallorca,Girona FC,9.19,6.0,9,6,False,3,False
+Sevilla,Celta Vigo,8.1,7.0,8,7,False,1,False
+Rayo Vallecano,Real Madrid,10.64,7.0,11,7,False,4,False
+Atlético Madrid,Getafe,9.37,11.0,9,11,True,2,False
+Deportivo Alavés,Athletic Club,10.01,6.0,10,6,False,4,False
+Real Sociedad,Las Palmas,8.54,14.0,9,14,True,5,True
+Villarreal,Real Betis,9.79,10.0,10,10,True,0,False
+Barcelona,Leganés,9.46,10.0,9,10,True,1,False
+1. FSV Mainz 05,FC Bayern München,10.27,5.0,10,5,False,5,True
+Borussia M'gladbach,Holstein Kiel,8.45,7.0,8,7,False,1,False
+FC Augsburg,Bayer 04 Leverkusen,9.46,13.0,9,13,True,4,False
+FC St. Pauli,SV Werder Bremen,9.28,9.0,9,9,True,0,False
+1. FC Heidenheim,VfB Stuttgart,9.54,15.0,10,15,True,5,True
+Borussia Dortmund,TSG Hoffenheim,11.26,12.0,11,12,True,1,False
+RB Leipzig,Eintracht Frankfurt,9.06,13.0,9,13,True,4,False
+Olympique de Marseille,Lille,9.78,11.0,10,11,True,1,False
+Auxerre,RC Lens,9.62,8.0,10,8,False,2,False
+Stade de Reims,AS Monaco,9.98,5.0,10,5,False,5,True
+Montpellier,Nice,9.16,13.0,9,13,True,4,False
+Le Havre,RC Strasbourg,8.35,5.0,8,5,False,3,False
+Stade Brestois,Nantes,8.8,5.0,9,5,False,4,False
+Stade Rennais,Angers,9.07,3.0,9,3,False,6,True
+Paris Saint-Germain,Olympique Lyonnais,10.89,7.0,11,7,False,4,False
+Arsenal,Everton,9.7,10.0,10,10,True,0,False
+Liverpool,Fulham,11.63,9.0,12,9,False,3,False
+Newcastle United,Leicester City,9.38,7.0,9,7,False,2,False
+Wolverhampton,Ipswich Town,7.6,10.0,8,10,True,2,False
+Nottingham Forest,Aston Villa,9.34,7.0,9,7,False,2,False
+Empoli,Torino,7.7,15.0,8,15,True,7,True
+Cagliari,Atalanta,9.48,7.0,9,7,False,2,False
+Udinese,Napoli,10.27,12.0,10,12,True,2,False
+Juventus,Venezia,9.02,11.0,9,11,True,2,False
+Lecce,Monza,7.94,9.0,8,9,True,1,False
+Real Valladolid,Valencia,8.56,8.0,9,8,False,1,False
+Espanyol,Osasuna,8.18,9.0,8,9,True,1,False
+Mallorca,Girona FC,9.19,6.0,9,6,False,3,False
+Sevilla,Celta Vigo,8.1,7.0,8,7,False,1,False
+Rayo Vallecano,Real Madrid,10.64,7.0,11,7,False,4,False
+SC Freiburg,VfL Wolfsburg,8.66,11.0,9,11,True,2,False
+1. FSV Mainz 05,FC Bayern München,10.27,5.0,10,5,False,5,True
+Borussia M'gladbach,Holstein Kiel,8.45,7.0,8,7,False,1,False
+FC Augsburg,Bayer 04 Leverkusen,9.46,13.0,9,13,True,4,False
+FC St. Pauli,SV Werder Bremen,9.28,9.0,9,9,True,0,False
+Toulouse,Saint-Étienne,8.2,5.0,8,5,False,3,False
+Olympique de Marseille,Lille,9.78,11.0,10,11,True,1,False
+Auxerre,RC Lens,9.62,8.0,10,8,False,2,False
+Stade de Reims,AS Monaco,9.98,5.0,10,5,False,5,True
+Empoli,Torino,7.7,15.0,8,15,True,7,True
+Real Valladolid,Valencia,8.56,8.0,9,8,False,1,False
+SC Freiburg,VfL Wolfsburg,8.66,11.0,9,11,True,2,False
+Toulouse,Saint-Étienne,8.2,5.0,8,5,False,3,False
+West Ham United,Wolverhampton,8.38,11.0,8,11,True,3,False
+Monza,Udinese,8.76,11.0,9,11,True,2,False
+Getafe,Espanyol,8.12,6.0,8,6,False,2,False
+Fulham,Arsenal,11.63,6.0,12,6,False,6,True
+Ipswich Town,Bournemouth,8.81,19.0,9,19,True,10,True
+Leicester City,Brighton & Hove Albion,8.79,9.0,9,9,True,0,False
+Tottenham Hotspur,Chelsea,11.38,15.0,11,15,True,4,False
+West Ham United,Wolverhampton,8.38,11.0,8,11,True,3,False
+Fiorentina,Cagliari,8.17,10.0,8,10,True,2,False
+Hellas Verona,Empoli,7.56,13.0,8,13,True,5,True
+Venezia,Como,8.12,14.0,8,14,True,6,True
+Napoli,Lazio,11.69,8.0,12,8,False,4,False
+Monza,Udinese,8.76,11.0,9,11,True,2,False
+Leganés,Real Sociedad,8.38,8.0,8,8,True,0,False
+Athletic Club,Villarreal,10.86,6.0,11,6,False,5,True
+Osasuna,Deportivo Alavés,8.88,11.0,9,11,True,2,False
+Atlético Madrid,Sevilla,9.17,8.0,9,8,False,1,False
+Getafe,Espanyol,8.12,6.0,8,6,False,2,False
+VfL Wolfsburg,1. FSV Mainz 05,9.11,8.0,9,8,False,1,False
+TSG Hoffenheim,SC Freiburg,9.2,7.0,9,7,False,2,False
+RC Lens,Montpellier,10.29,9.0,10,9,False,1,False
+Nantes,Stade Rennais,9.24,10.0,9,10,True,1,False
+RC Strasbourg,Stade de Reims,8.72,5.0,9,5,False,4,False
+Saint-Étienne,Olympique de Marseille,9.51,9.0,10,9,False,1,False
+Aston Villa,Southampton,8.75,15.0,9,15,True,6,True
+Brentford,Newcastle United,9.88,7.0,10,7,False,3,False
+Crystal Palace,Manchester City,10.42,14.0,10,14,True,4,False
+Manchester United,Nottingham Forest,8.61,8.0,9,8,False,1,False
+Fulham,Arsenal,11.63,6.0,12,6,False,6,True
+Ipswich Town,Bournemouth,8.81,19.0,9,19,True,10,True
+Leicester City,Brighton & Hove Albion,8.79,9.0,9,9,True,0,False
+Tottenham Hotspur,Chelsea,11.38,15.0,11,15,True,4,False
+Genoa,Torino,8.05,8.0,8,8,True,0,False
+Juventus,Bologna,10.94,5.0,11,5,False,6,True
+Roma,Lecce,8.94,9.0,9,9,True,0,False
+Fiorentina,Cagliari,8.17,10.0,8,10,True,2,False
+Hellas Verona,Empoli,7.56,13.0,8,13,True,5,True
+Venezia,Como,8.12,14.0,8,14,True,6,True
+Napoli,Lazio,11.69,8.0,12,8,False,4,False
+Las Palmas,Real Valladolid,7.77,6.0,8,6,False,2,False
+Real Betis,Barcelona,10.31,10.0,10,10,True,0,False
+Valencia,Rayo Vallecano,9.84,13.0,10,13,True,3,False
+Girona FC,Real Madrid,10.45,9.0,10,9,False,1,False
+Leganés,Real Sociedad,8.38,8.0,8,8,True,0,False
+Athletic Club,Villarreal,10.86,6.0,11,6,False,5,True
+Osasuna,Deportivo Alavés,8.88,11.0,9,11,True,2,False
+Atlético Madrid,Sevilla,9.17,8.0,9,8,False,1,False
+Bayer 04 Leverkusen,FC St. Pauli,10.02,11.0,10,11,True,1,False
+Eintracht Frankfurt,FC Augsburg,8.7,4.0,9,4,False,5,True
+FC Bayern München,1. FC Heidenheim,10.22,8.0,10,8,False,2,False
+Holstein Kiel,RB Leipzig,8.37,7.0,8,7,False,1,False
+VfL Bochum 1848,SV Werder Bremen,9.87,14.0,10,14,True,4,False
+Borussia M'gladbach,Borussia Dortmund,10.06,11.0,10,11,True,1,False
+VfL Wolfsburg,1. FSV Mainz 05,9.11,8.0,9,8,False,1,False
+TSG Hoffenheim,SC Freiburg,9.2,7.0,9,7,False,2,False
+AS Monaco,Toulouse,9.62,5.0,10,5,False,5,True
+Nice,Le Havre,9.02,13.0,9,13,True,4,False
+Angers,Olympique Lyonnais,8.78,9.0,9,9,True,0,False
+RC Lens,Montpellier,10.29,9.0,10,9,False,1,False
+Nantes,Stade Rennais,9.24,10.0,9,10,True,1,False
+RC Strasbourg,Stade de Reims,8.72,5.0,9,5,False,4,False
+Saint-Étienne,Olympique de Marseille,9.51,9.0,10,9,False,1,False
+Aston Villa,Southampton,8.75,15.0,9,15,True,6,True
+Brentford,Newcastle United,9.88,7.0,10,7,False,3,False
+Crystal Palace,Manchester City,10.42,14.0,10,14,True,4,False
+Manchester United,Nottingham Forest,8.61,8.0,9,8,False,1,False
+Inter,Parma,9.73,11.0,10,11,True,1,False
+Atalanta,Milan,11.09,7.0,11,7,False,4,False
+Genoa,Torino,8.05,8.0,8,8,True,0,False
+Juventus,Bologna,10.94,5.0,11,5,False,6,True
+Roma,Lecce,8.94,9.0,9,9,True,0,False
+Fiorentina,Cagliari,8.17,10.0,8,10,True,2,False
+Celta Vigo,Mallorca,8.21,6.0,8,6,False,2,False
+Las Palmas,Real Valladolid,7.77,6.0,8,6,False,2,False
+Real Betis,Barcelona,10.31,10.0,10,10,True,0,False
+Valencia,Rayo Vallecano,9.84,13.0,10,13,True,3,False
+Girona FC,Real Madrid,10.45,9.0,10,9,False,1,False
+VfB Stuttgart,1. FC Union Berlin,9.74,7.0,10,7,False,3,False
+Bayer 04 Leverkusen,FC St. Pauli,10.02,11.0,10,11,True,1,False
+Eintracht Frankfurt,FC Augsburg,8.7,4.0,9,4,False,5,True
+FC Bayern München,1. FC Heidenheim,10.22,8.0,10,8,False,2,False
+Holstein Kiel,RB Leipzig,8.37,7.0,8,7,False,1,False
+VfL Bochum 1848,SV Werder Bremen,9.87,14.0,10,14,True,4,False
+Borussia M'gladbach,Borussia Dortmund,10.06,11.0,10,11,True,1,False
+Lille,Stade Brestois,8.99,3.0,9,3,False,6,True
+Auxerre,Paris Saint-Germain,9.68,18.0,10,18,True,8,True
+AS Monaco,Toulouse,9.62,5.0,10,5,False,5,True
+Nice,Le Havre,9.02,13.0,9,13,True,4,False
+Angers,Olympique Lyonnais,8.78,9.0,9,9,True,0,False
+Fulham,Brighton & Hove Albion,10.01,11.0,10,11,True,1,False
+Bournemouth,Tottenham Hotspur,10.79,14.0,11,14,True,3,False
+Inter,Parma,9.73,11.0,10,11,True,1,False
+Atalanta,Milan,11.09,7.0,11,7,False,4,False
+Celta Vigo,Mallorca,8.21,6.0,8,6,False,2,False
+VfB Stuttgart,1. FC Union Berlin,9.74,7.0,10,7,False,3,False
+Lille,Stade Brestois,8.99,3.0,9,3,False,6,True
+Auxerre,Paris Saint-Germain,9.68,18.0,10,18,True,8,True
+Everton,Wolverhampton,8.09,7.0,8,7,False,1,False
+Manchester City,Nottingham Forest,9.81,10.0,10,10,True,0,False
+Newcastle United,Liverpool,11.81,11.0,12,11,False,1,False
+Southampton,Chelsea,9.51,12.0,10,12,True,2,False
+Arsenal,Manchester United,10.89,13.0,11,13,True,2,False
+Aston Villa,Brentford,9.66,15.0,10,15,True,5,True
+Fulham,Brighton & Hove Albion,10.01,11.0,10,11,True,1,False
+Bournemouth,Tottenham Hotspur,10.79,14.0,11,14,True,3,False
+Athletic Club,Real Madrid,11.12,7.0,11,7,False,4,False
+Ipswich Town,Crystal Palace,8.46,11.0,8,11,True,3,False
+Leicester City,West Ham United,8.62,12.0,9,12,True,3,False
+Everton,Wolverhampton,8.09,7.0,8,7,False,1,False
+Manchester City,Nottingham Forest,9.81,10.0,10,10,True,0,False
+Newcastle United,Liverpool,11.81,11.0,12,11,False,1,False
+Southampton,Chelsea,9.51,12.0,10,12,True,2,False
+Arsenal,Manchester United,10.89,13.0,11,13,True,2,False
+Aston Villa,Brentford,9.66,15.0,10,15,True,5,True
+Mallorca,Barcelona,9.99,7.0,10,7,False,3,False
+Athletic Club,Real Madrid,11.12,7.0,11,7,False,4,False
+Ipswich Town,Crystal Palace,8.46,11.0,8,11,True,3,False
+Leicester City,West Ham United,8.62,12.0,9,12,True,3,False
+Roma,Atalanta,10.83,6.0,11,6,False,5,True
+Sevilla,Osasuna,8.56,6.0,9,6,False,3,False
+Mallorca,Barcelona,9.99,7.0,10,7,False,3,False
+Chelsea,Aston Villa,11.26,7.0,11,7,False,4,False
+Manchester United,Everton,8.64,4.0,9,4,False,5,True
+Tottenham Hotspur,Fulham,10.9,18.0,11,18,True,7,True
+Liverpool,Manchester City,12.26,11.0,12,11,False,1,False
+Udinese,Genoa,8.86,10.0,9,10,True,1,False
+Parma,Lazio,9.53,14.0,10,14,True,4,False
+Torino,Napoli,9.63,11.0,10,11,True,1,False
+Lecce,Juventus,9.02,9.0,9,9,True,0,False
+Roma,Atalanta,10.83,6.0,11,6,False,5,True
+Villarreal,Girona FC,10.22,6.0,10,6,False,4,False
+Real Madrid,Getafe,9.67,8.0,10,8,False,2,False
+Rayo Vallecano,Athletic Club,10.69,8.0,11,8,False,3,False
+Real Sociedad,Real Betis,9.25,4.0,9,4,False,5,True
+Sevilla,Osasuna,8.56,6.0,9,6,False,3,False
+1. FSV Mainz 05,TSG Hoffenheim,9.58,11.0,10,11,True,1,False
+1. FC Heidenheim,Eintracht Frankfurt,9.14,11.0,9,11,True,2,False
+Montpellier,Lille,8.67,9.0,9,9,True,0,False
+Le Havre,Angers,8.23,6.0,8,6,False,2,False
+Olympique Lyonnais,Nice,9.57,9.0,10,9,False,1,False
+Toulouse,Auxerre,8.82,8.0,9,8,False,1,False
+Olympique de Marseille,AS Monaco,11.02,8.0,11,8,False,3,False
+Brentford,Leicester City,8.64,9.0,9,9,True,0,False
+Crystal Palace,Newcastle United,10.02,17.0,10,17,True,7,True
+Nottingham Forest,Ipswich Town,7.92,15.0,8,15,True,7,True
+Wolverhampton,Bournemouth,8.86,7.0,9,7,False,2,False
+West Ham United,Arsenal,10.6,12.0,11,12,True,1,False
+Chelsea,Aston Villa,11.26,7.0,11,7,False,4,False
+Manchester United,Everton,8.64,4.0,9,4,False,5,True
+Tottenham Hotspur,Fulham,10.9,18.0,11,18,True,7,True
+Liverpool,Manchester City,12.26,11.0,12,11,False,1,False
+Como,Monza,8.52,15.0,9,15,True,6,True
+Milan,Empoli,9.2,10.0,9,10,True,1,False
+Bologna,Venezia,9.01,1.0,9,1,False,8,True
+Udinese,Genoa,8.86,10.0,9,10,True,1,False
+Parma,Lazio,9.53,14.0,10,14,True,4,False
+Torino,Napoli,9.63,11.0,10,11,True,1,False
+Lecce,Juventus,9.02,9.0,9,9,True,0,False
+Barcelona,Las Palmas,9.51,7.0,10,7,False,3,False
+Deportivo Alavés,Leganés,8.25,21.0,8,21,True,13,True
+Espanyol,Celta Vigo,7.72,7.0,8,7,False,1,False
+Real Valladolid,Atlético Madrid,8.84,8.0,9,8,False,1,False
+Villarreal,Girona FC,10.22,6.0,10,6,False,4,False
+Real Madrid,Getafe,9.67,8.0,10,8,False,2,False
+Rayo Vallecano,Athletic Club,10.69,8.0,11,8,False,3,False
+Real Sociedad,Real Betis,9.25,4.0,9,4,False,5,True
+1. FC Union Berlin,Bayer 04 Leverkusen,10.79,4.0,11,4,False,7,True
+FC Augsburg,VfL Bochum 1848,8.58,7.0,9,7,False,2,False
+RB Leipzig,VfL Wolfsburg,9.05,10.0,9,10,True,1,False
+SC Freiburg,Borussia M'gladbach,8.57,10.0,9,10,True,1,False
+SV Werder Bremen,VfB Stuttgart,10.0,13.0,10,13,True,3,False
+Borussia Dortmund,FC Bayern München,12.26,5.0,12,5,False,7,True
+1. FSV Mainz 05,TSG Hoffenheim,9.58,11.0,10,11,True,1,False
+1. FC Heidenheim,Eintracht Frankfurt,9.14,11.0,9,11,True,2,False
+Stade Rennais,Saint-Étienne,8.93,7.0,9,7,False,2,False
+Stade Brestois,RC Strasbourg,8.63,7.0,9,7,False,2,False
+Paris Saint-Germain,Nantes,9.7,12.0,10,12,True,2,False
+Montpellier,Lille,8.67,9.0,9,9,True,0,False
+Le Havre,Angers,8.23,6.0,8,6,False,2,False
+Olympique Lyonnais,Nice,9.57,9.0,10,9,False,1,False
+Toulouse,Auxerre,8.82,8.0,9,8,False,1,False
+Olympique de Marseille,AS Monaco,11.02,8.0,11,8,False,3,False
+Brighton & Hove Albion,Southampton,8.27,13.0,8,13,True,5,True
+Brentford,Leicester City,8.64,9.0,9,9,True,0,False
+Crystal Palace,Newcastle United,10.02,17.0,10,17,True,7,True
+Nottingham Forest,Ipswich Town,7.92,15.0,8,15,True,7,True
+Wolverhampton,Bournemouth,8.86,7.0,9,7,False,2,False
+West Ham United,Arsenal,10.6,12.0,11,12,True,1,False
+Cagliari,Hellas Verona,8.04,8.0,8,8,True,0,False
+Como,Monza,8.52,15.0,9,15,True,6,True
+Milan,Empoli,9.2,10.0,9,10,True,1,False
+Bologna,Venezia,9.01,1.0,9,1,False,8,True
+Udinese,Genoa,8.86,10.0,9,10,True,1,False
+Mallorca,Valencia,8.99,9.0,9,9,True,0,False
+Barcelona,Las Palmas,9.51,7.0,10,7,False,3,False
+Deportivo Alavés,Leganés,8.25,21.0,8,21,True,13,True
+Espanyol,Celta Vigo,7.72,7.0,8,7,False,1,False
+Real Valladolid,Atlético Madrid,8.84,8.0,9,8,False,1,False
+FC St. Pauli,Holstein Kiel,8.13,8.0,8,8,True,0,False
+1. FC Union Berlin,Bayer 04 Leverkusen,10.79,4.0,11,4,False,7,True
+FC Augsburg,VfL Bochum 1848,8.58,7.0,9,7,False,2,False
+RB Leipzig,VfL Wolfsburg,9.05,10.0,9,10,True,1,False
+SC Freiburg,Borussia M'gladbach,8.57,10.0,9,10,True,1,False
+SV Werder Bremen,VfB Stuttgart,10.0,13.0,10,13,True,3,False
+Borussia Dortmund,FC Bayern München,12.26,5.0,12,5,False,7,True
+Stade de Reims,RC Lens,10.7,4.0,11,4,False,7,True
+Stade Rennais,Saint-Étienne,8.93,7.0,9,7,False,2,False
+Stade Brestois,RC Strasbourg,8.63,7.0,9,7,False,2,False
+Paris Saint-Germain,Nantes,9.7,12.0,10,12,True,2,False
+Brighton & Hove Albion,Southampton,8.27,13.0,8,13,True,5,True
+Cagliari,Hellas Verona,8.04,8.0,8,8,True,0,False
+Mallorca,Valencia,8.99,9.0,9,9,True,0,False
+FC St. Pauli,Holstein Kiel,8.13,8.0,8,8,True,0,False
+Stade de Reims,RC Lens,10.7,4.0,11,4,False,7,True
+Newcastle United,West Ham United,10.04,11.0,10,11,True,1,False
+Empoli,Udinese,8.37,9.0,8,9,True,1,False
+Venezia,Lecce,7.56,8.0,8,8,True,0,False
+Southampton,Liverpool,9.51,13.0,10,13,True,3,False
+Ipswich Town,Manchester United,8.41,7.0,8,7,False,1,False
+Newcastle United,West Ham United,10.04,11.0,10,11,True,1,False
+Genoa,Cagliari,8.53,14.0,9,14,True,5,True
+Como,Fiorentina,8.25,7.0,8,7,False,1,False
+Torino,Monza,8.2,10.0,8,10,True,2,False
+Napoli,Roma,11.51,10.0,12,10,False,2,False
+Lazio,Bologna,10.92,3.0,11,3,False,8,True
+Empoli,Udinese,8.37,9.0,8,9,True,1,False
+Venezia,Lecce,7.56,8.0,8,8,True,0,False
+Osasuna,Villarreal,9.66,8.0,10,8,False,2,False
+Sevilla,Rayo Vallecano,9.22,11.0,9,11,True,2,False
+Leganés,Real Madrid,9.14,6.0,9,6,False,3,False
+Athletic Club,Real Sociedad,10.02,8.0,10,8,False,2,False
+Holstein Kiel,1. FSV Mainz 05,8.37,8.0,8,8,True,0,False
+Borussia M'gladbach,FC St. Pauli,8.67,9.0,9,9,True,0,False
+Lille,Stade Rennais,9.59,6.0,10,6,False,4,False
+Auxerre,Angers,7.86,4.0,8,4,False,4,False
+Nantes,Le Havre,8.66,12.0,9,12,True,3,False
+Nice,RC Strasbourg,8.58,11.0,9,11,True,2,False
+Leicester City,Chelsea,9.76,11.0,10,11,True,1,False
+Arsenal,Nottingham Forest,9.81,9.0,10,9,False,1,False
+Aston Villa,Crystal Palace,9.81,11.0,10,11,True,1,False
+Bournemouth,Brighton & Hove Albion,9.71,7.0,10,7,False,3,False
+Everton,Brentford,8.58,14.0,9,14,True,5,True
+Fulham,Wolverhampton,9.21,9.0,9,9,True,0,False
+Manchester City,Tottenham Hotspur,11.53,12.0,12,12,True,0,False
+Southampton,Liverpool,9.51,13.0,10,13,True,3,False
+Ipswich Town,Manchester United,8.41,7.0,8,7,False,1,False
+Hellas Verona,Inter,9.46,6.0,9,6,False,3,False
+Milan,Juventus,11.26,6.0,11,6,False,5,True
+Parma,Atalanta,9.29,7.0,9,7,False,2,False
+Genoa,Cagliari,8.53,14.0,9,14,True,5,True
+Como,Fiorentina,8.25,7.0,8,7,False,1,False
+Torino,Monza,8.2,10.0,8,10,True,2,False
+Napoli,Roma,11.51,10.0,12,10,False,2,False
+Lazio,Bologna,10.92,3.0,11,3,False,8,True
+Valencia,Real Betis,9.37,6.0,9,6,False,3,False
+Atlético Madrid,Deportivo Alavés,9.5,5.0,10,5,False,5,True
+Girona FC,Espanyol,8.69,9.0,9,9,True,0,False
+Las Palmas,Mallorca,8.2,7.0,8,7,False,1,False
+Celta Vigo,Barcelona,9.66,6.0,10,6,False,4,False
+Osasuna,Villarreal,9.66,8.0,10,8,False,2,False
+Sevilla,Rayo Vallecano,9.22,11.0,9,11,True,2,False
+Leganés,Real Madrid,9.14,6.0,9,6,False,3,False
+Athletic Club,Real Sociedad,10.02,8.0,10,8,False,2,False
+Bayer 04 Leverkusen,1. FC Heidenheim,10.22,6.0,10,6,False,4,False
+Borussia Dortmund,SC Freiburg,9.73,7.0,10,7,False,3,False
+TSG Hoffenheim,RB Leipzig,9.43,7.0,9,7,False,2,False
+VfB Stuttgart,VfL Bochum 1848,9.74,11.0,10,11,True,1,False
+VfL Wolfsburg,1. FC Union Berlin,9.61,13.0,10,13,True,3,False
+Eintracht Frankfurt,SV Werder Bremen,10.12,11.0,10,11,True,1,False
+Holstein Kiel,1. FSV Mainz 05,8.37,8.0,8,8,True,0,False
+Borussia M'gladbach,FC St. Pauli,8.67,9.0,9,9,True,0,False
+RC Lens,Olympique de Marseille,12.19,6.0,12,6,False,6,True
+Saint-Étienne,Montpellier,8.36,16.0,8,16,True,8,True
+Stade de Reims,Olympique Lyonnais,9.84,6.0,10,6,False,4,False
+Lille,Stade Rennais,9.59,6.0,10,6,False,4,False
+Auxerre,Angers,7.86,4.0,8,4,False,4,False
+Nantes,Le Havre,8.66,12.0,9,12,True,3,False
+Nice,RC Strasbourg,8.58,11.0,9,11,True,2,False
+Leicester City,Chelsea,9.76,11.0,10,11,True,1,False
+Arsenal,Nottingham Forest,9.81,9.0,10,9,False,1,False
+Aston Villa,Crystal Palace,9.81,11.0,10,11,True,1,False
+Bournemouth,Brighton & Hove Albion,9.71,7.0,10,7,False,3,False
+Everton,Brentford,8.58,14.0,9,14,True,5,True
+Fulham,Wolverhampton,9.21,9.0,9,9,True,0,False
+Manchester City,Tottenham Hotspur,11.53,12.0,12,12,True,0,False
+Hellas Verona,Inter,9.46,6.0,9,6,False,3,False
+Milan,Juventus,11.26,6.0,11,6,False,5,True
+Parma,Atalanta,9.29,7.0,9,7,False,2,False
+Genoa,Cagliari,8.53,14.0,9,14,True,5,True
+Getafe,Real Valladolid,8.17,5.0,8,5,False,3,False
+Valencia,Real Betis,9.37,6.0,9,6,False,3,False
+Atlético Madrid,Deportivo Alavés,9.5,5.0,10,5,False,5,True
+Girona FC,Espanyol,8.69,9.0,9,9,True,0,False
+Las Palmas,Mallorca,8.2,7.0,8,7,False,1,False
+Celta Vigo,Barcelona,9.66,6.0,10,6,False,4,False
+FC Bayern München,FC Augsburg,9.46,8.0,9,8,False,1,False
+Bayer 04 Leverkusen,1. FC Heidenheim,10.22,6.0,10,6,False,4,False
+Borussia Dortmund,SC Freiburg,9.73,7.0,10,7,False,3,False
+TSG Hoffenheim,RB Leipzig,9.43,7.0,9,7,False,2,False
+VfB Stuttgart,VfL Bochum 1848,9.74,11.0,10,11,True,1,False
+VfL Wolfsburg,1. FC Union Berlin,9.61,13.0,10,13,True,3,False
+Eintracht Frankfurt,SV Werder Bremen,10.12,11.0,10,11,True,1,False
+AS Monaco,Stade Brestois,9.76,10.0,10,10,True,0,False
+Paris Saint-Germain,Toulouse,10.37,12.0,10,12,True,2,False
+RC Lens,Olympique de Marseille,12.19,6.0,12,6,False,6,True
+Saint-Étienne,Montpellier,8.36,16.0,8,16,True,8,True
+Stade de Reims,Olympique Lyonnais,9.84,6.0,10,6,False,4,False
+Getafe,Real Valladolid,8.17,5.0,8,5,False,3,False
+FC Bayern München,FC Augsburg,9.46,8.0,9,8,False,1,False
+AS Monaco,Stade Brestois,9.76,10.0,10,10,True,0,False
+Paris Saint-Germain,Toulouse,10.37,12.0,10,12,True,2,False
+Manchester United,Leicester City,8.7,6.0,9,6,False,3,False
+Nottingham Forest,Newcastle United,9.43,9.0,9,9,True,0,False
+Tottenham Hotspur,Ipswich Town,9.09,14.0,9,14,True,5,True
+Chelsea,Arsenal,12.26,7.0,12,7,False,5,True
+Atalanta,Udinese,9.82,9.0,10,9,False,1,False
+Fiorentina,Hellas Verona,7.67,11.0,8,11,True,3,False
+Roma,Bologna,10.76,7.0,11,7,False,4,False
+Monza,Lazio,9.69,12.0,10,12,True,2,False
+Inter,Napoli,12.26,6.0,12,6,False,6,True
+Real Betis,Celta Vigo,8.59,2.0,9,2,False,7,True
+Mallorca,Atlético Madrid,9.28,9.0,9,9,True,0,False
+Getafe,Girona FC,9.28,7.0,9,7,False,2,False
+Real Valladolid,Athletic Club,9.27,10.0,9,10,True,1,False
+Real Sociedad,Barcelona,10.37,13.0,10,13,True,3,False
+FC Augsburg,TSG Hoffenheim,8.9,16.0,9,16,True,7,True
+VfB Stuttgart,Eintracht Frankfurt,9.8,11.0,10,11,True,1,False
+1. FC Heidenheim,VfL Wolfsburg,9.06,10.0,9,10,True,1,False
+Nice,Lille,8.75,8.0,9,8,False,1,False
+Le Havre,Stade de Reims,9.1,15.0,9,15,True,6,True
+Montpellier,Stade Brestois,9.22,10.0,9,10,True,1,False
+Stade Rennais,Toulouse,9.87,8.0,10,8,False,2,False
+Olympique Lyonnais,Saint-Étienne,8.64,13.0,9,13,True,4,False
+Brentford,Bournemouth,9.59,10.0,10,10,True,0,False
+Crystal Palace,Fulham,10.11,9.0,10,9,False,1,False
+West Ham United,Everton,8.7,13.0,9,13,True,4,False
+Wolverhampton,Southampton,7.64,10.0,8,10,True,2,False
+Brighton & Hove Albion,Manchester City,10.41,4.0,10,4,False,6,True
+Liverpool,Aston Villa,11.33,11.0,11,11,True,0,False
+Manchester United,Leicester City,8.7,6.0,9,6,False,3,False
+Nottingham Forest,Newcastle United,9.43,9.0,9,9,True,0,False
+Tottenham Hotspur,Ipswich Town,9.09,14.0,9,14,True,5,True
+Chelsea,Arsenal,12.26,7.0,12,7,False,5,True
+Venezia,Parma,7.85,12.0,8,12,True,4,False
+Cagliari,Milan,9.72,9.0,10,9,False,1,False
+Juventus,Torino,9.17,10.0,9,10,True,1,False
+Atalanta,Udinese,9.82,9.0,10,9,False,1,False
+Fiorentina,Hellas Verona,7.67,11.0,8,11,True,3,False
+Roma,Bologna,10.76,7.0,11,7,False,4,False
+Monza,Lazio,9.69,12.0,10,12,True,2,False
+Inter,Napoli,12.26,6.0,12,6,False,6,True
+Real Madrid,Osasuna,9.84,14.0,10,14,True,4,False
+Villarreal,Deportivo Alavés,9.75,9.0,10,9,False,1,False
+Leganés,Sevilla,7.93,6.0,8,6,False,2,False
+Real Betis,Celta Vigo,8.59,2.0,9,2,False,7,True
+Mallorca,Atlético Madrid,9.28,9.0,9,9,True,0,False
+Getafe,Girona FC,9.28,7.0,9,7,False,2,False
+Real Valladolid,Athletic Club,9.27,10.0,9,10,True,1,False
+Real Sociedad,Barcelona,10.37,13.0,10,13,True,3,False
+1. FSV Mainz 05,Borussia Dortmund,10.04,8.0,10,8,False,2,False
+FC St. Pauli,FC Bayern München,10.08,15.0,10,15,True,5,True
+SV Werder Bremen,Holstein Kiel,8.77,9.0,9,9,True,0,False
+VfL Bochum 1848,Bayer 04 Leverkusen,10.93,10.0,11,10,False,1,False
+RB Leipzig,Borussia M'gladbach,9.12,12.0,9,12,True,3,False
+FC Augsburg,TSG Hoffenheim,8.9,16.0,9,16,True,7,True
+VfB Stuttgart,Eintracht Frankfurt,9.8,11.0,10,11,True,1,False
+1. FC Heidenheim,VfL Wolfsburg,9.06,10.0,9,10,True,1,False
+RC Strasbourg,AS Monaco,8.94,3.0,9,3,False,6,True
+RC Lens,Nantes,9.64,7.0,10,7,False,3,False
+Angers,Paris Saint-Germain,9.53,14.0,10,14,True,4,False
+Nice,Lille,8.75,8.0,9,8,False,1,False
+Le Havre,Stade de Reims,9.1,15.0,9,15,True,6,True
+Montpellier,Stade Brestois,9.22,10.0,9,10,True,1,False
+Stade Rennais,Toulouse,9.87,8.0,10,8,False,2,False
+Olympique Lyonnais,Saint-Étienne,8.64,13.0,9,13,True,4,False
+Brentford,Bournemouth,9.59,10.0,10,10,True,0,False
+Crystal Palace,Fulham,10.11,9.0,10,9,False,1,False
+West Ham United,Everton,8.7,13.0,9,13,True,4,False
+Wolverhampton,Southampton,7.64,10.0,8,10,True,2,False
+Brighton & Hove Albion,Manchester City,10.41,4.0,10,4,False,6,True
+Liverpool,Aston Villa,11.33,11.0,11,11,True,0,False
+Lecce,Empoli,7.56,7.0,8,7,False,1,False
+Venezia,Parma,7.85,12.0,8,12,True,4,False
+Cagliari,Milan,9.72,9.0,10,9,False,1,False
+Juventus,Torino,9.17,10.0,9,10,True,1,False
+Atalanta,Udinese,9.82,9.0,10,9,False,1,False
+Rayo Vallecano,Las Palmas,8.87,16.0,9,16,True,7,True
+Real Madrid,Osasuna,9.84,14.0,10,14,True,4,False
+Villarreal,Deportivo Alavés,9.75,9.0,10,9,False,1,False
+Leganés,Sevilla,7.93,6.0,8,6,False,2,False
+1. FC Union Berlin,SC Freiburg,9.01,5.0,9,5,False,4,False
+1. FSV Mainz 05,Borussia Dortmund,10.04,8.0,10,8,False,2,False
+FC St. Pauli,FC Bayern München,10.08,15.0,10,15,True,5,True
+SV Werder Bremen,Holstein Kiel,8.77,9.0,9,9,True,0,False
+VfL Bochum 1848,Bayer 04 Leverkusen,10.93,10.0,11,10,False,1,False
+RB Leipzig,Borussia M'gladbach,9.12,12.0,9,12,True,3,False
+Olympique de Marseille,Auxerre,9.68,8.0,10,8,False,2,False
+RC Strasbourg,AS Monaco,8.94,3.0,9,3,False,6,True
+RC Lens,Nantes,9.64,7.0,10,7,False,3,False
+Angers,Paris Saint-Germain,9.53,14.0,10,14,True,4,False
+Genoa,Como,8.62,13.0,9,13,True,4,False
+Lecce,Empoli,7.56,7.0,8,7,False,1,False
+Rayo Vallecano,Las Palmas,8.87,16.0,9,16,True,7,True
+1. FC Union Berlin,SC Freiburg,9.01,5.0,9,5,False,4,False
+Olympique de Marseille,Auxerre,9.68,8.0,10,8,False,2,False
+Genoa,Como,8.62,13.0,9,13,True,4,False
+Fulham,Brentford,9.93,14.0,10,14,True,4,False
+Empoli,Como,8.12,9.0,8,9,True,1,False
+Parma,Genoa,8.34,10.0,8,10,True,2,False
+Lazio,Cagliari,9.77,5.0,10,5,False,5,True
+Celta Vigo,Getafe,8.29,2.0,8,2,False,6,True
+Tottenham Hotspur,Aston Villa,10.77,10.0,11,10,False,1,False
+Manchester United,Chelsea,10.89,12.0,11,12,True,1,False
+Fulham,Brentford,9.93,14.0,10,14,True,4,False
+Napoli,Atalanta,11.36,7.0,11,7,False,4,False
+Torino,Fiorentina,7.94,4.0,8,4,False,4,False
+Hellas Verona,Roma,8.94,4.0,9,4,False,5,True
+Inter,Venezia,9.46,12.0,9,12,True,3,False
+Empoli,Como,8.12,9.0,8,9,True,1,False
+Parma,Genoa,8.34,10.0,8,10,True,2,False
+Lazio,Cagliari,9.77,5.0,10,5,False,5,True
+Atlético Madrid,Las Palmas,8.94,10.0,9,10,True,1,False
+Barcelona,Espanyol,9.46,14.0,9,14,True,5,True
+Sevilla,Real Sociedad,8.76,14.0,9,14,True,5,True
+Athletic Club,Real Betis,10.05,8.0,10,8,False,2,False
+Celta Vigo,Getafe,8.29,2.0,8,2,False,6,True
+SC Freiburg,1. FSV Mainz 05,8.64,12.0,9,12,True,3,False
+Borussia M'gladbach,SV Werder Bremen,9.52,14.0,10,14,True,4,False
+Toulouse,Stade de Reims,9.23,13.0,9,13,True,4,False
+Auxerre,Stade Rennais,9.4,11.0,9,11,True,2,False
+Le Havre,Montpellier,8.94,12.0,9,12,True,3,False
+Nantes,Olympique de Marseille,9.7,7.0,10,7,False,3,False
+Newcastle United,Arsenal,11.81,10.0,12,10,False,2,False
+Bournemouth,Manchester City,11.47,13.0,11,13,True,2,False
+Ipswich Town,Leicester City,7.83,10.0,8,10,True,2,False
+Liverpool,Brighton & Hove Albion,10.41,16.0,10,16,True,6,True
+Nottingham Forest,West Ham United,8.54,16.0,9,16,True,7,True
+Southampton,Everton,7.81,9.0,8,9,True,1,False
+Wolverhampton,Crystal Palace,8.51,9.0,9,9,True,0,False
+Tottenham Hotspur,Aston Villa,10.77,10.0,11,10,False,1,False
+Manchester United,Chelsea,10.89,12.0,11,12,True,1,False
+Bologna,Lecce,9.01,10.0,9,10,True,1,False
+Udinese,Juventus,9.8,13.0,10,13,True,3,False
+Monza,Milan,9.63,8.0,10,8,False,2,False
+Napoli,Atalanta,11.36,7.0,11,7,False,4,False
+Torino,Fiorentina,7.94,4.0,8,4,False,4,False
+Hellas Verona,Roma,8.94,4.0,9,4,False,5,True
+Inter,Venezia,9.46,12.0,9,12,True,3,False
+Osasuna,Real Valladolid,8.23,9.0,8,9,True,1,False
+Girona FC,Leganés,8.69,7.0,9,7,False,2,False
+Atlético Madrid,Las Palmas,8.94,10.0,9,10,True,1,False
+Barcelona,Espanyol,9.46,14.0,9,14,True,5,True
+Sevilla,Real Sociedad,8.76,14.0,9,14,True,5,True
+Athletic Club,Real Betis,10.05,8.0,10,8,False,2,False
+Eintracht Frankfurt,VfL Bochum 1848,9.97,7.0,10,7,False,3,False
+FC Bayern München,1. FC Union Berlin,10.93,11.0,11,11,True,0,False
+Holstein Kiel,1. FC Heidenheim,8.32,11.0,8,11,True,3,False
+TSG Hoffenheim,FC St. Pauli,9.43,9.0,9,9,True,0,False
+VfL Wolfsburg,FC Augsburg,8.7,9.0,9,9,True,0,False
+Borussia Dortmund,RB Leipzig,9.98,4.0,10,4,False,6,True
+SC Freiburg,1. FSV Mainz 05,8.64,12.0,9,12,True,3,False
+Borussia M'gladbach,SV Werder Bremen,9.52,14.0,10,14,True,4,False
+Paris Saint-Germain,RC Lens,12.19,11.0,12,11,False,1,False
+Stade Brestois,Nice,9.3,8.0,9,8,False,1,False
+Saint-Étienne,RC Strasbourg,7.76,5.0,8,5,False,3,False
+Toulouse,Stade de Reims,9.23,13.0,9,13,True,4,False
+Auxerre,Stade Rennais,9.4,11.0,9,11,True,2,False
+Le Havre,Montpellier,8.94,12.0,9,12,True,3,False
+Nantes,Olympique de Marseille,9.7,7.0,10,7,False,3,False
+Newcastle United,Arsenal,11.81,10.0,12,10,False,2,False
+Bournemouth,Manchester City,11.47,13.0,11,13,True,2,False
+Ipswich Town,Leicester City,7.83,10.0,8,10,True,2,False
+Liverpool,Brighton & Hove Albion,10.41,16.0,10,16,True,6,True
+Nottingham Forest,West Ham United,8.54,16.0,9,16,True,7,True
+Southampton,Everton,7.81,9.0,8,9,True,1,False
+Wolverhampton,Crystal Palace,8.51,9.0,9,9,True,0,False
+Bologna,Lecce,9.01,10.0,9,10,True,1,False
+Udinese,Juventus,9.8,13.0,10,13,True,3,False
+Monza,Milan,9.63,8.0,10,8,False,2,False
+Napoli,Atalanta,11.36,7.0,11,7,False,4,False
+Deportivo Alavés,Mallorca,8.74,9.0,9,9,True,0,False
+Osasuna,Real Valladolid,8.23,9.0,8,9,True,1,False
+Girona FC,Leganés,8.69,7.0,9,7,False,2,False
+Bayer 04 Leverkusen,VfB Stuttgart,10.61,12.0,11,12,True,1,False
+Eintracht Frankfurt,VfL Bochum 1848,9.97,7.0,10,7,False,3,False
+FC Bayern München,1. FC Union Berlin,10.93,11.0,11,11,True,0,False
+Holstein Kiel,1. FC Heidenheim,8.32,11.0,8,11,True,3,False
+TSG Hoffenheim,FC St. Pauli,9.43,9.0,9,9,True,0,False
+VfL Wolfsburg,FC Augsburg,8.7,9.0,9,9,True,0,False
+Borussia Dortmund,RB Leipzig,9.98,4.0,10,4,False,6,True
+AS Monaco,Angers,8.82,8.0,9,8,False,1,False
+Lille,Olympique Lyonnais,9.07,13.0,9,13,True,4,False
+Paris Saint-Germain,RC Lens,12.19,11.0,12,11,False,1,False
+Stade Brestois,Nice,9.3,8.0,9,8,False,1,False
+Saint-Étienne,RC Strasbourg,7.76,5.0,8,5,False,3,False
+Genoa,Fiorentina,8.17,8.0,8,8,True,0,False
+Como,Lazio,9.9,8.0,10,8,False,2,False
+Roma,Torino,9.1,8.0,9,8,False,1,False
+Deportivo Alavés,Mallorca,8.74,9.0,9,9,True,0,False
+Bayer 04 Leverkusen,VfB Stuttgart,10.61,12.0,11,12,True,1,False
+AS Monaco,Angers,8.82,8.0,9,8,False,1,False
+Lille,Olympique Lyonnais,9.07,13.0,9,13,True,4,False
+Empoli,Inter,9.46,5.0,9,5,False,4,False
+Venezia,Udinese,8.37,8.0,8,8,True,0,False
+Atalanta,Monza,9.38,6.0,9,6,False,3,False
+Juventus,Parma,9.27,16.0,9,16,True,7,True
+Genoa,Fiorentina,8.17,8.0,8,8,True,0,False
+Como,Lazio,9.9,8.0,10,8,False,2,False
+Roma,Torino,9.1,8.0,9,8,False,1,False
+Cagliari,Bologna,9.56,9.0,10,9,False,1,False
+Lecce,Hellas Verona,7.56,7.0,8,7,False,1,False
+Milan,Napoli,11.95,6.0,12,6,False,6,True
+Empoli,Inter,9.46,5.0,9,5,False,4,False
+Venezia,Udinese,8.37,8.0,8,8,True,0,False
+Atalanta,Monza,9.38,6.0,9,6,False,3,False
+Juventus,Parma,9.27,16.0,9,16,True,7,True
+Cagliari,Bologna,9.56,9.0,10,9,False,1,False
+Lecce,Hellas Verona,7.56,7.0,8,7,False,1,False
+Milan,Napoli,11.95,6.0,12,6,False,6,True
+Mallorca,Athletic Club,9.65,15.0,10,15,True,5,True
+Chelsea,Newcastle United,11.66,11.0,12,11,False,1,False
+Crystal Palace,Tottenham Hotspur,9.87,16.0,10,16,True,6,True
+West Ham United,Manchester United,9.19,11.0,9,11,True,2,False
+Arsenal,Liverpool,12.26,4.0,12,4,False,8,True
+Parma,Empoli,7.85,12.0,8,12,True,4,False
+Lazio,Genoa,9.65,11.0,10,11,True,1,False
+Monza,Venezia,7.83,7.0,8,7,False,1,False
+Inter,Juventus,11.56,18.0,12,18,True,6,True
+Fiorentina,Roma,9.07,8.0,9,8,False,1,False
+Leganés,Celta Vigo,7.72,6.0,8,6,False,2,False
+Getafe,Valencia,9.07,10.0,9,10,True,1,False
+Real Betis,Atlético Madrid,9.66,13.0,10,13,True,3,False
+Real Sociedad,Osasuna,9.01,18.0,9,18,True,9,True
+Mallorca,Athletic Club,9.65,15.0,10,15,True,5,True
+VfL Bochum 1848,FC Bayern München,10.93,8.0,11,8,False,3,False
+1. FC Union Berlin,Eintracht Frankfurt,9.6,9.0,10,9,False,1,False
+1. FC Heidenheim,TSG Hoffenheim,9.67,10.0,10,10,True,0,False
+Olympique Lyonnais,Auxerre,8.97,10.0,9,10,True,1,False
+Montpellier,Toulouse,9.22,4.0,9,4,False,5,True
+Nice,AS Monaco,9.57,12.0,10,12,True,2,False
+RC Strasbourg,Nantes,7.94,9.0,8,9,True,1,False
+Olympique de Marseille,Paris Saint-Germain,12.26,3.0,12,3,False,9,True
+Aston Villa,Bournemouth,10.51,16.0,11,16,True,5,True
+Brentford,Ipswich Town,8.37,9.0,8,9,True,1,False
+Brighton & Hove Albion,Wolverhampton,8.56,15.0,9,15,True,6,True
+Manchester City,Southampton,9.51,13.0,10,13,True,3,False
+Everton,Fulham,9.39,6.0,9,6,False,3,False
+Chelsea,Newcastle United,11.66,11.0,12,11,False,1,False
+Crystal Palace,Tottenham Hotspur,9.87,16.0,10,16,True,6,True
+West Ham United,Manchester United,9.19,11.0,9,11,True,2,False
+Arsenal,Liverpool,12.26,4.0,12,4,False,8,True
+Napoli,Lecce,9.46,21.0,9,21,True,12,True
+Atalanta,Hellas Verona,8.99,6.0,9,6,False,3,False
+Parma,Empoli,7.85,12.0,8,12,True,4,False
+Lazio,Genoa,9.65,11.0,10,11,True,1,False
+Monza,Venezia,7.83,7.0,8,7,False,1,False
+Inter,Juventus,11.56,18.0,12,18,True,6,True
+Fiorentina,Roma,9.07,8.0,9,8,False,1,False
+Real Valladolid,Villarreal,9.02,10.0,9,10,True,1,False
+Rayo Vallecano,Deportivo Alavés,9.59,8.0,10,8,False,2,False
+Las Palmas,Girona FC,8.74,8.0,9,8,False,1,False
+Real Madrid,Barcelona,11.53,13.0,12,13,True,1,False
+Leganés,Celta Vigo,7.72,6.0,8,6,False,2,False
+Getafe,Valencia,9.07,10.0,9,10,True,1,False
+Real Betis,Atlético Madrid,9.66,13.0,10,13,True,3,False
+Real Sociedad,Osasuna,9.01,18.0,9,18,True,9,True
+FC Augsburg,Borussia Dortmund,9.46,8.0,9,8,False,1,False
+FC St. Pauli,VfL Wolfsburg,8.94,13.0,9,13,True,4,False
+RB Leipzig,SC Freiburg,8.5,6.0,8,6,False,2,False
+VfB Stuttgart,Holstein Kiel,8.78,14.0,9,14,True,5,True
+SV Werder Bremen,Bayer 04 Leverkusen,11.1,8.0,11,8,False,3,False
+VfL Bochum 1848,FC Bayern München,10.93,8.0,11,8,False,3,False
+1. FC Union Berlin,Eintracht Frankfurt,9.6,9.0,10,9,False,1,False
+1. FC Heidenheim,TSG Hoffenheim,9.67,10.0,10,10,True,0,False
+Angers,Saint-Étienne,7.66,5.0,8,5,False,3,False
+Stade de Reims,Stade Brestois,9.72,10.0,10,10,True,0,False
+RC Lens,Lille,9.72,10.0,10,10,True,0,False
+Olympique Lyonnais,Auxerre,8.97,10.0,9,10,True,1,False
+Montpellier,Toulouse,9.22,4.0,9,4,False,5,True
+Nice,AS Monaco,9.57,12.0,10,12,True,2,False
+RC Strasbourg,Nantes,7.94,9.0,8,9,True,1,False
+Olympique de Marseille,Paris Saint-Germain,12.26,3.0,12,3,False,9,True
+Leicester City,Nottingham Forest,8.19,13.0,8,13,True,5,True
+Aston Villa,Bournemouth,10.51,16.0,11,16,True,5,True
+Brentford,Ipswich Town,8.37,9.0,8,9,True,1,False
+Brighton & Hove Albion,Wolverhampton,8.56,15.0,9,15,True,6,True
+Manchester City,Southampton,9.51,13.0,10,13,True,3,False
+Everton,Fulham,9.39,6.0,9,6,False,3,False
+Udinese,Cagliari,8.86,6.0,9,6,False,3,False
+Torino,Como,8.39,4.0,8,4,False,4,False
+Napoli,Lecce,9.46,21.0,9,21,True,12,True
+Atalanta,Hellas Verona,8.99,6.0,9,6,False,3,False
+Parma,Empoli,7.85,12.0,8,12,True,4,False
+Espanyol,Sevilla,7.93,15.0,8,15,True,7,True
+Real Valladolid,Villarreal,9.02,10.0,9,10,True,1,False
+Rayo Vallecano,Deportivo Alavés,9.59,8.0,10,8,False,2,False
+Las Palmas,Girona FC,8.74,8.0,9,8,False,1,False
+Real Madrid,Barcelona,11.53,13.0,12,13,True,1,False
+1. FSV Mainz 05,Borussia M'gladbach,9.12,6.0,9,6,False,3,False
+FC Augsburg,Borussia Dortmund,9.46,8.0,9,8,False,1,False
+FC St. Pauli,VfL Wolfsburg,8.94,13.0,9,13,True,4,False
+RB Leipzig,SC Freiburg,8.5,6.0,8,6,False,2,False
+VfB Stuttgart,Holstein Kiel,8.78,14.0,9,14,True,5,True
+SV Werder Bremen,Bayer 04 Leverkusen,11.1,8.0,11,8,False,3,False
+Stade Rennais,Le Havre,9.71,14.0,10,14,True,4,False
+Angers,Saint-Étienne,7.66,5.0,8,5,False,3,False
+Stade de Reims,Stade Brestois,9.72,10.0,10,10,True,0,False
+RC Lens,Lille,9.72,10.0,10,10,True,0,False
+Leicester City,Nottingham Forest,8.19,13.0,8,13,True,5,True
+Udinese,Cagliari,8.86,6.0,9,6,False,3,False
+Torino,Como,8.39,4.0,8,4,False,4,False
+Espanyol,Sevilla,7.93,15.0,8,15,True,7,True
+1. FSV Mainz 05,Borussia M'gladbach,9.12,6.0,9,6,False,3,False
+Stade Rennais,Le Havre,9.71,14.0,10,14,True,4,False
+Nottingham Forest,Crystal Palace,8.84,12.0,9,12,True,3,False
+Hellas Verona,Monza,7.94,15.0,8,15,True,7,True
+Valencia,Las Palmas,8.66,13.0,9,13,True,4,False
+Wolverhampton,Manchester City,9.51,19.0,10,19,True,9,True
+Liverpool,Chelsea,12.26,6.0,12,6,False,6,True
+Nottingham Forest,Crystal Palace,8.84,12.0,9,12,True,3,False
+Empoli,Napoli,9.46,14.0,9,14,True,5,True
+Lecce,Fiorentina,7.67,4.0,8,4,False,4,False
+Venezia,Atalanta,8.99,7.0,9,7,False,2,False
+Cagliari,Torino,8.19,21.0,8,21,True,13,True
+Roma,Inter,11.2,6.0,11,6,False,5,True
+Hellas Verona,Monza,7.94,15.0,8,15,True,7,True
+Mallorca,Rayo Vallecano,9.24,11.0,9,11,True,2,False
+Atlético Madrid,Leganés,8.78,10.0,9,10,True,1,False
+Villarreal,Getafe,9.48,10.0,9,10,True,1,False
+Barcelona,Sevilla,9.82,10.0,10,10,True,0,False
+Valencia,Las Palmas,8.66,13.0,9,13,True,4,False
+Holstein Kiel,1. FC Union Berlin,8.58,10.0,9,10,True,1,False
+VfL Wolfsburg,SV Werder Bremen,10.04,8.0,10,8,False,2,False
+Le Havre,Olympique Lyonnais,9.34,10.0,9,10,True,1,False
+Auxerre,Stade de Reims,8.8,14.0,9,14,True,5,True
+Nantes,Nice,8.62,12.0,9,12,True,3,False
+Toulouse,Angers,8.62,10.0,9,10,True,1,False
+Montpellier,Olympique de Marseille,10.35,5.0,10,5,False,5,True
+Tottenham Hotspur,West Ham United,10.26,18.0,10,18,True,8,True
+Fulham,Aston Villa,11.01,17.0,11,17,True,6,True
+Manchester United,Brentford,9.19,11.0,9,11,True,2,False
+Newcastle United,Brighton & Hove Albion,10.01,13.0,10,13,True,3,False
+Southampton,Leicester City,7.87,16.0,8,16,True,8,True
+Ipswich Town,Everton,7.77,12.0,8,12,True,4,False
+Bournemouth,Arsenal,11.47,11.0,11,11,True,0,False
+Wolverhampton,Manchester City,9.51,19.0,10,19,True,9,True
+Liverpool,Chelsea,12.26,6.0,12,6,False,6,True
+Como,Parma,8.42,11.0,8,11,True,3,False
+Genoa,Bologna,9.44,8.0,9,8,False,1,False
+Milan,Udinese,10.01,12.0,10,12,True,2,False
+Juventus,Lazio,11.16,8.0,11,8,False,3,False
+Empoli,Napoli,9.46,14.0,9,14,True,5,True
+Lecce,Fiorentina,7.67,4.0,8,4,False,4,False
+Venezia,Atalanta,8.99,7.0,9,7,False,2,False
+Cagliari,Torino,8.19,21.0,8,21,True,13,True
+Roma,Inter,11.2,6.0,11,6,False,5,True
+Athletic Club,Espanyol,9.21,10.0,9,10,True,1,False
+Osasuna,Real Betis,8.9,12.0,9,12,True,3,False
+Girona FC,Real Sociedad,9.54,12.0,10,12,True,2,False
+Celta Vigo,Real Madrid,9.33,8.0,9,8,False,1,False
+Mallorca,Rayo Vallecano,9.24,11.0,9,11,True,2,False
+Atlético Madrid,Leganés,8.78,10.0,9,10,True,1,False
+Villarreal,Getafe,9.48,10.0,9,10,True,1,False
+Barcelona,Sevilla,9.82,10.0,10,10,True,0,False
+1. FSV Mainz 05,RB Leipzig,9.18,8.0,9,8,False,1,False
+Bayer 04 Leverkusen,Eintracht Frankfurt,11.19,11.0,11,11,True,0,False
+Borussia M'gladbach,1. FC Heidenheim,8.92,9.0,9,9,True,0,False
+SC Freiburg,FC Augsburg,7.97,9.0,8,9,True,1,False
+TSG Hoffenheim,VfL Bochum 1848,10.02,6.0,10,6,False,4,False
+FC Bayern München,VfB Stuttgart,10.72,10.0,11,10,False,1,False
+Holstein Kiel,1. FC Union Berlin,8.58,10.0,9,10,True,1,False
+VfL Wolfsburg,SV Werder Bremen,10.04,8.0,10,8,False,2,False
+Stade Brestois,Stade Rennais,10.0,6.0,10,6,False,4,False
+Saint-Étienne,RC Lens,9.45,9.0,9,9,True,0,False
+Paris Saint-Germain,RC Strasbourg,9.66,10.0,10,10,True,0,False
+Le Havre,Olympique Lyonnais,9.34,10.0,9,10,True,1,False
+Auxerre,Stade de Reims,8.8,14.0,9,14,True,5,True
+Nantes,Nice,8.62,12.0,9,12,True,3,False
+Toulouse,Angers,8.62,10.0,9,10,True,1,False
+Montpellier,Olympique de Marseille,10.35,5.0,10,5,False,5,True
+Tottenham Hotspur,West Ham United,10.26,18.0,10,18,True,8,True
+Fulham,Aston Villa,11.01,17.0,11,17,True,6,True
+Manchester United,Brentford,9.19,11.0,9,11,True,2,False
+Newcastle United,Brighton & Hove Albion,10.01,13.0,10,13,True,3,False
+Southampton,Leicester City,7.87,16.0,8,16,True,8,True
+Ipswich Town,Everton,7.77,12.0,8,12,True,4,False
+Bournemouth,Arsenal,11.47,11.0,11,11,True,0,False
+Como,Parma,8.42,11.0,8,11,True,3,False
+Genoa,Bologna,9.44,8.0,9,8,False,1,False
+Milan,Udinese,10.01,12.0,10,12,True,2,False
+Juventus,Lazio,11.16,8.0,11,8,False,3,False
+Empoli,Napoli,9.46,14.0,9,14,True,5,True
+Deportivo Alavés,Real Valladolid,8.31,11.0,8,11,True,3,False
+Athletic Club,Espanyol,9.21,10.0,9,10,True,1,False
+Osasuna,Real Betis,8.9,12.0,9,12,True,3,False
+Girona FC,Real Sociedad,9.54,12.0,10,12,True,2,False
+Celta Vigo,Real Madrid,9.33,8.0,9,8,False,1,False
+Borussia Dortmund,FC St. Pauli,10.02,8.0,10,8,False,2,False
+1. FSV Mainz 05,RB Leipzig,9.18,8.0,9,8,False,1,False
+Bayer 04 Leverkusen,Eintracht Frankfurt,11.19,11.0,11,11,True,0,False
+Borussia M'gladbach,1. FC Heidenheim,8.92,9.0,9,9,True,0,False
+SC Freiburg,FC Augsburg,7.97,9.0,8,9,True,1,False
+TSG Hoffenheim,VfL Bochum 1848,10.02,6.0,10,6,False,4,False
+FC Bayern München,VfB Stuttgart,10.72,10.0,11,10,False,1,False
+AS Monaco,Lille,9.34,7.0,9,7,False,2,False
+Stade Brestois,Stade Rennais,10.0,6.0,10,6,False,4,False
+Saint-Étienne,RC Lens,9.45,9.0,9,9,True,0,False
+Paris Saint-Germain,RC Strasbourg,9.66,10.0,10,10,True,0,False
+Tottenham Hotspur,West Ham United,10.26,18.0,10,18,True,8,True
+Deportivo Alavés,Real Valladolid,8.31,11.0,8,11,True,3,False
+Borussia Dortmund,FC St. Pauli,10.02,8.0,10,8,False,2,False
+AS Monaco,Lille,9.34,7.0,9,7,False,2,False
+Aston Villa,Manchester United,9.93,9.0,10,9,False,1,False
+Chelsea,Nottingham Forest,9.68,14.0,10,14,True,4,False
+Brighton & Hove Albion,Tottenham Hotspur,9.86,11.0,10,11,True,1,False
+Juventus,Cagliari,9.52,11.0,10,11,True,1,False
+Bologna,Parma,9.33,19.0,9,19,True,10,True
+Lazio,Empoli,9.21,8.0,9,8,False,1,False
+Monza,Roma,9.24,4.0,9,4,False,5,True
+Fiorentina,Milan,9.34,7.0,9,7,False,2,False
+Girona FC,Athletic Club,10.49,7.0,10,7,False,3,False
+Deportivo Alavés,Barcelona,10.36,14.0,10,14,True,4,False
+Sevilla,Real Betis,8.8,5.0,9,5,False,4,False
+Real Sociedad,Atlético Madrid,9.63,6.0,10,6,False,4,False
+1. FC Heidenheim,RB Leipzig,8.99,5.0,9,5,False,4,False
+Eintracht Frankfurt,FC Bayern München,11.19,11.0,11,11,True,0,False
+VfB Stuttgart,TSG Hoffenheim,10.14,15.0,10,15,True,5,True
+Olympique Lyonnais,Nantes,8.94,15.0,9,15,True,6,True
+RC Strasbourg,RC Lens,9.6,8.0,10,8,False,2,False
+Stade Brestois,Le Havre,9.07,10.0,9,10,True,1,False
+Stade de Reims,Montpellier,9.24,8.0,9,8,False,1,False
+Nice,Paris Saint-Germain,10.53,20.0,11,20,True,9,True
+Crystal Palace,Liverpool,10.36,11.0,10,11,True,1,False
+Arsenal,Southampton,9.51,14.0,10,14,True,4,False
+Brentford,Wolverhampton,8.41,13.0,8,13,True,5,True
+Leicester City,Bournemouth,9.1,9.0,9,9,True,0,False
+Manchester City,Fulham,11.63,11.0,12,11,False,1,False
+West Ham United,Ipswich Town,8.33,10.0,8,10,True,2,False
+Everton,Newcastle United,9.33,10.0,9,10,True,1,False
+Aston Villa,Manchester United,9.93,9.0,10,9,False,1,False
+Chelsea,Nottingham Forest,9.68,14.0,10,14,True,4,False
+Brighton & Hove Albion,Tottenham Hotspur,9.86,11.0,10,11,True,1,False
+Udinese,Lecce,8.37,5.0,8,5,False,3,False
+Atalanta,Genoa,9.35,6.0,9,6,False,3,False
+Inter,Torino,9.63,14.0,10,14,True,4,False
+Juventus,Cagliari,9.52,11.0,10,11,True,1,False
+Bologna,Parma,9.33,19.0,9,19,True,10,True
+Lazio,Empoli,9.21,8.0,9,8,False,1,False
+Monza,Roma,9.24,4.0,9,4,False,5,True
+Fiorentina,Milan,9.34,7.0,9,7,False,2,False
+Espanyol,Mallorca,8.04,10.0,8,10,True,2,False
+Getafe,Osasuna,8.75,6.0,9,6,False,3,False
+Las Palmas,Celta Vigo,7.88,13.0,8,13,True,5,True
+Real Valladolid,Rayo Vallecano,8.88,18.0,9,18,True,9,True
+Real Madrid,Villarreal,10.83,7.0,11,7,False,4,False
+Girona FC,Athletic Club,10.49,7.0,10,7,False,3,False
+Deportivo Alavés,Barcelona,10.36,14.0,10,14,True,4,False
+Sevilla,Real Betis,8.8,5.0,9,5,False,4,False
+Real Sociedad,Atlético Madrid,9.63,6.0,10,6,False,4,False
+1. FC Union Berlin,Borussia Dortmund,10.79,6.0,11,6,False,5,True
+Bayer 04 Leverkusen,Holstein Kiel,9.46,15.0,9,15,True,6,True
+SV Werder Bremen,SC Freiburg,9.19,12.0,9,12,True,3,False
+VfL Bochum 1848,VfL Wolfsburg,9.89,13.0,10,13,True,3,False
+FC St. Pauli,1. FSV Mainz 05,8.74,4.0,9,4,False,5,True
+1. FC Heidenheim,RB Leipzig,8.99,5.0,9,5,False,4,False
+Eintracht Frankfurt,FC Bayern München,11.19,11.0,11,11,True,0,False
+VfB Stuttgart,TSG Hoffenheim,10.14,15.0,10,15,True,5,True
+Saint-Étienne,Auxerre,7.85,9.0,8,9,True,1,False
+Lille,Toulouse,8.99,10.0,9,10,True,1,False
+Stade Rennais,AS Monaco,10.29,14.0,10,14,True,4,False
+Olympique Lyonnais,Nantes,8.94,15.0,9,15,True,6,True
+RC Strasbourg,RC Lens,9.6,8.0,10,8,False,2,False
+Stade Brestois,Le Havre,9.07,10.0,9,10,True,1,False
+Stade de Reims,Montpellier,9.24,8.0,9,8,False,1,False
+Nice,Paris Saint-Germain,10.53,20.0,11,20,True,9,True
+Crystal Palace,Liverpool,10.36,11.0,10,11,True,1,False
+Arsenal,Southampton,9.51,14.0,10,14,True,4,False
+Brentford,Wolverhampton,8.41,13.0,8,13,True,5,True
+Leicester City,Bournemouth,9.1,9.0,9,9,True,0,False
+Manchester City,Fulham,11.63,11.0,12,11,False,1,False
+West Ham United,Ipswich Town,8.33,10.0,8,10,True,2,False
+Everton,Newcastle United,9.33,10.0,9,10,True,1,False
+Napoli,Como,10.24,5.0,10,5,False,5,True
+Hellas Verona,Venezia,7.56,19.0,8,19,True,11,True
+Udinese,Lecce,8.37,5.0,8,5,False,3,False
+Atalanta,Genoa,9.35,6.0,9,6,False,3,False
+Inter,Torino,9.63,14.0,10,14,True,4,False
+Juventus,Cagliari,9.52,11.0,10,11,True,1,False
+Leganés,Valencia,8.5,3.0,8,3,False,5,True
+Espanyol,Mallorca,8.04,10.0,8,10,True,2,False
+Getafe,Osasuna,8.75,6.0,9,6,False,3,False
+Las Palmas,Celta Vigo,7.88,13.0,8,13,True,5,True
+Real Valladolid,Rayo Vallecano,8.88,18.0,9,18,True,9,True
+Real Madrid,Villarreal,10.83,7.0,11,7,False,4,False
+FC Augsburg,Borussia M'gladbach,8.45,11.0,8,11,True,3,False
+1. FC Union Berlin,Borussia Dortmund,10.79,6.0,11,6,False,5,True
+Bayer 04 Leverkusen,Holstein Kiel,9.46,15.0,9,15,True,6,True
+SV Werder Bremen,SC Freiburg,9.19,12.0,9,12,True,3,False
+VfL Bochum 1848,VfL Wolfsburg,9.89,13.0,10,13,True,3,False
+FC St. Pauli,1. FSV Mainz 05,8.74,4.0,9,4,False,5,True
+Olympique de Marseille,Angers,9.53,12.0,10,12,True,2,False
+Saint-Étienne,Auxerre,7.85,9.0,8,9,True,1,False
+Lille,Toulouse,8.99,10.0,9,10,True,1,False
+Stade Rennais,AS Monaco,10.29,14.0,10,14,True,4,False
+Crystal Palace,Liverpool,10.36,11.0,10,11,True,1,False
+Napoli,Como,10.24,5.0,10,5,False,5,True
+Hellas Verona,Venezia,7.56,19.0,8,19,True,11,True
+Leganés,Valencia,8.5,3.0,8,3,False,5,True
+FC Augsburg,Borussia M'gladbach,8.45,11.0,8,11,True,3,False
+Olympique de Marseille,Angers,9.53,12.0,10,12,True,2,False
+Bournemouth,Southampton,8.86,10.0,9,10,True,1,False
+Parma,Cagliari,8.34,8.0,8,8,True,0,False
+Villarreal,Las Palmas,9.01,5.0,9,5,False,4,False
+Ipswich Town,Aston Villa,9.0,10.0,9,10,True,1,False
+Manchester United,Tottenham Hotspur,10.34,8.0,10,8,False,2,False
+Bournemouth,Southampton,8.86,10.0,9,10,True,1,False
+Torino,Lazio,9.49,4.0,9,4,False,5,True
+Como,Hellas Verona,8.12,10.0,8,10,True,2,False
+Roma,Venezia,8.65,9.0,9,9,True,0,False
+Empoli,Fiorentina,7.67,6.0,8,6,False,2,False
+Napoli,Monza,9.9,4.0,10,4,False,6,True
+Parma,Cagliari,8.34,8.0,8,8,True,0,False
+Celta Vigo,Girona FC,8.88,8.0,9,8,False,1,False
+Athletic Club,Sevilla,9.62,11.0,10,11,True,1,False
+Real Betis,Espanyol,8.41,12.0,8,12,True,4,False
+Atlético Madrid,Real Madrid,10.3,10.0,10,10,True,0,False
+Villarreal,Las Palmas,9.01,5.0,9,5,False,4,False
+Holstein Kiel,Eintracht Frankfurt,8.7,13.0,9,13,True,4,False
+TSG Hoffenheim,SV Werder Bremen,10.14,8.0,10,8,False,2,False
+Toulouse,Olympique Lyonnais,9.63,7.0,10,7,False,3,False
+Angers,Stade de Reims,8.6,9.0,9,9,True,0,False
+Nantes,Saint-Étienne,7.7,12.0,8,12,True,4,False
+RC Strasbourg,Olympique de Marseille,9.66,11.0,10,11,True,1,False
+Newcastle United,Manchester City,11.81,11.0,12,11,False,1,False
+Arsenal,Leicester City,9.76,17.0,10,17,True,7,True
+Brentford,West Ham United,8.99,13.0,9,13,True,4,False
+Chelsea,Brighton & Hove Albion,10.41,10.0,10,10,True,0,False
+Everton,Crystal Palace,8.74,13.0,9,13,True,4,False
+Nottingham Forest,Fulham,9.56,11.0,10,11,True,1,False
+Wolverhampton,Liverpool,9.51,12.0,10,12,True,2,False
+Ipswich Town,Aston Villa,9.0,10.0,9,10,True,1,False
+Manchester United,Tottenham Hotspur,10.34,8.0,10,8,False,2,False
+Udinese,Inter,10.27,10.0,10,10,True,0,False
+Genoa,Juventus,9.31,8.0,9,8,False,1,False
+Bologna,Atalanta,10.6,11.0,11,11,True,0,False
+Torino,Lazio,9.49,4.0,9,4,False,5,True
+Como,Hellas Verona,8.12,10.0,8,10,True,2,False
+Roma,Venezia,8.65,9.0,9,9,True,0,False
+Empoli,Fiorentina,7.67,6.0,8,6,False,2,False
+Napoli,Monza,9.9,4.0,10,4,False,6,True
+Getafe,Deportivo Alavés,8.83,4.0,9,4,False,5,True
+Rayo Vallecano,Leganés,8.83,10.0,9,10,True,1,False
+Real Sociedad,Valencia,9.34,10.0,9,10,True,1,False
+Osasuna,Barcelona,10.27,13.0,10,13,True,3,False
+Celta Vigo,Girona FC,8.88,8.0,9,8,False,1,False
+Athletic Club,Sevilla,9.62,11.0,10,11,True,1,False
+Real Betis,Espanyol,8.41,12.0,8,12,True,4,False
+Atlético Madrid,Real Madrid,10.3,10.0,10,10,True,0,False
+1. FSV Mainz 05,1. FC Heidenheim,9.13,13.0,9,13,True,4,False
+Borussia M'gladbach,1. FC Union Berlin,9.26,6.0,9,6,False,3,False
+RB Leipzig,FC Augsburg,8.37,13.0,8,13,True,5,True
+SC Freiburg,FC St. Pauli,8.42,6.0,8,6,False,2,False
+VfL Wolfsburg,VfB Stuttgart,9.83,4.0,10,4,False,6,True
+FC Bayern München,Bayer 04 Leverkusen,12.26,7.0,12,7,False,5,True
+Holstein Kiel,Eintracht Frankfurt,8.7,13.0,9,13,True,4,False
+TSG Hoffenheim,SV Werder Bremen,10.14,8.0,10,8,False,2,False
+RC Lens,Nice,10.47,15.0,10,15,True,5,True
+Le Havre,Lille,8.72,6.0,9,6,False,3,False
+AS Monaco,Montpellier,9.61,8.0,10,8,False,2,False
+Toulouse,Olympique Lyonnais,9.63,7.0,10,7,False,3,False
+Angers,Stade de Reims,8.6,9.0,9,9,True,0,False
+Nantes,Saint-Étienne,7.7,12.0,8,12,True,4,False
+RC Strasbourg,Olympique de Marseille,9.66,11.0,10,11,True,1,False
+Newcastle United,Manchester City,11.81,11.0,12,11,False,1,False
+Arsenal,Leicester City,9.76,17.0,10,17,True,7,True
+Brentford,West Ham United,8.99,13.0,9,13,True,4,False
+Chelsea,Brighton & Hove Albion,10.41,10.0,10,10,True,0,False
+Everton,Crystal Palace,8.74,13.0,9,13,True,4,False
+Nottingham Forest,Fulham,9.56,11.0,10,11,True,1,False
+Wolverhampton,Liverpool,9.51,12.0,10,12,True,2,False
+Milan,Lecce,9.2,11.0,9,11,True,2,False
+Udinese,Inter,10.27,10.0,10,10,True,0,False
+Genoa,Juventus,9.31,8.0,9,8,False,1,False
+Bologna,Atalanta,10.6,11.0,11,11,True,0,False
+Torino,Lazio,9.49,4.0,9,4,False,5,True
+Real Valladolid,Mallorca,8.1,11.0,8,11,True,3,False
+Getafe,Deportivo Alavés,8.83,4.0,9,4,False,5,True
+Rayo Vallecano,Leganés,8.83,10.0,9,10,True,1,False
+Real Sociedad,Valencia,9.34,10.0,9,10,True,1,False
+Osasuna,Barcelona,10.27,13.0,10,13,True,3,False
+Borussia Dortmund,VfL Bochum 1848,10.93,11.0,11,11,True,0,False
+1. FSV Mainz 05,1. FC Heidenheim,9.13,13.0,9,13,True,4,False
+Borussia M'gladbach,1. FC Union Berlin,9.26,6.0,9,6,False,3,False
+RB Leipzig,FC Augsburg,8.37,13.0,8,13,True,5,True
+SC Freiburg,FC St. Pauli,8.42,6.0,8,6,False,2,False
+VfL Wolfsburg,VfB Stuttgart,9.83,4.0,10,4,False,6,True
+FC Bayern München,Bayer 04 Leverkusen,12.26,7.0,12,7,False,5,True
+Auxerre,Stade Brestois,8.82,5.0,9,5,False,4,False
+Paris Saint-Germain,Stade Rennais,11.08,10.0,11,10,False,1,False
+RC Lens,Nice,10.47,15.0,10,15,True,5,True
+Le Havre,Lille,8.72,6.0,9,6,False,3,False
+AS Monaco,Montpellier,9.61,8.0,10,8,False,2,False
+Newcastle United,Manchester City,11.81,11.0,12,11,False,1,False
+Milan,Lecce,9.2,11.0,9,11,True,2,False
+Espanyol,Villarreal,8.96,5.0,9,5,False,4,False
+Las Palmas,Real Betis,8.57,5.0,9,5,False,4,False
+Celta Vigo,Atlético Madrid,8.96,5.0,9,5,False,4,False
+Real Valladolid,Mallorca,8.1,11.0,8,11,True,3,False
+Borussia Dortmund,VfL Bochum 1848,10.93,11.0,11,11,True,0,False
+Auxerre,Stade Brestois,8.82,5.0,9,5,False,4,False
+Paris Saint-Germain,Stade Rennais,11.08,10.0,11,10,False,1,False
+Girona FC,Rayo Vallecano,10.06,7.0,10,7,False,3,False
+Barcelona,Getafe,10.08,12.0,10,12,True,2,False
+Espanyol,Villarreal,8.96,5.0,9,5,False,4,False
+Las Palmas,Real Betis,8.57,5.0,9,5,False,4,False
+Celta Vigo,Atlético Madrid,8.96,5.0,9,5,False,4,False
+Atalanta,Como,9.58,8.0,10,8,False,2,False
+Sevilla,Real Valladolid,8.1,10.0,8,10,True,2,False
+Valencia,Osasuna,9.12,15.0,9,15,True,6,True
+Real Madrid,Deportivo Alavés,9.95,8.0,10,8,False,2,False
+Girona FC,Rayo Vallecano,10.06,7.0,10,7,False,3,False
+Barcelona,Getafe,10.08,12.0,10,12,True,2,False
+Atalanta,Como,9.58,8.0,10,8,False,2,False
+Real Betis,Mallorca,8.9,9.0,9,9,True,0,False
+Sevilla,Real Valladolid,8.1,10.0,8,10,True,2,False
+Valencia,Osasuna,9.12,15.0,9,15,True,6,True
+Real Madrid,Deportivo Alavés,9.95,8.0,10,8,False,2,False
+Brighton & Hove Albion,Nottingham Forest,8.75,10.0,9,10,True,1,False
+Manchester City,Arsenal,12.26,10.0,12,10,False,2,False
+Fiorentina,Lazio,9.35,13.0,9,13,True,4,False
+Monza,Bologna,9.49,4.0,9,4,False,5,True
+Roma,Udinese,9.75,3.0,10,3,False,7,True
+Inter,Milan,11.95,8.0,12,8,False,4,False
+Getafe,Leganés,8.12,8.0,8,8,True,0,False
+Athletic Club,Celta Vigo,9.4,9.0,9,9,True,0,False
+Villarreal,Barcelona,11.4,10.0,11,10,False,1,False
+Rayo Vallecano,Atlético Madrid,9.98,7.0,10,7,False,3,False
+Real Betis,Mallorca,8.9,9.0,9,9,True,0,False
+Bayer 04 Leverkusen,VfL Wolfsburg,10.8,8.0,11,8,False,3,False
+VfB Stuttgart,Borussia Dortmund,10.72,10.0,11,10,False,1,False
+FC St. Pauli,RB Leipzig,8.74,4.0,9,4,False,5,True
+AS Monaco,Le Havre,9.46,10.0,9,10,True,1,False
+Angers,Nantes,7.83,9.0,8,9,True,1,False
+Montpellier,Auxerre,8.57,16.0,9,16,True,7,True
+Stade Brestois,Toulouse,9.35,7.0,9,7,False,2,False
+Olympique Lyonnais,Olympique de Marseille,10.89,13.0,11,13,True,2,False
+West Ham United,Chelsea,10.47,11.0,10,11,True,1,False
+Aston Villa,Wolverhampton,9.05,11.0,9,11,True,2,False
+Fulham,Newcastle United,11.2,6.0,11,6,False,5,True
+Leicester City,Everton,8.29,7.0,8,7,False,1,False
+Liverpool,Bournemouth,11.47,12.0,11,12,True,1,False
+Southampton,Ipswich Town,7.6,12.0,8,12,True,4,False
+Tottenham Hotspur,Brentford,9.84,13.0,10,13,True,3,False
+Crystal Palace,Manchester United,9.21,15.0,9,15,True,6,True
+Brighton & Hove Albion,Nottingham Forest,8.75,10.0,9,10,True,1,False
+Manchester City,Arsenal,12.26,10.0,12,10,False,2,False
+Venezia,Genoa,7.77,7.0,8,7,False,1,False
+Juventus,Napoli,11.56,7.0,12,7,False,5,True
+Lecce,Parma,7.85,14.0,8,14,True,6,True
+Fiorentina,Lazio,9.35,13.0,9,13,True,4,False
+Monza,Bologna,9.49,4.0,9,4,False,5,True
+Roma,Udinese,9.75,3.0,10,3,False,7,True
+Inter,Milan,11.95,8.0,12,8,False,4,False
+Real Valladolid,Real Sociedad,8.43,12.0,8,12,True,4,False
+Osasuna,Las Palmas,8.22,6.0,8,6,False,2,False
+Valencia,Girona FC,9.65,9.0,10,9,False,1,False
+Real Madrid,Espanyol,9.14,13.0,9,13,True,4,False
+Getafe,Leganés,8.12,8.0,8,8,True,0,False
+Athletic Club,Celta Vigo,9.4,9.0,9,9,True,0,False
+Villarreal,Barcelona,11.4,10.0,11,10,False,1,False
+Rayo Vallecano,Atlético Madrid,9.98,7.0,10,7,False,3,False
+1. FC Heidenheim,SC Freiburg,8.62,12.0,9,12,True,3,False
+1. FC Union Berlin,TSG Hoffenheim,10.02,10.0,10,10,True,0,False
+SV Werder Bremen,FC Bayern München,11.1,5.0,11,5,False,6,True
+VfL Bochum 1848,Holstein Kiel,8.58,7.0,9,7,False,2,False
+Eintracht Frankfurt,Borussia M'gladbach,9.06,13.0,9,13,True,4,False
+Bayer 04 Leverkusen,VfL Wolfsburg,10.8,8.0,11,8,False,3,False
+VfB Stuttgart,Borussia Dortmund,10.72,10.0,11,10,False,1,False
+FC St. Pauli,RB Leipzig,8.74,4.0,9,4,False,5,True
+Lille,RC Strasbourg,8.27,14.0,8,14,True,6,True
+Stade Rennais,RC Lens,11.01,7.0,11,7,False,4,False
+Stade de Reims,Paris Saint-Germain,10.76,8.0,11,8,False,3,False
+AS Monaco,Le Havre,9.46,10.0,9,10,True,1,False
+Angers,Nantes,7.83,9.0,8,9,True,1,False
+Montpellier,Auxerre,8.57,16.0,9,16,True,7,True
+Stade Brestois,Toulouse,9.35,7.0,9,7,False,2,False
+Olympique Lyonnais,Olympique de Marseille,10.89,13.0,11,13,True,2,False
+West Ham United,Chelsea,10.47,11.0,10,11,True,1,False
+Aston Villa,Wolverhampton,9.05,11.0,9,11,True,2,False
+Fulham,Newcastle United,11.2,6.0,11,6,False,5,True
+Leicester City,Everton,8.29,7.0,8,7,False,1,False
+Liverpool,Bournemouth,11.47,12.0,11,12,True,1,False
+Southampton,Ipswich Town,7.6,12.0,8,12,True,4,False
+Tottenham Hotspur,Brentford,9.84,13.0,10,13,True,3,False
+Crystal Palace,Manchester United,9.21,15.0,9,15,True,6,True
+Cagliari,Empoli,8.04,14.0,8,14,True,6,True
+Hellas Verona,Torino,7.82,11.0,8,11,True,3,False
+Venezia,Genoa,7.77,7.0,8,7,False,1,False
+Juventus,Napoli,11.56,7.0,12,7,False,5,True
+Lecce,Parma,7.85,14.0,8,14,True,6,True
+Fiorentina,Lazio,9.35,13.0,9,13,True,4,False
+Deportivo Alavés,Sevilla,8.63,8.0,9,8,False,1,False
+Real Valladolid,Real Sociedad,8.43,12.0,8,12,True,4,False
+Osasuna,Las Palmas,8.22,6.0,8,6,False,2,False
+Valencia,Girona FC,9.65,9.0,10,9,False,1,False
+Real Madrid,Espanyol,9.14,13.0,9,13,True,4,False
+FC Augsburg,1. FSV Mainz 05,8.37,15.0,8,15,True,7,True
+1. FC Heidenheim,SC Freiburg,8.62,12.0,9,12,True,3,False
+1. FC Union Berlin,TSG Hoffenheim,10.02,10.0,10,10,True,0,False
+SV Werder Bremen,FC Bayern München,11.1,5.0,11,5,False,6,True
+VfL Bochum 1848,Holstein Kiel,8.58,7.0,9,7,False,2,False
+Eintracht Frankfurt,Borussia M'gladbach,9.06,13.0,9,13,True,4,False
+Nice,Saint-Étienne,8.44,5.0,8,5,False,3,False
+Lille,RC Strasbourg,8.27,14.0,8,14,True,6,True
+Stade Rennais,RC Lens,11.01,7.0,11,7,False,4,False
+Stade de Reims,Paris Saint-Germain,10.76,8.0,11,8,False,3,False
+West Ham United,Chelsea,10.47,11.0,10,11,True,1,False
+Cagliari,Empoli,8.04,14.0,8,14,True,6,True
+Hellas Verona,Torino,7.82,11.0,8,11,True,3,False
+Leganés,Athletic Club,9.21,11.0,9,11,True,2,False
+Deportivo Alavés,Sevilla,8.63,8.0,9,8,False,1,False
+FC Augsburg,1. FSV Mainz 05,8.37,15.0,8,15,True,7,True
+Nice,Saint-Étienne,8.44,5.0,8,5,False,3,False
+Real Betis,Getafe,8.99,12.0,9,12,True,3,False
+Leganés,Athletic Club,9.21,11.0,9,11,True,2,False
+Mallorca,Real Sociedad,8.87,10.0,9,10,True,1,False
+Real Betis,Getafe,8.99,12.0,9,12,True,3,False
+Parma,Udinese,8.67,11.0,9,11,True,2,False
+Lazio,Hellas Verona,9.21,15.0,9,15,True,6,True
+Rayo Vallecano,Osasuna,9.5,11.0,10,11,True,1,False
+Mallorca,Real Sociedad,8.87,10.0,9,10,True,1,False
+Tottenham Hotspur,Arsenal,11.53,13.0,12,13,True,1,False
+Wolverhampton,Newcastle United,9.14,11.0,9,11,True,2,False
+Genoa,Roma,9.18,9.0,9,9,True,0,False
+Atalanta,Fiorentina,9.13,7.0,9,7,False,2,False
+Torino,Lecce,7.7,9.0,8,9,True,1,False
+Cagliari,Napoli,9.99,11.0,10,11,True,1,False
+Monza,Inter,9.76,9.0,10,9,False,1,False
+Parma,Udinese,8.67,11.0,9,11,True,2,False
+Lazio,Hellas Verona,9.21,15.0,9,15,True,6,True
+Celta Vigo,Real Valladolid,7.78,8.0,8,8,True,0,False
+Girona FC,Barcelona,10.87,7.0,11,7,False,4,False
+Las Palmas,Athletic Club,9.26,12.0,9,12,True,3,False
+Atlético Madrid,Valencia,9.74,10.0,10,10,True,0,False
+Rayo Vallecano,Osasuna,9.5,11.0,10,11,True,1,False
+FC Augsburg,FC St. Pauli,8.27,14.0,8,14,True,6,True
+1. FSV Mainz 05,SV Werder Bremen,9.59,14.0,10,14,True,4,False
+Stade Rennais,Montpellier,9.86,7.0,10,7,False,3,False
+Nantes,Stade de Reims,8.65,9.0,9,9,True,0,False
+RC Strasbourg,Angers,7.78,15.0,8,15,True,7,True
+Toulouse,Le Havre,9.07,11.0,9,11,True,2,False
+RC Lens,Olympique Lyonnais,10.72,13.0,11,13,True,2,False
+Southampton,Manchester United,8.46,7.0,8,7,False,1,False
+Brighton & Hove Albion,Ipswich Town,8.37,11.0,8,11,True,3,False
+Crystal Palace,Leicester City,8.74,7.0,9,7,False,2,False
+Fulham,West Ham United,10.34,5.0,10,5,False,5,True
+Liverpool,Nottingham Forest,9.68,9.0,10,9,False,1,False
+Manchester City,Brentford,10.27,15.0,10,15,True,5,True
+Aston Villa,Everton,9.24,8.0,9,8,False,1,False
+Bournemouth,Chelsea,11.47,9.0,11,9,False,2,False
+Tottenham Hotspur,Arsenal,11.53,13.0,12,13,True,1,False
+Wolverhampton,Newcastle United,9.14,11.0,9,11,True,2,False
+Como,Bologna,9.69,7.0,10,7,False,3,False
+Empoli,Juventus,9.02,12.0,9,12,True,3,False
+Milan,Venezia,9.2,7.0,9,7,False,2,False
+Genoa,Roma,9.18,9.0,9,9,True,0,False
+Atalanta,Fiorentina,9.13,7.0,9,7,False,2,False
+Torino,Lecce,7.7,9.0,8,9,True,1,False
+Cagliari,Napoli,9.99,11.0,10,11,True,1,False
+Monza,Inter,9.76,9.0,10,9,False,1,False
+Mallorca,Villarreal,9.39,13.0,9,13,True,4,False
+Espanyol,Deportivo Alavés,8.25,5.0,8,5,False,3,False
+Sevilla,Getafe,8.5,7.0,8,7,False,1,False
+Real Sociedad,Real Madrid,9.96,12.0,10,12,True,2,False
+Celta Vigo,Real Valladolid,7.78,8.0,8,8,True,0,False
+Girona FC,Barcelona,10.87,7.0,11,7,False,4,False
+Las Palmas,Athletic Club,9.26,12.0,9,12,True,3,False
+Atlético Madrid,Valencia,9.74,10.0,10,10,True,0,False
+Borussia M'gladbach,VfB Stuttgart,9.67,8.0,10,8,False,2,False
+RB Leipzig,1. FC Union Berlin,9.33,11.0,9,11,True,2,False
+SC Freiburg,VfL Bochum 1848,9.01,11.0,9,11,True,2,False
+TSG Hoffenheim,Bayer 04 Leverkusen,11.26,16.0,11,16,True,5,True
+VfL Wolfsburg,Eintracht Frankfurt,9.82,9.0,10,9,False,1,False
+Holstein Kiel,FC Bayern München,9.46,12.0,9,12,True,3,False
+FC Augsburg,FC St. Pauli,8.27,14.0,8,14,True,6,True
+1. FSV Mainz 05,SV Werder Bremen,9.59,14.0,10,14,True,4,False
+Olympique de Marseille,Nice,10.53,3.0,11,3,False,8,True
+Auxerre,AS Monaco,9.03,7.0,9,7,False,2,False
+Paris Saint-Germain,Stade Brestois,10.73,10.0,11,10,False,1,False
+Stade Rennais,Montpellier,9.86,7.0,10,7,False,3,False
+Nantes,Stade de Reims,8.65,9.0,9,9,True,0,False
+RC Strasbourg,Angers,7.78,15.0,8,15,True,7,True
+Toulouse,Le Havre,9.07,11.0,9,11,True,2,False
+RC Lens,Olympique Lyonnais,10.72,13.0,11,13,True,2,False
+Southampton,Manchester United,8.46,7.0,8,7,False,1,False
+Brighton & Hove Albion,Ipswich Town,8.37,11.0,8,11,True,3,False
+Crystal Palace,Leicester City,8.74,7.0,9,7,False,2,False
+Fulham,West Ham United,10.34,5.0,10,5,False,5,True
+Liverpool,Nottingham Forest,9.68,9.0,10,9,False,1,False
+Manchester City,Brentford,10.27,15.0,10,15,True,5,True
+Aston Villa,Everton,9.24,8.0,9,8,False,1,False
+Bournemouth,Chelsea,11.47,9.0,11,9,False,2,False
+Como,Bologna,9.69,7.0,10,7,False,3,False
+Empoli,Juventus,9.02,12.0,9,12,True,3,False
+Milan,Venezia,9.2,7.0,9,7,False,2,False
+Genoa,Roma,9.18,9.0,9,9,True,0,False
+Real Betis,Leganés,8.41,12.0,8,12,True,4,False
+Mallorca,Villarreal,9.39,13.0,9,13,True,4,False
+Espanyol,Deportivo Alavés,8.25,5.0,8,5,False,3,False
+Sevilla,Getafe,8.5,7.0,8,7,False,1,False
+Real Sociedad,Real Madrid,9.96,12.0,10,12,True,2,False
+Borussia Dortmund,1. FC Heidenheim,10.22,9.0,10,9,False,1,False
+Borussia M'gladbach,VfB Stuttgart,9.67,8.0,10,8,False,2,False
+RB Leipzig,1. FC Union Berlin,9.33,11.0,9,11,True,2,False
+SC Freiburg,VfL Bochum 1848,9.01,11.0,9,11,True,2,False
+TSG Hoffenheim,Bayer 04 Leverkusen,11.26,16.0,11,16,True,5,True
+VfL Wolfsburg,Eintracht Frankfurt,9.82,9.0,10,9,False,1,False
+Holstein Kiel,FC Bayern München,9.46,12.0,9,12,True,3,False
+Saint-Étienne,Lille,7.95,9.0,8,9,True,1,False
+Olympique de Marseille,Nice,10.53,3.0,11,3,False,8,True
+Auxerre,AS Monaco,9.03,7.0,9,7,False,2,False
+Paris Saint-Germain,Stade Brestois,10.73,10.0,11,10,False,1,False
+Southampton,Manchester United,8.46,7.0,8,7,False,1,False
+Real Betis,Leganés,8.41,12.0,8,12,True,4,False
+Borussia Dortmund,1. FC Heidenheim,10.22,9.0,10,9,False,1,False
+Saint-Étienne,Lille,7.95,9.0,8,9,True,1,False
+Chelsea,Crystal Palace,10.36,8.0,10,8,False,2,False
+Newcastle United,Tottenham Hotspur,11.11,19.0,11,19,True,8,True
+Manchester United,Liverpool,10.89,7.0,11,7,False,4,False
+Fiorentina,Monza,8.07,7.0,8,7,False,1,False
+Genoa,Hellas Verona,8.04,4.0,8,4,False,4,False
+Juventus,Roma,10.83,10.0,11,10,False,1,False
+Udinese,Como,8.95,10.0,9,10,True,1,False
+Deportivo Alavés,Las Palmas,8.41,11.0,8,11,True,3,False
+Osasuna,Celta Vigo,8.35,9.0,8,9,True,1,False
+Sevilla,Girona FC,9.08,12.0,9,12,True,3,False
+Getafe,Real Sociedad,8.96,5.0,9,5,False,4,False
+Real Madrid,Real Betis,9.98,10.0,10,10,True,0,False
+1. FC Heidenheim,FC Augsburg,8.32,11.0,8,11,True,3,False
+FC Bayern München,SC Freiburg,9.86,6.0,10,6,False,4,False
+AS Monaco,RC Lens,10.96,14.0,11,14,True,3,False
+Angers,Nice,8.46,11.0,8,11,True,3,False
+Le Havre,Auxerre,8.55,4.0,9,4,False,5,True
+Stade de Reims,Stade Rennais,10.01,8.0,10,8,False,2,False
+Lille,Paris Saint-Germain,9.78,4.0,10,4,False,6,True
+Arsenal,Brighton & Hove Albion,10.48,10.0,10,10,True,0,False
+Brentford,Southampton,8.41,10.0,8,10,True,2,False
+Everton,Bournemouth,9.04,12.0,9,12,True,3,False
+Ipswich Town,Fulham,9.17,14.0,9,14,True,5,True
+Leicester City,Aston Villa,9.3,5.0,9,5,False,4,False
+Nottingham Forest,Wolverhampton,8.11,10.0,8,10,True,2,False
+West Ham United,Manchester City,10.6,14.0,11,14,True,3,False
+Chelsea,Crystal Palace,10.36,8.0,10,8,False,2,False
+Newcastle United,Tottenham Hotspur,11.11,19.0,11,19,True,8,True
+Manchester United,Liverpool,10.89,7.0,11,7,False,4,False
+Bologna,Empoli,9.01,9.0,9,9,True,0,False
+Lecce,Cagliari,8.04,17.0,8,17,True,9,True
+Lazio,Milan,11.41,12.0,11,12,True,1,False
+Napoli,Parma,9.73,10.0,10,10,True,0,False
+Fiorentina,Monza,8.07,7.0,8,7,False,1,False
+Genoa,Hellas Verona,8.04,4.0,8,4,False,4,False
+Juventus,Roma,10.83,10.0,11,10,False,1,False
+Udinese,Como,8.95,10.0,9,10,True,1,False
+Barcelona,Real Valladolid,9.53,11.0,10,11,True,1,False
+Athletic Club,Atlético Madrid,10.44,4.0,10,4,False,6,True
+Espanyol,Rayo Vallecano,8.83,10.0,9,10,True,1,False
+Leganés,Mallorca,8.04,4.0,8,4,False,4,False
+Valencia,Villarreal,10.0,17.0,10,17,True,7,True
+Deportivo Alavés,Las Palmas,8.41,11.0,8,11,True,3,False
+Osasuna,Celta Vigo,8.35,9.0,8,9,True,1,False
+Sevilla,Girona FC,9.08,12.0,9,12,True,3,False
+Getafe,Real Sociedad,8.96,5.0,9,5,False,4,False
+Real Madrid,Real Betis,9.98,10.0,10,10,True,0,False
+Eintracht Frankfurt,TSG Hoffenheim,10.42,5.0,10,5,False,5,True
+Holstein Kiel,VfL Wolfsburg,8.7,8.0,9,8,False,1,False
+SV Werder Bremen,Borussia Dortmund,11.1,11.0,11,11,True,0,False
+VfB Stuttgart,1. FSV Mainz 05,9.59,13.0,10,13,True,3,False
+VfL Bochum 1848,Borussia M'gladbach,9.41,7.0,9,7,False,2,False
+Bayer 04 Leverkusen,RB Leipzig,9.98,20.0,10,20,True,10,True
+1. FC Heidenheim,FC Augsburg,8.32,11.0,8,11,True,3,False
+FC Bayern München,SC Freiburg,9.86,6.0,10,6,False,4,False
+Stade Brestois,Saint-Étienne,8.5,9.0,8,9,True,1,False
+Montpellier,Nantes,8.53,11.0,9,11,True,2,False
+Toulouse,Olympique de Marseille,10.37,5.0,10,5,False,5,True
+AS Monaco,RC Lens,10.96,14.0,11,14,True,3,False
+Angers,Nice,8.46,11.0,8,11,True,3,False
+Le Havre,Auxerre,8.55,4.0,9,4,False,5,True
+Stade de Reims,Stade Rennais,10.01,8.0,10,8,False,2,False
+Lille,Paris Saint-Germain,9.78,4.0,10,4,False,6,True
+Arsenal,Brighton & Hove Albion,10.48,10.0,10,10,True,0,False
+Brentford,Southampton,8.41,10.0,8,10,True,2,False
+Everton,Bournemouth,9.04,12.0,9,12,True,3,False
+Ipswich Town,Fulham,9.17,14.0,9,14,True,5,True
+Leicester City,Aston Villa,9.3,5.0,9,5,False,4,False
+Nottingham Forest,Wolverhampton,8.11,10.0,8,10,True,2,False
+West Ham United,Manchester City,10.6,14.0,11,14,True,3,False
+Venezia,Torino,7.7,6.0,8,6,False,2,False
+Inter,Atalanta,11.36,7.0,11,7,False,4,False
+Bologna,Empoli,9.01,9.0,9,9,True,0,False
+Lecce,Cagliari,8.04,17.0,8,17,True,9,True
+Lazio,Milan,11.41,12.0,11,12,True,1,False
+Napoli,Parma,9.73,10.0,10,10,True,0,False
+Barcelona,Real Valladolid,9.53,11.0,10,11,True,1,False
+Athletic Club,Atlético Madrid,10.44,4.0,10,4,False,6,True
+Espanyol,Rayo Vallecano,8.83,10.0,9,10,True,1,False
+Leganés,Mallorca,8.04,4.0,8,4,False,4,False
+Valencia,Villarreal,10.0,17.0,10,17,True,7,True
+1. FC Union Berlin,FC St. Pauli,8.96,9.0,9,9,True,0,False
+Eintracht Frankfurt,TSG Hoffenheim,10.42,5.0,10,5,False,5,True
+Holstein Kiel,VfL Wolfsburg,8.7,8.0,9,8,False,1,False
+SV Werder Bremen,Borussia Dortmund,11.1,11.0,11,11,True,0,False
+VfB Stuttgart,1. FSV Mainz 05,9.59,13.0,10,13,True,3,False
+VfL Bochum 1848,Borussia M'gladbach,9.41,7.0,9,7,False,2,False
+Bayer 04 Leverkusen,RB Leipzig,9.98,20.0,10,20,True,10,True
+Olympique Lyonnais,RC Strasbourg,8.91,11.0,9,11,True,2,False
+Stade Brestois,Saint-Étienne,8.5,9.0,8,9,True,1,False
+Montpellier,Nantes,8.53,11.0,9,11,True,2,False
+Toulouse,Olympique de Marseille,10.37,5.0,10,5,False,5,True
+Arsenal,Brighton & Hove Albion,10.48,10.0,10,10,True,0,False
+Venezia,Torino,7.7,6.0,8,6,False,2,False
+Inter,Atalanta,11.36,7.0,11,7,False,4,False
+Girona FC,Osasuna,9.32,5.0,9,5,False,4,False
+Las Palmas,Real Madrid,9.19,8.0,9,8,False,1,False
+1. FC Union Berlin,FC St. Pauli,8.96,9.0,9,9,True,0,False
+Olympique Lyonnais,RC Strasbourg,8.91,11.0,9,11,True,2,False
+Athletic Club,Valencia,10.26,8.0,10,8,False,2,False
+Real Valladolid,Leganés,7.61,8.0,8,8,True,0,False
+Atlético Madrid,Espanyol,8.78,12.0,9,12,True,3,False
+Real Sociedad,Deportivo Alavés,9.09,14.0,9,14,True,5,True
+Girona FC,Osasuna,9.32,5.0,9,5,False,4,False
+Las Palmas,Real Madrid,9.19,8.0,9,8,False,1,False
+Mallorca,Sevilla,8.42,14.0,8,14,True,6,True
+Rayo Vallecano,Barcelona,11.22,12.0,11,12,True,1,False
+Athletic Club,Valencia,10.26,8.0,10,8,False,2,False
+Real Valladolid,Leganés,7.61,8.0,8,8,True,0,False
+Atlético Madrid,Espanyol,8.78,12.0,9,12,True,3,False
+Real Sociedad,Deportivo Alavés,9.09,14.0,9,14,True,5,True
+Cagliari,Como,8.62,11.0,9,11,True,2,False
+Hellas Verona,Juventus,9.02,5.0,9,5,False,4,False
+Villarreal,Celta Vigo,9.15,11.0,9,11,True,2,False
+Mallorca,Sevilla,8.42,14.0,8,14,True,6,True
+Rayo Vallecano,Barcelona,11.22,12.0,11,12,True,1,False
+Bournemouth,Newcastle United,10.89,17.0,11,17,True,6,True
+Wolverhampton,Chelsea,9.51,10.0,10,10,True,0,False
+Liverpool,Brentford,10.27,13.0,10,13,True,3,False
+Fiorentina,Venezia,7.67,10.0,8,10,True,2,False
+Torino,Atalanta,9.14,10.0,9,10,True,1,False
+Napoli,Bologna,11.46,12.0,11,12,True,1,False
+Roma,Empoli,8.94,13.0,9,13,True,4,False
+Cagliari,Como,8.62,11.0,9,11,True,2,False
+Hellas Verona,Juventus,9.02,5.0,9,5,False,4,False
+Real Madrid,Real Valladolid,9.2,10.0,9,10,True,1,False
+Leganés,Las Palmas,7.71,10.0,8,10,True,2,False
+Deportivo Alavés,Real Betis,9.12,11.0,9,11,True,2,False
+Atlético Madrid,Girona FC,9.95,10.0,10,10,True,0,False
+Villarreal,Celta Vigo,9.15,11.0,9,11,True,2,False
+VfL Wolfsburg,FC Bayern München,11.11,8.0,11,8,False,3,False
+FC St. Pauli,1. FC Heidenheim,8.69,6.0,9,6,False,3,False
+RC Lens,Stade Brestois,10.67,7.0,11,7,False,4,False
+Nantes,Auxerre,8.14,15.0,8,15,True,7,True
+Nice,Toulouse,9.3,8.0,9,8,False,1,False
+RC Strasbourg,Stade Rennais,9.19,7.0,9,7,False,2,False
+Olympique de Marseille,Stade de Reims,10.76,6.0,11,6,False,5,True
+Brighton & Hove Albion,Manchester United,9.26,8.0,9,8,False,1,False
+Crystal Palace,West Ham United,9.13,6.0,9,6,False,3,False
+Fulham,Leicester City,9.45,12.0,9,12,True,3,False
+Manchester City,Ipswich Town,9.46,11.0,9,11,True,2,False
+Southampton,Nottingham Forest,7.85,14.0,8,14,True,6,True
+Tottenham Hotspur,Everton,9.31,17.0,9,17,True,8,True
+Aston Villa,Arsenal,11.58,5.0,12,5,False,7,True
+Bournemouth,Newcastle United,10.89,17.0,11,17,True,6,True
+Wolverhampton,Chelsea,9.51,10.0,10,10,True,0,False
+Liverpool,Brentford,10.27,13.0,10,13,True,3,False
+Parma,Milan,9.46,12.0,9,12,True,3,False
+Udinese,Lazio,10.12,17.0,10,17,True,7,True
+Inter,Lecce,9.46,16.0,9,16,True,7,True
+Monza,Genoa,8.43,11.0,8,11,True,3,False
+Fiorentina,Venezia,7.67,10.0,8,10,True,2,False
+Torino,Atalanta,9.14,10.0,9,10,True,1,False
+Napoli,Bologna,11.46,12.0,11,12,True,1,False
+Roma,Empoli,8.94,13.0,9,13,True,4,False
+Osasuna,Mallorca,8.66,9.0,9,9,True,0,False
+Barcelona,Athletic Club,11.69,11.0,12,11,False,1,False
+Espanyol,Real Sociedad,8.38,11.0,8,11,True,3,False
+Getafe,Rayo Vallecano,9.33,5.0,9,5,False,4,False
+Real Madrid,Real Valladolid,9.2,10.0,9,10,True,1,False
+Leganés,Las Palmas,7.71,10.0,8,10,True,2,False
+Deportivo Alavés,Real Betis,9.12,11.0,9,11,True,2,False
+Atlético Madrid,Girona FC,9.95,10.0,10,10,True,0,False
+1. FSV Mainz 05,1. FC Union Berlin,9.33,17.0,9,17,True,8,True
+FC Augsburg,SV Werder Bremen,8.77,6.0,9,6,False,3,False
+RB Leipzig,VfL Bochum 1848,9.33,12.0,9,12,True,3,False
+SC Freiburg,VfB Stuttgart,9.19,9.0,9,9,True,0,False
+TSG Hoffenheim,Holstein Kiel,8.9,14.0,9,14,True,5,True
+Borussia Dortmund,Eintracht Frankfurt,11.19,14.0,11,14,True,3,False
+VfL Wolfsburg,FC Bayern München,11.11,8.0,11,8,False,3,False
+FC St. Pauli,1. FC Heidenheim,8.69,6.0,9,6,False,3,False
+Olympique Lyonnais,AS Monaco,9.91,6.0,10,6,False,4,False
+Lille,Angers,7.96,5.0,8,5,False,3,False
+Saint-Étienne,Le Havre,8.22,6.0,8,6,False,2,False
+RC Lens,Stade Brestois,10.67,7.0,11,7,False,4,False
+Nantes,Auxerre,8.14,15.0,8,15,True,7,True
+Nice,Toulouse,9.3,8.0,9,8,False,1,False
+RC Strasbourg,Stade Rennais,9.19,7.0,9,7,False,2,False
+Olympique de Marseille,Stade de Reims,10.76,6.0,11,6,False,5,True
+Brighton & Hove Albion,Manchester United,9.26,8.0,9,8,False,1,False
+Crystal Palace,West Ham United,9.13,6.0,9,6,False,3,False
+Fulham,Leicester City,9.45,12.0,9,12,True,3,False
+Manchester City,Ipswich Town,9.46,11.0,9,11,True,2,False
+Southampton,Nottingham Forest,7.85,14.0,8,14,True,6,True
+Tottenham Hotspur,Everton,9.31,17.0,9,17,True,8,True
+Aston Villa,Arsenal,11.58,5.0,12,5,False,7,True
+Parma,Milan,9.46,12.0,9,12,True,3,False
+Udinese,Lazio,10.12,17.0,10,17,True,7,True
+Inter,Lecce,9.46,16.0,9,16,True,7,True
+Monza,Genoa,8.43,11.0,8,11,True,3,False
+Celta Vigo,Valencia,8.68,11.0,9,11,True,2,False
+Sevilla,Villarreal,9.37,9.0,9,9,True,0,False
+Osasuna,Mallorca,8.66,9.0,9,9,True,0,False
+Barcelona,Athletic Club,11.69,11.0,12,11,False,1,False
+Espanyol,Real Sociedad,8.38,11.0,8,11,True,3,False
+Getafe,Rayo Vallecano,9.33,5.0,9,5,False,4,False
+Borussia M'gladbach,Bayer 04 Leverkusen,10.06,6.0,10,6,False,4,False
+1. FSV Mainz 05,1. FC Union Berlin,9.33,17.0,9,17,True,8,True
+FC Augsburg,SV Werder Bremen,8.77,6.0,9,6,False,3,False
+RB Leipzig,VfL Bochum 1848,9.33,12.0,9,12,True,3,False
+SC Freiburg,VfB Stuttgart,9.19,9.0,9,9,True,0,False
+TSG Hoffenheim,Holstein Kiel,8.9,14.0,9,14,True,5,True
+Borussia Dortmund,Eintracht Frankfurt,11.19,14.0,11,14,True,3,False
+Paris Saint-Germain,Montpellier,10.35,12.0,10,12,True,2,False
+Olympique Lyonnais,AS Monaco,9.91,6.0,10,6,False,4,False
+Lille,Angers,7.96,5.0,8,5,False,3,False
+Saint-Étienne,Le Havre,8.22,6.0,8,6,False,2,False
+Brighton & Hove Albion,Manchester United,9.26,8.0,9,8,False,1,False
+Celta Vigo,Valencia,8.68,11.0,9,11,True,2,False
+Sevilla,Villarreal,9.37,9.0,9,9,True,0,False
+Borussia M'gladbach,Bayer 04 Leverkusen,10.06,6.0,10,6,False,4,False
+Paris Saint-Germain,Montpellier,10.35,12.0,10,12,True,2,False
+Leicester City,Tottenham Hotspur,9.37,15.0,9,15,True,6,True
+Lecce,Atalanta,8.99,8.0,9,8,False,1,False
+Juventus,Como,9.77,3.0,10,3,False,7,True
+Real Valladolid,Espanyol,7.61,5.0,8,5,False,3,False
+Villarreal,Atlético Madrid,10.18,5.0,10,5,False,5,True
+Brentford,Crystal Palace,8.93,11.0,9,11,True,2,False
+Chelsea,Manchester City,12.1,7.0,12,7,False,5,True
+Leicester City,Tottenham Hotspur,9.37,15.0,9,15,True,6,True
+Bologna,Udinese,9.92,14.0,10,14,True,4,False
+Hellas Verona,Napoli,9.46,6.0,9,6,False,3,False
+Cagliari,Roma,9.46,8.0,9,8,False,1,False
+Lazio,Venezia,9.21,9.0,9,9,True,0,False
+Lecce,Atalanta,8.99,8.0,9,8,False,1,False
+Juventus,Como,9.77,3.0,10,3,False,7,True
+Real Sociedad,Rayo Vallecano,9.46,15.0,9,15,True,6,True
+Mallorca,Real Madrid,9.59,15.0,10,15,True,5,True
+Real Valladolid,Espanyol,7.61,5.0,8,5,False,3,False
+Villarreal,Atlético Madrid,10.18,5.0,10,5,False,5,True
+Auxerre,Nice,8.65,8.0,9,8,False,1,False
+Angers,RC Lens,9.47,10.0,9,10,True,1,False
+Montpellier,RC Strasbourg,8.49,10.0,8,10,True,2,False
+Toulouse,Nantes,8.94,15.0,9,15,True,6,True
+Stade Rennais,Olympique Lyonnais,10.16,14.0,10,14,True,4,False
+Ipswich Town,Liverpool,9.46,12.0,9,12,True,3,False
+Arsenal,Wolverhampton,9.51,10.0,10,10,True,0,False
+Everton,Brighton & Hove Albion,8.79,6.0,9,6,False,3,False
+Newcastle United,Southampton,9.14,15.0,9,15,True,6,True
+Nottingham Forest,Bournemouth,9.02,8.0,9,8,False,1,False
+West Ham United,Aston Villa,9.64,8.0,10,8,False,2,False
+Brentford,Crystal Palace,8.93,11.0,9,11,True,2,False
+Chelsea,Manchester City,12.1,7.0,12,7,False,5,True
+Genoa,Inter,9.7,5.0,10,5,False,5,True
+Parma,Fiorentina,7.97,13.0,8,13,True,5,True
+Empoli,Monza,7.94,10.0,8,10,True,2,False
+Milan,Torino,9.36,11.0,9,11,True,2,False
+Bologna,Udinese,9.92,14.0,10,14,True,4,False
+Hellas Verona,Napoli,9.46,6.0,9,6,False,3,False
+Cagliari,Roma,9.46,8.0,9,8,False,1,False
+Lazio,Venezia,9.21,9.0,9,9,True,0,False
+Osasuna,Leganés,8.18,10.0,8,10,True,2,False
+Valencia,Barcelona,10.63,11.0,11,11,True,0,False
+Real Sociedad,Rayo Vallecano,9.46,15.0,9,15,True,6,True
+Mallorca,Real Madrid,9.59,15.0,10,15,True,5,True
+Stade Brestois,Olympique de Marseille,10.73,5.0,11,5,False,6,True
+Stade de Reims,Lille,8.9,8.0,9,8,False,1,False
+AS Monaco,Saint-Étienne,8.8,9.0,9,9,True,0,False
+Auxerre,Nice,8.65,8.0,9,8,False,1,False
+Angers,RC Lens,9.47,10.0,9,10,True,1,False
+Montpellier,RC Strasbourg,8.49,10.0,8,10,True,2,False
+Toulouse,Nantes,8.94,15.0,9,15,True,6,True
+Stade Rennais,Olympique Lyonnais,10.16,14.0,10,14,True,4,False
+Manchester United,Fulham,10.42,15.0,10,15,True,5,True
+Ipswich Town,Liverpool,9.46,12.0,9,12,True,3,False
+Arsenal,Wolverhampton,9.51,10.0,10,10,True,0,False
+Everton,Brighton & Hove Albion,8.79,6.0,9,6,False,3,False
+Newcastle United,Southampton,9.14,15.0,9,15,True,6,True
+Nottingham Forest,Bournemouth,9.02,8.0,9,8,False,1,False
+West Ham United,Aston Villa,9.64,8.0,10,8,False,2,False
+Genoa,Inter,9.7,5.0,10,5,False,5,True
+Parma,Fiorentina,7.97,13.0,8,13,True,5,True
+Empoli,Monza,7.94,10.0,8,10,True,2,False
+Milan,Torino,9.36,11.0,9,11,True,2,False
+Celta Vigo,Deportivo Alavés,8.42,6.0,8,6,False,2,False
+Las Palmas,Sevilla,8.08,9.0,8,9,True,1,False
+Osasuna,Leganés,8.18,10.0,8,10,True,2,False
+Valencia,Barcelona,10.63,11.0,11,11,True,0,False
+Le Havre,Paris Saint-Germain,10.27,10.0,10,10,True,0,False
+Stade Brestois,Olympique de Marseille,10.73,5.0,11,5,False,6,True
+Stade de Reims,Lille,8.9,8.0,9,8,False,1,False
+AS Monaco,Saint-Étienne,8.8,9.0,9,9,True,0,False
+Manchester United,Fulham,10.42,15.0,10,15,True,5,True
+Ipswich Town,Liverpool,9.46,12.0,9,12,True,3,False
+Athletic Club,Getafe,9.74,11.0,10,11,True,1,False
+Real Betis,Girona FC,9.58,8.0,10,8,False,2,False
+Celta Vigo,Deportivo Alavés,8.42,6.0,8,6,False,2,False
+Las Palmas,Sevilla,8.08,9.0,8,9,True,1,False
+Le Havre,Paris Saint-Germain,10.27,10.0,10,10,True,0,False
+Athletic Club,Getafe,9.74,11.0,10,11,True,1,False
+Real Betis,Girona FC,9.58,8.0,10,8,False,2,False
+Atalanta,Fiorentina,9.13,8.0,9,8,False,1,False
+Atalanta,Fiorentina,9.13,8.0,9,8,False,1,False
+Atalanta,Torino,9.14,7.0,9,7,False,2,False
+Napoli,Lecce,9.46,5.0,9,5,False,4,False
+Empoli,Roma,8.94,9.0,9,9,True,0,False
+Hellas Verona,Inter,9.46,12.0,9,12,True,3,False
+Getafe,Mallorca,8.61,7.0,9,7,False,2,False
+Celta Vigo,Valencia,8.68,4.0,9,4,False,5,True
+Las Palmas,Deportivo Alavés,8.41,8.0,8,8,True,0,False
+Sevilla,Barcelona,9.82,11.0,10,11,True,1,False
+Juventus,Monza,9.43,7.0,9,7,False,2,False
+Atalanta,Torino,9.14,7.0,9,7,False,2,False
+Napoli,Lecce,9.46,5.0,9,5,False,4,False
+Empoli,Roma,8.94,9.0,9,9,True,0,False
+Hellas Verona,Inter,9.46,12.0,9,12,True,3,False
+Osasuna,Villarreal,9.66,10.0,10,10,True,0,False
+Real Sociedad,Atlético Madrid,9.63,12.0,10,12,True,2,False
+Rayo Vallecano,Athletic Club,10.69,10.0,11,10,False,1,False
+Real Madrid,Real Betis,9.98,9.0,10,9,False,1,False
+Getafe,Mallorca,8.61,7.0,9,7,False,2,False
+Celta Vigo,Valencia,8.68,4.0,9,4,False,5,True
+Las Palmas,Deportivo Alavés,8.41,8.0,8,8,True,0,False
+Sevilla,Barcelona,9.82,11.0,10,11,True,1,False
+Genoa,Bologna,9.44,9.0,9,9,True,0,False
+Juventus,Monza,9.43,7.0,9,7,False,2,False
+Osasuna,Villarreal,9.66,10.0,10,10,True,0,False
+Real Sociedad,Atlético Madrid,9.63,12.0,10,12,True,2,False
+Rayo Vallecano,Athletic Club,10.69,10.0,11,10,False,1,False
+Real Madrid,Real Betis,9.98,9.0,10,9,False,1,False
+Cagliari,Fiorentina,8.17,9.0,8,9,True,1,False
+Genoa,Bologna,9.44,9.0,9,9,True,0,False
+Cagliari,Fiorentina,8.17,9.0,8,9,True,1,False
+Bologna,Juventus,10.94,5.0,11,5,False,6,True
+Arsenal,Everton,9.7,9.0,10,9,False,1,False
+Brentford,Newcastle United,9.88,3.0,10,3,False,7,True
+Brighton & Hove Albion,Manchester United,9.26,12.0,9,12,True,3,False
+Chelsea,Bournemouth,11.47,11.0,11,11,True,0,False
+Crystal Palace,Aston Villa,9.81,6.0,10,6,False,4,False
+Liverpool,Wolverhampton,9.51,12.0,10,12,True,2,False
+Manchester City,West Ham United,10.6,13.0,11,13,True,2,False
+Udinese,Empoli,8.37,10.0,8,10,True,2,False
+Inter,Lazio,11.69,8.0,12,8,False,4,False
+Roma,Genoa,9.18,9.0,9,9,True,0,False
+Bologna,Juventus,10.94,5.0,11,5,False,6,True
+Athletic Club,Sevilla,9.62,11.0,10,11,True,1,False
+Atlético Madrid,Osasuna,9.38,12.0,9,12,True,3,False
+Barcelona,Rayo Vallecano,11.22,12.0,11,12,True,1,False
+Real Betis,Real Sociedad,9.25,8.0,9,8,False,1,False
+Valencia,Girona FC,9.65,9.0,10,9,False,1,False
+Villarreal,Real Madrid,10.83,6.0,11,6,False,5,True
+AS Monaco,Nantes,8.99,4.0,9,4,False,5,True
+Le Havre,Olympique de Marseille,10.27,8.0,10,8,False,2,False
+Lille,Nice,8.75,8.0,9,8,False,1,False
+Olympique Lyonnais,RC Strasbourg,8.91,9.0,9,9,True,0,False
+RC Lens,Montpellier,10.29,1.0,10,1,False,9,True
+Stade de Reims,Stade Rennais,10.01,6.0,10,6,False,4,False
+Toulouse,Stade Brestois,9.35,8.0,9,8,False,1,False
+Arsenal,Everton,9.7,9.0,10,9,False,1,False
+Brentford,Newcastle United,9.88,3.0,10,3,False,7,True
+Brighton & Hove Albion,Manchester United,9.26,12.0,9,12,True,3,False
+Chelsea,Bournemouth,11.47,11.0,11,11,True,0,False
+Crystal Palace,Aston Villa,9.81,6.0,10,6,False,4,False
+Liverpool,Wolverhampton,9.51,12.0,10,12,True,2,False
+Manchester City,West Ham United,10.6,13.0,11,13,True,2,False
+Lecce,Atalanta,8.99,7.0,9,7,False,2,False
+Torino,Milan,9.36,11.0,9,11,True,2,False
+Udinese,Empoli,8.37,10.0,8,10,True,2,False
+Inter,Lazio,11.69,8.0,12,8,False,4,False
+Roma,Genoa,9.18,9.0,9,9,True,0,False
+Deportivo Alavés,Getafe,8.83,3.0,9,3,False,6,True
+Athletic Club,Sevilla,9.62,11.0,10,11,True,1,False
+Atlético Madrid,Osasuna,9.38,12.0,9,12,True,3,False
+Barcelona,Rayo Vallecano,11.22,12.0,11,12,True,1,False
+Real Betis,Real Sociedad,9.25,8.0,9,8,False,1,False
+Valencia,Girona FC,9.65,9.0,10,9,False,1,False
+Villarreal,Real Madrid,10.83,6.0,11,6,False,5,True
+1. FC Union Berlin,SC Freiburg,9.01,10.0,9,10,True,1,False
+Bayer 04 Leverkusen,FC Augsburg,9.46,9.0,9,9,True,0,False
+Eintracht Frankfurt,RB Leipzig,9.06,11.0,9,11,True,2,False
+SV Werder Bremen,VfL Bochum 1848,9.87,16.0,10,16,True,6,True
+TSG Hoffenheim,FC Bayern München,11.26,11.0,11,11,True,0,False
+VfB Stuttgart,Borussia M'gladbach,9.67,12.0,10,12,True,2,False
+VfL Wolfsburg,1. FSV Mainz 05,9.11,4.0,9,4,False,5,True
+AS Monaco,Nantes,8.99,4.0,9,4,False,5,True
+Le Havre,Olympique de Marseille,10.27,8.0,10,8,False,2,False
+Lille,Nice,8.75,8.0,9,8,False,1,False
+Olympique Lyonnais,RC Strasbourg,8.91,9.0,9,9,True,0,False
+RC Lens,Montpellier,10.29,1.0,10,1,False,9,True
+Stade de Reims,Stade Rennais,10.01,6.0,10,6,False,4,False
+Toulouse,Stade Brestois,9.35,8.0,9,8,False,1,False
+Fiorentina,Napoli,9.61,8.0,10,8,False,2,False
+Lecce,Atalanta,8.99,7.0,9,7,False,2,False
+Torino,Milan,9.36,11.0,9,11,True,2,False
+Deportivo Alavés,Getafe,8.83,3.0,9,3,False,6,True
+1. FC Union Berlin,SC Freiburg,9.01,10.0,9,10,True,1,False
+Bayer 04 Leverkusen,FC Augsburg,9.46,9.0,9,9,True,0,False
+Eintracht Frankfurt,RB Leipzig,9.06,11.0,9,11,True,2,False
+SV Werder Bremen,VfL Bochum 1848,9.87,16.0,10,16,True,6,True
+TSG Hoffenheim,FC Bayern München,11.26,11.0,11,11,True,0,False
+VfB Stuttgart,Borussia M'gladbach,9.67,12.0,10,12,True,2,False
+VfL Wolfsburg,1. FSV Mainz 05,9.11,4.0,9,4,False,5,True
+Fiorentina,Napoli,9.61,8.0,10,8,False,2,False
+Las Palmas,Real Betis,8.57,12.0,9,12,True,3,False
+Real Sociedad,Valencia,9.34,6.0,9,6,False,3,False
+Brighton & Hove Albion,Chelsea,10.41,10.0,10,10,True,0,False
+Manchester United,Newcastle United,10.47,18.0,10,18,True,8,True
+Celta Vigo,Athletic Club,9.4,5.0,9,5,False,4,False
+Getafe,Atlético Madrid,9.37,9.0,9,9,True,0,False
+Las Palmas,Real Betis,8.57,12.0,9,12,True,3,False
+Real Sociedad,Valencia,9.34,6.0,9,6,False,3,False
+Nice,Paris Saint-Germain,10.53,9.0,11,9,False,2,False
+Stade de Reims,Olympique de Marseille,10.76,13.0,11,13,True,2,False
+Tottenham Hotspur,Manchester City,11.53,11.0,12,11,False,1,False
+Brighton & Hove Albion,Chelsea,10.41,10.0,10,10,True,0,False
+Manchester United,Newcastle United,10.47,18.0,10,18,True,8,True
+Osasuna,Mallorca,8.66,6.0,9,6,False,3,False
+Real Madrid,Deportivo Alavés,9.95,5.0,10,5,False,5,True
+Girona FC,Villarreal,10.22,6.0,10,6,False,4,False
+Celta Vigo,Athletic Club,9.4,5.0,9,5,False,4,False
+Getafe,Atlético Madrid,9.37,9.0,9,9,True,0,False
+Nice,Paris Saint-Germain,10.53,9.0,11,9,False,2,False
+Stade de Reims,Olympique de Marseille,10.76,13.0,11,13,True,2,False
+Aston Villa,Liverpool,11.33,9.0,11,9,False,2,False
+Tottenham Hotspur,Manchester City,11.53,11.0,12,11,False,1,False
+Lecce,Udinese,8.37,10.0,8,10,True,2,False
+Fiorentina,Monza,8.07,7.0,8,7,False,1,False
+Barcelona,Real Sociedad,10.37,8.0,10,8,False,2,False
+Osasuna,Mallorca,8.66,6.0,9,6,False,3,False
+Real Madrid,Deportivo Alavés,9.95,5.0,10,5,False,5,True
+Girona FC,Villarreal,10.22,6.0,10,6,False,4,False
+Manchester United,Arsenal,10.89,11.0,11,11,True,0,False
+Aston Villa,Liverpool,11.33,9.0,11,9,False,2,False
+Lazio,Empoli,9.21,14.0,9,14,True,5,True
+Hellas Verona,Torino,7.82,11.0,8,11,True,3,False
+Atalanta,Roma,10.83,7.0,11,7,False,4,False
+Lecce,Udinese,8.37,10.0,8,10,True,2,False
+Fiorentina,Monza,8.07,7.0,8,7,False,1,False
+Atlético Madrid,Celta Vigo,8.96,11.0,9,11,True,2,False
+Valencia,Rayo Vallecano,9.84,9.0,10,9,False,1,False
+Barcelona,Real Sociedad,10.37,8.0,10,8,False,2,False
+FC Bayern München,VfL Wolfsburg,11.11,4.0,11,4,False,7,True
+VfL Bochum 1848,Bayer 04 Leverkusen,10.93,8.0,11,8,False,3,False
+Montpellier,AS Monaco,9.61,6.0,10,6,False,4,False
+Nantes,Lille,8.31,9.0,8,9,True,1,False
+Paris Saint-Germain,Toulouse,10.37,10.0,10,10,True,0,False
+Stade Rennais,RC Lens,11.01,7.0,11,7,False,4,False
+Fulham,Manchester City,11.63,8.0,12,8,False,4,False
+Bournemouth,Brentford,9.59,11.0,10,11,True,1,False
+Newcastle United,Brighton & Hove Albion,10.01,12.0,10,12,True,2,False
+Wolverhampton,Crystal Palace,8.51,11.0,9,11,True,2,False
+Nottingham Forest,Chelsea,9.68,11.0,10,11,True,1,False
+Manchester United,Arsenal,10.89,11.0,11,11,True,0,False
+Napoli,Bologna,11.46,12.0,11,12,True,1,False
+Milan,Cagliari,9.72,9.0,10,9,False,1,False
+Lazio,Empoli,9.21,14.0,9,14,True,5,True
+Hellas Verona,Torino,7.82,11.0,8,11,True,3,False
+Atalanta,Roma,10.83,7.0,11,7,False,4,False
+Mallorca,Las Palmas,8.2,4.0,8,4,False,4,False
+Villarreal,Sevilla,9.37,11.0,9,11,True,2,False
+Athletic Club,Osasuna,9.91,14.0,10,14,True,4,False
+Atlético Madrid,Celta Vigo,8.96,11.0,9,11,True,2,False
+Valencia,Rayo Vallecano,9.84,9.0,10,9,False,1,False
+Borussia M'gladbach,Eintracht Frankfurt,9.06,10.0,9,10,True,1,False
+RB Leipzig,SV Werder Bremen,9.59,7.0,10,7,False,3,False
+SC Freiburg,1. FC Heidenheim,8.62,6.0,9,6,False,3,False
+1. FSV Mainz 05,Borussia Dortmund,10.04,6.0,10,6,False,4,False
+FC Bayern München,VfL Wolfsburg,11.11,4.0,11,4,False,7,True
+VfL Bochum 1848,Bayer 04 Leverkusen,10.93,8.0,11,8,False,3,False
+Montpellier,AS Monaco,9.61,6.0,10,6,False,4,False
+Nantes,Lille,8.31,9.0,8,9,True,1,False
+Paris Saint-Germain,Toulouse,10.37,10.0,10,10,True,0,False
+Stade Rennais,RC Lens,11.01,7.0,11,7,False,4,False
+Fulham,Manchester City,11.63,8.0,12,8,False,4,False
+Bournemouth,Brentford,9.59,11.0,10,11,True,1,False
+Newcastle United,Brighton & Hove Albion,10.01,12.0,10,12,True,2,False
+Wolverhampton,Crystal Palace,8.51,11.0,9,11,True,2,False
+Nottingham Forest,Chelsea,9.68,11.0,10,11,True,1,False
+Napoli,Bologna,11.46,12.0,11,12,True,1,False
+Milan,Cagliari,9.72,9.0,10,9,False,1,False
+Lazio,Empoli,9.21,14.0,9,14,True,5,True
+Deportivo Alavés,Girona FC,9.41,8.0,9,8,False,1,False
+Mallorca,Las Palmas,8.2,4.0,8,4,False,4,False
+Villarreal,Sevilla,9.37,11.0,9,11,True,2,False
+Athletic Club,Osasuna,9.91,14.0,10,14,True,4,False
+FC Augsburg,VfB Stuttgart,8.78,10.0,9,10,True,1,False
+Borussia M'gladbach,Eintracht Frankfurt,9.06,10.0,9,10,True,1,False
+RB Leipzig,SV Werder Bremen,9.59,7.0,10,7,False,3,False
+SC Freiburg,1. FC Heidenheim,8.62,6.0,9,6,False,3,False
+1. FSV Mainz 05,Borussia Dortmund,10.04,6.0,10,6,False,4,False
+Nice,Le Havre,9.02,7.0,9,7,False,2,False
+Stade Brestois,Stade de Reims,9.72,7.0,10,7,False,3,False
+Fulham,Manchester City,11.63,8.0,12,8,False,4,False
+Deportivo Alavés,Girona FC,9.41,8.0,9,8,False,1,False
+FC Augsburg,VfB Stuttgart,8.78,10.0,9,10,True,1,False
+Nice,Le Havre,9.02,7.0,9,7,False,2,False
+Stade Brestois,Stade de Reims,9.72,7.0,10,7,False,3,False
+Crystal Palace,Manchester United,9.21,8.0,9,8,False,1,False
+Udinese,Napoli,10.27,12.0,10,12,True,2,False
+Lille,Olympique Lyonnais,9.07,8.0,9,8,False,1,False
+Brighton & Hove Albion,Aston Villa,9.8,10.0,10,10,True,0,False
+Chelsea,West Ham United,10.47,14.0,10,14,True,4,False
+Liverpool,Tottenham Hotspur,11.53,11.0,12,11,False,1,False
+Crystal Palace,Manchester United,9.21,8.0,9,8,False,1,False
+Cagliari,Lecce,8.04,13.0,8,13,True,5,True
+Hellas Verona,Fiorentina,7.67,3.0,8,3,False,5,True
+Milan,Genoa,9.44,8.0,9,8,False,1,False
+Roma,Juventus,10.83,15.0,11,15,True,4,False
+Udinese,Napoli,10.27,12.0,10,12,True,2,False
+Osasuna,Real Betis,8.9,13.0,9,13,True,4,False
+Celta Vigo,Villarreal,9.15,3.0,9,3,False,6,True
+Valencia,Deportivo Alavés,9.21,12.0,9,12,True,3,False
+1. FC Union Berlin,VfL Bochum 1848,9.73,10.0,10,10,True,0,False
+Eintracht Frankfurt,Bayer 04 Leverkusen,11.19,15.0,11,15,True,4,False
+1. FC Heidenheim,1. FSV Mainz 05,9.13,9.0,9,9,True,0,False
+Lille,Olympique Lyonnais,9.07,8.0,9,8,False,1,False
+Arsenal,Bournemouth,11.47,7.0,11,7,False,4,False
+Brentford,Fulham,9.93,13.0,10,13,True,3,False
+Manchester City,Wolverhampton,9.51,6.0,10,6,False,4,False
+Brighton & Hove Albion,Aston Villa,9.8,10.0,10,10,True,0,False
+Chelsea,West Ham United,10.47,14.0,10,14,True,4,False
+Liverpool,Tottenham Hotspur,11.53,11.0,12,11,False,1,False
+Monza,Lazio,9.69,9.0,10,9,False,1,False
+Cagliari,Lecce,8.04,13.0,8,13,True,5,True
+Hellas Verona,Fiorentina,7.67,3.0,8,3,False,5,True
+Milan,Genoa,9.44,8.0,9,8,False,1,False
+Roma,Juventus,10.83,15.0,11,15,True,4,False
+Real Sociedad,Las Palmas,8.54,9.0,9,9,True,0,False
+Girona FC,Barcelona,10.87,9.0,11,9,False,2,False
+Mallorca,Atlético Madrid,9.28,8.0,9,8,False,1,False
+Osasuna,Real Betis,8.9,13.0,9,13,True,4,False
+Celta Vigo,Villarreal,9.15,3.0,9,3,False,6,True
+Valencia,Deportivo Alavés,9.21,12.0,9,12,True,3,False
+Borussia Dortmund,FC Augsburg,9.46,15.0,9,15,True,6,True
+SV Werder Bremen,Borussia M'gladbach,9.52,9.0,10,9,False,1,False
+VfB Stuttgart,FC Bayern München,10.72,4.0,11,4,False,7,True
+1. FC Union Berlin,VfL Bochum 1848,9.73,10.0,10,10,True,0,False
+Eintracht Frankfurt,Bayer 04 Leverkusen,11.19,15.0,11,15,True,4,False
+1. FC Heidenheim,1. FSV Mainz 05,9.13,9.0,9,9,True,0,False
+Le Havre,RC Strasbourg,8.35,5.0,8,5,False,3,False
+Stade Brestois,Nantes,8.8,6.0,9,6,False,3,False
+Arsenal,Bournemouth,11.47,7.0,11,7,False,4,False
+Brentford,Fulham,9.93,13.0,10,13,True,3,False
+Manchester City,Wolverhampton,9.51,6.0,10,6,False,4,False
+Torino,Bologna,9.29,6.0,9,6,False,3,False
+Monza,Lazio,9.69,9.0,10,9,False,1,False
+Cagliari,Lecce,8.04,13.0,8,13,True,5,True
+Getafe,Athletic Club,9.74,16.0,10,16,True,6,True
+Real Sociedad,Las Palmas,8.54,9.0,9,9,True,0,False
+Girona FC,Barcelona,10.87,9.0,11,9,False,2,False
+Mallorca,Atlético Madrid,9.28,8.0,9,8,False,1,False
+TSG Hoffenheim,RB Leipzig,9.43,8.0,9,8,False,1,False
+Borussia Dortmund,FC Augsburg,9.46,15.0,9,15,True,6,True
+SV Werder Bremen,Borussia M'gladbach,9.52,9.0,10,9,False,1,False
+VfB Stuttgart,FC Bayern München,10.72,4.0,11,4,False,7,True
+Toulouse,Montpellier,9.22,8.0,9,8,False,1,False
+Le Havre,RC Strasbourg,8.35,5.0,8,5,False,3,False
+Stade Brestois,Nantes,8.8,6.0,9,6,False,3,False
+Chelsea,Tottenham Hotspur,11.38,13.0,11,13,True,2,False
+Arsenal,Bournemouth,11.47,7.0,11,7,False,4,False
+Torino,Bologna,9.29,6.0,9,6,False,3,False
+Getafe,Athletic Club,9.74,16.0,10,16,True,6,True
+TSG Hoffenheim,RB Leipzig,9.43,8.0,9,8,False,1,False
+Toulouse,Montpellier,9.22,8.0,9,8,False,1,False
+Chelsea,Tottenham Hotspur,11.38,13.0,11,13,True,2,False
+Genoa,Cagliari,8.53,6.0,9,6,False,3,False
+Barcelona,Valencia,10.63,16.0,11,16,True,5,True
+Bournemouth,Brighton & Hove Albion,9.71,10.0,10,10,True,0,False
+Tottenham Hotspur,Arsenal,11.53,14.0,12,14,True,2,False
+Nottingham Forest,Manchester City,9.81,9.0,10,9,False,1,False
+Inter,Torino,9.63,9.0,10,9,False,1,False
+Bologna,Udinese,9.92,13.0,10,13,True,3,False
+Atalanta,Empoli,8.99,9.0,9,9,True,0,False
+Napoli,Roma,11.51,11.0,12,11,False,1,False
+Genoa,Cagliari,8.53,6.0,9,6,False,3,False
+Villarreal,Rayo Vallecano,10.42,9.0,10,9,False,1,False
+Real Betis,Sevilla,8.8,10.0,9,10,True,1,False
+Barcelona,Valencia,10.63,16.0,11,16,True,5,True
+Borussia M'gladbach,1. FC Union Berlin,9.26,7.0,9,7,False,2,False
+RC Strasbourg,Nice,8.58,5.0,9,5,False,4,False
+Stade Rennais,Stade Brestois,10.0,11.0,10,11,True,1,False
+Olympique Lyonnais,AS Monaco,9.91,6.0,10,6,False,4,False
+Olympique de Marseille,RC Lens,12.19,14.0,12,14,True,2,False
+West Ham United,Liverpool,10.47,12.0,10,12,True,2,False
+Fulham,Crystal Palace,10.11,14.0,10,14,True,4,False
+Everton,Brentford,8.58,12.0,9,12,True,3,False
+Aston Villa,Chelsea,11.26,6.0,11,6,False,5,True
+Bournemouth,Brighton & Hove Albion,9.71,10.0,10,10,True,0,False
+Tottenham Hotspur,Arsenal,11.53,14.0,12,14,True,2,False
+Nottingham Forest,Manchester City,9.81,9.0,10,9,False,1,False
+Lecce,Monza,7.94,5.0,8,5,False,3,False
+Juventus,Milan,11.26,13.0,11,13,True,2,False
+Lazio,Hellas Verona,9.21,6.0,9,6,False,3,False
+Inter,Torino,9.63,9.0,10,9,False,1,False
+Bologna,Udinese,9.92,13.0,10,13,True,3,False
+Atalanta,Empoli,8.99,9.0,9,9,True,0,False
+Napoli,Roma,11.51,11.0,12,11,False,1,False
+Las Palmas,Girona FC,8.74,6.0,9,6,False,3,False
+Deportivo Alavés,Celta Vigo,8.42,11.0,8,11,True,3,False
+Atlético Madrid,Athletic Club,10.44,8.0,10,8,False,2,False
+Villarreal,Rayo Vallecano,10.42,9.0,10,9,False,1,False
+Real Betis,Sevilla,8.8,10.0,9,10,True,1,False
+FC Augsburg,SV Werder Bremen,8.77,10.0,9,10,True,1,False
+FC Bayern München,Eintracht Frankfurt,11.19,6.0,11,6,False,5,True
+RB Leipzig,Borussia Dortmund,9.98,13.0,10,13,True,3,False
+SC Freiburg,VfL Wolfsburg,8.66,9.0,9,9,True,0,False
+Bayer 04 Leverkusen,VfB Stuttgart,10.61,7.0,11,7,False,4,False
+Borussia M'gladbach,1. FC Union Berlin,9.26,7.0,9,7,False,2,False
+Paris Saint-Germain,Le Havre,10.27,13.0,10,13,True,3,False
+RC Strasbourg,Nice,8.58,5.0,9,5,False,4,False
+Stade Rennais,Stade Brestois,10.0,11.0,10,11,True,1,False
+Olympique Lyonnais,AS Monaco,9.91,6.0,10,6,False,4,False
+Olympique de Marseille,RC Lens,12.19,14.0,12,14,True,2,False
+West Ham United,Liverpool,10.47,12.0,10,12,True,2,False
+Fulham,Crystal Palace,10.11,14.0,10,14,True,4,False
+Everton,Brentford,8.58,12.0,9,12,True,3,False
+Aston Villa,Chelsea,11.26,6.0,11,6,False,5,True
+Lecce,Monza,7.94,5.0,8,5,False,3,False
+Juventus,Milan,11.26,13.0,11,13,True,2,False
+Lazio,Hellas Verona,9.21,6.0,9,6,False,3,False
+Inter,Torino,9.63,9.0,10,9,False,1,False
+Real Sociedad,Real Madrid,9.96,14.0,10,14,True,4,False
+Las Palmas,Girona FC,8.74,6.0,9,6,False,3,False
+Deportivo Alavés,Celta Vigo,8.42,11.0,8,11,True,3,False
+Atlético Madrid,Athletic Club,10.44,8.0,10,8,False,2,False
+VfL Bochum 1848,TSG Hoffenheim,10.02,14.0,10,14,True,4,False
+FC Augsburg,SV Werder Bremen,8.77,10.0,9,10,True,1,False
+FC Bayern München,Eintracht Frankfurt,11.19,6.0,11,6,False,5,True
+RB Leipzig,Borussia Dortmund,9.98,13.0,10,13,True,3,False
+SC Freiburg,VfL Wolfsburg,8.66,9.0,9,9,True,0,False
+Bayer 04 Leverkusen,VfB Stuttgart,10.61,7.0,11,7,False,4,False
+Montpellier,Nantes,8.53,9.0,9,9,True,0,False
+Paris Saint-Germain,Le Havre,10.27,13.0,10,13,True,3,False
+Brighton & Hove Albion,Manchester City,10.41,8.0,10,8,False,2,False
+West Ham United,Liverpool,10.47,12.0,10,12,True,2,False
+Udinese,Roma,9.75,12.0,10,12,True,2,False
+Real Sociedad,Real Madrid,9.96,14.0,10,14,True,4,False
+VfL Bochum 1848,TSG Hoffenheim,10.02,14.0,10,14,True,4,False
+Montpellier,Nantes,8.53,9.0,9,9,True,0,False
+Wolverhampton,Bournemouth,8.86,20.0,9,20,True,11,True
+Crystal Palace,Newcastle United,10.02,9.0,10,9,False,1,False
+Everton,Liverpool,9.7,17.0,10,17,True,7,True
+Brighton & Hove Albion,Manchester City,10.41,8.0,10,8,False,2,False
+Udinese,Roma,9.75,12.0,10,12,True,2,False
+AS Monaco,Lille,9.34,12.0,9,12,True,3,False
+Olympique de Marseille,Nice,10.53,5.0,11,5,False,6,True
+Arsenal,Chelsea,12.26,6.0,12,6,False,6,True
+Wolverhampton,Bournemouth,8.86,20.0,9,20,True,11,True
+Crystal Palace,Newcastle United,10.02,9.0,10,9,False,1,False
+Everton,Liverpool,9.7,17.0,10,17,True,7,True
+AS Monaco,Lille,9.34,12.0,9,12,True,3,False
+Olympique de Marseille,Nice,10.53,5.0,11,5,False,6,True
+Arsenal,Chelsea,12.26,6.0,12,6,False,6,True
+Roma,Bologna,10.76,10.0,11,10,False,1,False
+Milan,Inter,11.95,8.0,12,8,False,4,False
+Sevilla,Mallorca,8.42,8.0,8,8,True,0,False
+Everton,Nottingham Forest,8.28,10.0,8,10,True,2,False
+Aston Villa,Bournemouth,10.51,12.0,11,12,True,1,False
+Crystal Palace,West Ham United,9.13,4.0,9,4,False,5,True
+Fulham,Liverpool,11.63,5.0,12,5,False,7,True
+Monza,Atalanta,9.38,10.0,9,10,True,1,False
+Roma,Bologna,10.76,10.0,11,10,False,1,False
+Milan,Inter,11.95,8.0,12,8,False,4,False
+Getafe,Real Sociedad,8.96,4.0,9,4,False,5,True
+Deportivo Alavés,Atlético Madrid,9.5,12.0,10,12,True,2,False
+Real Madrid,Barcelona,11.53,10.0,12,10,False,2,False
+Sevilla,Mallorca,8.42,8.0,8,8,True,0,False
+SV Werder Bremen,VfB Stuttgart,10.0,8.0,10,8,False,2,False
+Borussia Dortmund,Bayer 04 Leverkusen,12.26,8.0,12,8,False,4,False
+SC Freiburg,1. FSV Mainz 05,8.64,6.0,9,6,False,3,False
+Lille,RC Strasbourg,8.27,8.0,8,8,True,0,False
+Stade de Reims,Montpellier,9.24,12.0,9,12,True,3,False
+Stade Brestois,AS Monaco,9.76,11.0,10,11,True,1,False
+Toulouse,Olympique de Marseille,10.37,11.0,10,11,True,1,False
+Paris Saint-Germain,Olympique Lyonnais,10.89,14.0,11,14,True,3,False
+Wolverhampton,Arsenal,9.51,3.0,10,3,False,7,True
+Everton,Nottingham Forest,8.28,10.0,8,10,True,2,False
+Aston Villa,Bournemouth,10.51,12.0,11,12,True,1,False
+Crystal Palace,West Ham United,9.13,4.0,9,4,False,5,True
+Fulham,Liverpool,11.63,5.0,12,5,False,7,True
+Empoli,Napoli,9.46,10.0,9,10,True,1,False
+Hellas Verona,Udinese,8.37,16.0,8,16,True,8,True
+Monza,Atalanta,9.38,10.0,9,10,True,1,False
+Celta Vigo,Las Palmas,7.88,12.0,8,12,True,4,False
+Rayo Vallecano,Osasuna,9.5,6.0,10,6,False,4,False
+Valencia,Real Betis,9.37,13.0,9,13,True,4,False
+Getafe,Real Sociedad,8.96,4.0,9,4,False,5,True
+Deportivo Alavés,Atlético Madrid,9.5,12.0,10,12,True,2,False
+Real Madrid,Barcelona,11.53,10.0,12,10,False,2,False
+1. FC Heidenheim,RB Leipzig,8.99,8.0,9,8,False,1,False
+TSG Hoffenheim,Borussia M'gladbach,9.51,11.0,10,11,True,1,False
+VfL Wolfsburg,VfL Bochum 1848,9.89,13.0,10,13,True,3,False
+1. FC Union Berlin,FC Bayern München,10.93,8.0,11,8,False,3,False
+SV Werder Bremen,VfB Stuttgart,10.0,8.0,10,8,False,2,False
+Borussia Dortmund,Bayer 04 Leverkusen,12.26,8.0,12,8,False,4,False
+SC Freiburg,1. FSV Mainz 05,8.64,6.0,9,6,False,3,False
+Nantes,Stade Rennais,9.24,10.0,9,10,True,1,False
+Lille,RC Strasbourg,8.27,8.0,8,8,True,0,False
+Stade de Reims,Montpellier,9.24,12.0,9,12,True,3,False
+Stade Brestois,AS Monaco,9.76,11.0,10,11,True,1,False
+Toulouse,Olympique de Marseille,10.37,11.0,10,11,True,1,False
+Paris Saint-Germain,Olympique Lyonnais,10.89,14.0,11,14,True,3,False
+Wolverhampton,Arsenal,9.51,3.0,10,3,False,7,True
+Genoa,Lazio,9.65,11.0,10,11,True,1,False
+Cagliari,Juventus,9.52,7.0,10,7,False,3,False
+Empoli,Napoli,9.46,10.0,9,10,True,1,False
+Hellas Verona,Udinese,8.37,16.0,8,16,True,8,True
+Celta Vigo,Las Palmas,7.88,12.0,8,12,True,4,False
+Rayo Vallecano,Osasuna,9.5,6.0,10,6,False,4,False
+Valencia,Real Betis,9.37,13.0,9,13,True,4,False
+Eintracht Frankfurt,FC Augsburg,8.7,11.0,9,11,True,2,False
+1. FC Heidenheim,RB Leipzig,8.99,8.0,9,8,False,1,False
+TSG Hoffenheim,Borussia M'gladbach,9.51,11.0,10,11,True,1,False
+VfL Wolfsburg,VfL Bochum 1848,9.89,13.0,10,13,True,3,False
+1. FC Union Berlin,FC Bayern München,10.93,8.0,11,8,False,3,False
+Nantes,Stade Rennais,9.24,10.0,9,10,True,1,False
+Genoa,Lazio,9.65,11.0,10,11,True,1,False
+Cagliari,Juventus,9.52,7.0,10,7,False,3,False
+Eintracht Frankfurt,FC Augsburg,8.7,11.0,9,11,True,2,False
+Chelsea,Everton,9.58,12.0,10,12,True,2,False
+Fiorentina,Genoa,8.17,8.0,8,8,True,0,False
+Atalanta,Hellas Verona,8.99,9.0,9,9,True,0,False
+Osasuna,Valencia,9.12,5.0,9,5,False,4,False
+Liverpool,Crystal Palace,10.36,12.0,10,12,True,2,False
+West Ham United,Fulham,10.34,11.0,10,11,True,1,False
+Arsenal,Aston Villa,11.58,10.0,12,10,False,2,False
+Chelsea,Everton,9.58,12.0,10,12,True,2,False
+Inter,Cagliari,9.99,7.0,10,7,False,3,False
+Fiorentina,Genoa,8.17,8.0,8,8,True,0,False
+Atalanta,Hellas Verona,8.99,9.0,9,9,True,0,False
+Las Palmas,Sevilla,8.08,8.0,8,8,True,0,False
+Athletic Club,Villarreal,10.86,4.0,11,4,False,7,True
+Osasuna,Valencia,9.12,5.0,9,5,False,4,False
+Bayer 04 Leverkusen,SV Werder Bremen,11.1,7.0,11,7,False,4,False
+Le Havre,Nantes,8.66,13.0,9,13,True,4,False
+Olympique Lyonnais,Stade Brestois,9.62,17.0,10,17,True,7,True
+Newcastle United,Tottenham Hotspur,11.11,19.0,11,19,True,8,True
+Nottingham Forest,Wolverhampton,8.11,11.0,8,11,True,3,False
+Bournemouth,Manchester United,10.16,9.0,10,9,False,1,False
+Liverpool,Crystal Palace,10.36,12.0,10,12,True,2,False
+West Ham United,Fulham,10.34,11.0,10,11,True,1,False
+Arsenal,Aston Villa,11.58,10.0,12,10,False,2,False
+Lecce,Empoli,7.56,13.0,8,13,True,5,True
+Torino,Juventus,9.17,8.0,9,8,False,1,False
+Bologna,Monza,9.49,10.0,9,10,True,1,False
+Inter,Cagliari,9.99,7.0,10,7,False,3,False
+Atlético Madrid,Girona FC,9.95,2.0,10,2,False,8,True
+Rayo Vallecano,Getafe,9.33,3.0,9,3,False,6,True
+Mallorca,Real Madrid,9.59,6.0,10,6,False,4,False
+Las Palmas,Sevilla,8.08,8.0,8,8,True,0,False
+Athletic Club,Villarreal,10.86,4.0,11,4,False,7,True
+1. FSV Mainz 05,TSG Hoffenheim,9.58,12.0,10,12,True,2,False
+Borussia M'gladbach,Borussia Dortmund,10.06,6.0,10,6,False,4,False
+RB Leipzig,VfL Wolfsburg,9.05,10.0,9,10,True,1,False
+VfL Bochum 1848,1. FC Heidenheim,9.27,8.0,9,8,False,1,False
+VfB Stuttgart,Eintracht Frankfurt,9.8,9.0,10,9,False,1,False
+Bayer 04 Leverkusen,SV Werder Bremen,11.1,7.0,11,7,False,4,False
+RC Strasbourg,Stade de Reims,8.72,9.0,9,9,True,0,False
+Stade Rennais,Toulouse,9.87,12.0,10,12,True,2,False
+Le Havre,Nantes,8.66,13.0,9,13,True,4,False
+Olympique Lyonnais,Stade Brestois,9.62,17.0,10,17,True,7,True
+Newcastle United,Tottenham Hotspur,11.11,19.0,11,19,True,8,True
+Nottingham Forest,Wolverhampton,8.11,11.0,8,11,True,3,False
+Bournemouth,Manchester United,10.16,9.0,10,9,False,1,False
+Lecce,Empoli,7.56,13.0,8,13,True,5,True
+Torino,Juventus,9.17,8.0,9,8,False,1,False
+Bologna,Monza,9.49,10.0,9,10,True,1,False
+Real Betis,Celta Vigo,8.59,11.0,9,11,True,2,False
+Atlético Madrid,Girona FC,9.95,2.0,10,2,False,8,True
+Rayo Vallecano,Getafe,9.33,3.0,9,3,False,6,True
+Mallorca,Real Madrid,9.59,6.0,10,6,False,4,False
+FC Augsburg,1. FC Union Berlin,8.58,9.0,9,9,True,0,False
+1. FSV Mainz 05,TSG Hoffenheim,9.58,12.0,10,12,True,2,False
+Borussia M'gladbach,Borussia Dortmund,10.06,6.0,10,6,False,4,False
+RB Leipzig,VfL Wolfsburg,9.05,10.0,9,10,True,1,False
+VfL Bochum 1848,1. FC Heidenheim,9.27,8.0,9,8,False,1,False
+VfB Stuttgart,Eintracht Frankfurt,9.8,9.0,10,9,False,1,False
+RC Strasbourg,Stade de Reims,8.72,9.0,9,9,True,0,False
+Stade Rennais,Toulouse,9.87,12.0,10,12,True,2,False
+Le Havre,Nantes,8.66,13.0,9,13,True,4,False
+Newcastle United,Tottenham Hotspur,11.11,19.0,11,19,True,8,True
+Real Betis,Celta Vigo,8.59,11.0,9,11,True,2,False
+FC Augsburg,1. FC Union Berlin,8.58,9.0,9,9,True,0,False
+Udinese,Inter,10.27,8.0,10,8,False,2,False
+Manchester United,Liverpool,10.89,17.0,11,17,True,6,True
+Tottenham Hotspur,Nottingham Forest,9.47,14.0,9,14,True,5,True
+Monza,Napoli,9.9,7.0,10,7,False,3,False
+Cagliari,Atalanta,9.48,8.0,9,8,False,1,False
+Hellas Verona,Genoa,8.04,8.0,8,8,True,0,False
+Juventus,Fiorentina,9.15,11.0,9,11,True,2,False
+Udinese,Inter,10.27,8.0,10,8,False,2,False
+TSG Hoffenheim,FC Augsburg,8.9,17.0,9,17,True,8,True
+VfL Wolfsburg,Borussia M'gladbach,9.27,8.0,9,8,False,1,False
+Stade de Reims,Nice,9.53,7.0,10,7,False,3,False
+Toulouse,RC Strasbourg,8.62,7.0,9,7,False,2,False
+AS Monaco,Stade Rennais,10.29,9.0,10,9,False,1,False
+Nantes,Olympique Lyonnais,8.94,10.0,9,10,True,1,False
+Crystal Palace,Manchester City,10.42,11.0,10,11,True,1,False
+Aston Villa,Brentford,9.66,14.0,10,14,True,4,False
+Fulham,Newcastle United,11.2,17.0,11,17,True,6,True
+Wolverhampton,West Ham United,8.38,8.0,8,8,True,0,False
+Brighton & Hove Albion,Arsenal,10.48,15.0,10,15,True,5,True
+Manchester United,Liverpool,10.89,17.0,11,17,True,6,True
+Tottenham Hotspur,Nottingham Forest,9.47,14.0,9,14,True,5,True
+Milan,Lecce,9.2,6.0,9,6,False,3,False
+Roma,Lazio,10.99,9.0,11,9,False,2,False
+Empoli,Torino,7.7,8.0,8,8,True,0,False
+Monza,Napoli,9.9,7.0,10,7,False,3,False
+Cagliari,Atalanta,9.48,8.0,9,8,False,1,False
+Hellas Verona,Genoa,8.04,8.0,8,8,True,0,False
+Juventus,Fiorentina,9.15,11.0,9,11,True,2,False
+1. FC Heidenheim,FC Bayern München,10.22,6.0,10,6,False,4,False
+1. FC Union Berlin,Bayer 04 Leverkusen,10.79,17.0,11,17,True,6,True
+SC Freiburg,RB Leipzig,8.5,12.0,8,12,True,4,False
+Borussia Dortmund,VfB Stuttgart,10.72,11.0,11,11,True,0,False
+TSG Hoffenheim,FC Augsburg,8.9,17.0,9,17,True,8,True
+VfL Wolfsburg,Borussia M'gladbach,9.27,8.0,9,8,False,1,False
+RC Lens,Le Havre,10.21,11.0,10,11,True,1,False
+Stade de Reims,Nice,9.53,7.0,10,7,False,3,False
+Toulouse,RC Strasbourg,8.62,7.0,9,7,False,2,False
+AS Monaco,Stade Rennais,10.29,9.0,10,9,False,1,False
+Nantes,Olympique Lyonnais,8.94,10.0,9,10,True,1,False
+Crystal Palace,Manchester City,10.42,11.0,10,11,True,1,False
+Aston Villa,Brentford,9.66,14.0,10,14,True,4,False
+Fulham,Newcastle United,11.2,17.0,11,17,True,6,True
+Wolverhampton,West Ham United,8.38,8.0,8,8,True,0,False
+Brighton & Hove Albion,Arsenal,10.48,15.0,10,15,True,5,True
+Milan,Lecce,9.2,6.0,9,6,False,3,False
+Roma,Lazio,10.99,9.0,11,9,False,2,False
+Empoli,Torino,7.7,8.0,8,8,True,0,False
+Eintracht Frankfurt,SV Werder Bremen,10.12,9.0,10,9,False,1,False
+1. FC Heidenheim,FC Bayern München,10.22,6.0,10,6,False,4,False
+1. FC Union Berlin,Bayer 04 Leverkusen,10.79,17.0,11,17,True,6,True
+SC Freiburg,RB Leipzig,8.5,12.0,8,12,True,4,False
+Borussia Dortmund,VfB Stuttgart,10.72,11.0,11,11,True,0,False
+Lille,Olympique de Marseille,9.78,6.0,10,6,False,4,False
+RC Lens,Le Havre,10.21,11.0,10,11,True,1,False
+Chelsea,Manchester United,10.89,15.0,11,15,True,4,False
+Crystal Palace,Manchester City,10.42,11.0,10,11,True,1,False
+Eintracht Frankfurt,SV Werder Bremen,10.12,9.0,10,9,False,1,False
+Lille,Olympique de Marseille,9.78,6.0,10,6,False,4,False
+Brentford,Brighton & Hove Albion,8.97,6.0,9,6,False,3,False
+Manchester City,Aston Villa,11.58,5.0,12,5,False,7,True
+Chelsea,Manchester United,10.89,15.0,11,15,True,4,False
+Newcastle United,Everton,9.33,10.0,9,10,True,1,False
+Nottingham Forest,Fulham,9.56,11.0,10,11,True,1,False
+Bournemouth,Crystal Palace,9.66,11.0,10,11,True,1,False
+West Ham United,Tottenham Hotspur,10.26,14.0,10,14,True,4,False
+Brentford,Brighton & Hove Albion,8.97,6.0,9,6,False,3,False
+Manchester City,Aston Villa,11.58,5.0,12,5,False,7,True
+Newcastle United,Everton,9.33,10.0,9,10,True,1,False
+Nottingham Forest,Fulham,9.56,11.0,10,11,True,1,False
+Bournemouth,Crystal Palace,9.66,11.0,10,11,True,1,False
+West Ham United,Tottenham Hotspur,10.26,14.0,10,14,True,4,False
+Cagliari,Hellas Verona,8.04,9.0,8,9,True,1,False
+Lecce,Roma,8.94,12.0,9,12,True,3,False
+Inter,Empoli,9.46,14.0,9,14,True,5,True
+Villarreal,Atlético Madrid,10.18,6.0,10,6,False,4,False
+Liverpool,Brighton & Hove Albion,10.41,12.0,10,12,True,2,False
+Manchester City,Arsenal,12.26,11.0,12,11,False,1,False
+Cagliari,Hellas Verona,8.04,9.0,8,9,True,1,False
+Lecce,Roma,8.94,12.0,9,12,True,3,False
+Inter,Empoli,9.46,14.0,9,14,True,5,True
+Celta Vigo,Rayo Vallecano,9.01,5.0,9,5,False,4,False
+Girona FC,Real Betis,9.58,9.0,10,9,False,1,False
+Deportivo Alavés,Real Sociedad,9.09,11.0,9,11,True,2,False
+Real Madrid,Athletic Club,11.12,11.0,11,11,True,0,False
+Villarreal,Atlético Madrid,10.18,6.0,10,6,False,4,False
+VfB Stuttgart,1. FC Heidenheim,9.54,13.0,10,13,True,3,False
+Le Havre,Montpellier,8.94,12.0,9,12,True,3,False
+Nice,Nantes,8.62,12.0,9,12,True,3,False
+RC Strasbourg,Stade Rennais,9.19,9.0,9,9,True,0,False
+Olympique de Marseille,Paris Saint-Germain,12.26,8.0,12,8,False,4,False
+Newcastle United,West Ham United,10.04,7.0,10,7,False,3,False
+Bournemouth,Everton,9.04,17.0,9,17,True,8,True
+Nottingham Forest,Crystal Palace,8.84,10.0,9,10,True,1,False
+Aston Villa,Wolverhampton,9.05,9.0,9,9,True,0,False
+Brentford,Manchester United,9.19,18.0,9,18,True,9,True
+Liverpool,Brighton & Hove Albion,10.41,12.0,10,12,True,2,False
+Manchester City,Arsenal,12.26,11.0,12,11,False,1,False
+Napoli,Atalanta,11.36,12.0,11,12,True,1,False
+Torino,Monza,8.2,9.0,8,9,True,1,False
+Lazio,Juventus,11.16,9.0,11,9,False,2,False
+Fiorentina,Milan,9.34,12.0,9,12,True,3,False
+Getafe,Sevilla,8.5,9.0,8,9,True,1,False
+Valencia,Mallorca,8.99,6.0,9,6,False,3,False
+Barcelona,Las Palmas,9.51,7.0,10,7,False,3,False
+Celta Vigo,Rayo Vallecano,9.01,5.0,9,5,False,4,False
+Girona FC,Real Betis,9.58,9.0,10,9,False,1,False
+Deportivo Alavés,Real Sociedad,9.09,11.0,9,11,True,2,False
+Real Madrid,Athletic Club,11.12,11.0,11,11,True,0,False
+Bayer 04 Leverkusen,TSG Hoffenheim,11.26,11.0,11,11,True,0,False
+Borussia M'gladbach,SC Freiburg,8.57,15.0,9,15,True,6,True
+Eintracht Frankfurt,1. FC Union Berlin,9.6,8.0,10,8,False,2,False
+RB Leipzig,1. FSV Mainz 05,9.18,14.0,9,14,True,5,True
+SV Werder Bremen,VfL Wolfsburg,10.04,9.0,10,9,False,1,False
+FC Bayern München,Borussia Dortmund,12.26,11.0,12,11,False,1,False
+VfB Stuttgart,1. FC Heidenheim,9.54,13.0,10,13,True,3,False
+Olympique Lyonnais,Stade de Reims,9.84,15.0,10,15,True,5,True
+Le Havre,Montpellier,8.94,12.0,9,12,True,3,False
+Nice,Nantes,8.62,12.0,9,12,True,3,False
+RC Strasbourg,Stade Rennais,9.19,9.0,9,9,True,0,False
+Olympique de Marseille,Paris Saint-Germain,12.26,8.0,12,8,False,4,False
+Newcastle United,West Ham United,10.04,7.0,10,7,False,3,False
+Bournemouth,Everton,9.04,17.0,9,17,True,8,True
+Nottingham Forest,Crystal Palace,8.84,10.0,9,10,True,1,False
+Aston Villa,Wolverhampton,9.05,9.0,9,9,True,0,False
+Brentford,Manchester United,9.19,18.0,9,18,True,9,True
+Napoli,Atalanta,11.36,12.0,11,12,True,1,False
+Torino,Monza,8.2,9.0,8,9,True,1,False
+Lazio,Juventus,11.16,9.0,11,9,False,2,False
+Fiorentina,Milan,9.34,12.0,9,12,True,3,False
+Getafe,Sevilla,8.5,9.0,8,9,True,1,False
+Valencia,Mallorca,8.99,6.0,9,6,False,3,False
+Barcelona,Las Palmas,9.51,7.0,10,7,False,3,False
+Bayer 04 Leverkusen,TSG Hoffenheim,11.26,11.0,11,11,True,0,False
+Borussia M'gladbach,SC Freiburg,8.57,15.0,9,15,True,6,True
+Eintracht Frankfurt,1. FC Union Berlin,9.6,8.0,10,8,False,2,False
+RB Leipzig,1. FSV Mainz 05,9.18,14.0,9,14,True,5,True
+SV Werder Bremen,VfL Wolfsburg,10.04,9.0,10,9,False,1,False
+FC Bayern München,Borussia Dortmund,12.26,11.0,12,11,False,1,False
+Lille,RC Lens,9.72,10.0,10,10,True,0,False
+Olympique Lyonnais,Stade de Reims,9.84,15.0,10,15,True,5,True
+Napoli,Atalanta,11.36,12.0,11,12,True,1,False
+Lille,RC Lens,9.72,10.0,10,10,True,0,False
+West Ham United,Aston Villa,9.64,17.0,10,17,True,7,True
+Juventus,Genoa,9.31,14.0,9,14,True,5,True
+Hellas Verona,Milan,9.2,8.0,9,8,False,1,False
+Inter,Napoli,12.26,12.0,12,12,True,0,False
+Sevilla,Celta Vigo,8.1,11.0,8,11,True,3,False
+Villarreal,Valencia,10.0,7.0,10,7,False,3,False
+Rayo Vallecano,Real Betis,9.43,12.0,9,12,True,3,False
+Atlético Madrid,Barcelona,10.63,10.0,11,10,False,1,False
+SC Freiburg,Bayer 04 Leverkusen,9.73,10.0,10,10,True,0,False
+Borussia Dortmund,Eintracht Frankfurt,11.19,11.0,11,11,True,0,False
+Stade Brestois,Lille,8.99,6.0,9,6,False,3,False
+Stade Rennais,Olympique de Marseille,11.08,9.0,11,9,False,2,False
+Montpellier,Paris Saint-Germain,10.35,11.0,10,11,True,1,False
+Fulham,Tottenham Hotspur,10.9,9.0,11,9,False,2,False
+West Ham United,Aston Villa,9.64,17.0,10,17,True,7,True
+Monza,Cagliari,8.43,10.0,8,10,True,2,False
+Udinese,Torino,8.63,7.0,9,7,False,2,False
+Juventus,Genoa,9.31,14.0,9,14,True,5,True
+Hellas Verona,Milan,9.2,8.0,9,8,False,1,False
+Inter,Napoli,12.26,12.0,12,12,True,0,False
+Osasuna,Real Madrid,9.84,12.0,10,12,True,2,False
+Getafe,Girona FC,9.28,7.0,9,7,False,2,False
+Athletic Club,Deportivo Alavés,10.01,9.0,10,9,False,1,False
+Sevilla,Celta Vigo,8.1,11.0,8,11,True,3,False
+Villarreal,Valencia,10.0,7.0,10,7,False,3,False
+Rayo Vallecano,Real Betis,9.43,12.0,9,12,True,3,False
+Atlético Madrid,Barcelona,10.63,10.0,11,10,False,1,False
+1. FC Heidenheim,Borussia M'gladbach,8.92,14.0,9,14,True,5,True
+1. FC Union Berlin,SV Werder Bremen,9.87,7.0,10,7,False,3,False
+1. FSV Mainz 05,VfL Bochum 1848,9.33,13.0,9,13,True,4,False
+VfL Wolfsburg,FC Augsburg,8.7,14.0,9,14,True,5,True
+TSG Hoffenheim,VfB Stuttgart,10.14,11.0,10,11,True,1,False
+SC Freiburg,Bayer 04 Leverkusen,9.73,10.0,10,10,True,0,False
+Borussia Dortmund,Eintracht Frankfurt,11.19,11.0,11,11,True,0,False
+Nantes,RC Strasbourg,7.94,9.0,8,9,True,1,False
+RC Lens,Nice,10.47,14.0,10,14,True,4,False
+Stade Brestois,Lille,8.99,6.0,9,6,False,3,False
+Stade Rennais,Olympique de Marseille,11.08,9.0,11,9,False,2,False
+Montpellier,Paris Saint-Germain,10.35,11.0,10,11,True,1,False
+Fulham,Tottenham Hotspur,10.9,9.0,11,9,False,2,False
+Empoli,Bologna,9.01,13.0,9,13,True,4,False
+Monza,Cagliari,8.43,10.0,8,10,True,2,False
+Udinese,Torino,8.63,7.0,9,7,False,2,False
+Juventus,Genoa,9.31,14.0,9,14,True,5,True
+Osasuna,Real Madrid,9.84,12.0,10,12,True,2,False
+Getafe,Girona FC,9.28,7.0,9,7,False,2,False
+Athletic Club,Deportivo Alavés,10.01,9.0,10,9,False,1,False
+1. FC Heidenheim,Borussia M'gladbach,8.92,14.0,9,14,True,5,True
+1. FC Union Berlin,SV Werder Bremen,9.87,7.0,10,7,False,3,False
+1. FSV Mainz 05,VfL Bochum 1848,9.33,13.0,9,13,True,4,False
+VfL Wolfsburg,FC Augsburg,8.7,14.0,9,14,True,5,True
+TSG Hoffenheim,VfB Stuttgart,10.14,11.0,10,11,True,1,False
+Toulouse,Olympique Lyonnais,9.63,8.0,10,8,False,2,False
+Nantes,RC Strasbourg,7.94,9.0,8,9,True,1,False
+RC Lens,Nice,10.47,14.0,10,14,True,4,False
+Empoli,Bologna,9.01,13.0,9,13,True,4,False
+Toulouse,Olympique Lyonnais,9.63,8.0,10,8,False,2,False
+Chelsea,Newcastle United,11.66,4.0,12,4,False,8,True
+Lazio,Udinese,10.12,14.0,10,14,True,4,False
+Aston Villa,Tottenham Hotspur,10.77,10.0,11,10,False,1,False
+Brighton & Hove Albion,Nottingham Forest,8.75,9.0,9,9,True,0,False
+Liverpool,Manchester City,12.26,11.0,12,11,False,1,False
+Chelsea,Newcastle United,11.66,4.0,12,4,False,8,True
+Lecce,Hellas Verona,7.56,17.0,8,17,True,9,True
+Milan,Empoli,9.2,15.0,9,15,True,6,True
+Juventus,Atalanta,10.85,7.0,11,7,False,4,False
+Fiorentina,Roma,9.07,10.0,9,10,True,1,False
+Lazio,Udinese,10.12,14.0,10,14,True,4,False
+Deportivo Alavés,Rayo Vallecano,9.59,12.0,10,12,True,2,False
+Las Palmas,Athletic Club,9.26,13.0,9,13,True,4,False
+Real Madrid,Celta Vigo,9.33,13.0,9,13,True,4,False
+Real Betis,Villarreal,9.79,15.0,10,15,True,5,True
+VfL Bochum 1848,SC Freiburg,9.01,17.0,9,17,True,8,True
+Eintracht Frankfurt,TSG Hoffenheim,10.42,6.0,10,6,False,4,False
+Bayer 04 Leverkusen,VfL Wolfsburg,10.8,11.0,11,11,True,0,False
+Paris Saint-Germain,Stade de Reims,10.76,9.0,11,9,False,2,False
+Le Havre,Toulouse,9.07,6.0,9,6,False,3,False
+RC Strasbourg,AS Monaco,8.94,13.0,9,13,True,4,False
+Lille,Stade Rennais,9.59,9.0,10,9,False,1,False
+Olympique de Marseille,Nantes,9.7,10.0,10,10,True,0,False
+Manchester United,Everton,8.64,13.0,9,13,True,4,False
+Wolverhampton,Fulham,9.21,7.0,9,7,False,2,False
+Arsenal,Brentford,10.27,14.0,10,14,True,4,False
+Aston Villa,Tottenham Hotspur,10.77,10.0,11,10,False,1,False
+Brighton & Hove Albion,Nottingham Forest,8.75,9.0,9,9,True,0,False
+Liverpool,Manchester City,12.26,11.0,12,11,False,1,False
+Bologna,Inter,11.46,9.0,11,9,False,2,False
+Genoa,Monza,8.43,11.0,8,11,True,3,False
+Lecce,Hellas Verona,7.56,17.0,8,17,True,9,True
+Milan,Empoli,9.2,15.0,9,15,True,6,True
+Juventus,Atalanta,10.85,7.0,11,7,False,4,False
+Fiorentina,Roma,9.07,10.0,9,10,True,1,False
+Valencia,Getafe,9.07,10.0,9,10,True,1,False
+Girona FC,Osasuna,9.32,12.0,9,12,True,3,False
+Deportivo Alavés,Rayo Vallecano,9.59,12.0,10,12,True,2,False
+Las Palmas,Athletic Club,9.26,13.0,9,13,True,4,False
+Real Madrid,Celta Vigo,9.33,13.0,9,13,True,4,False
+Real Betis,Villarreal,9.79,15.0,10,15,True,5,True
+FC Augsburg,1. FC Heidenheim,8.32,7.0,8,7,False,1,False
+FC Bayern München,1. FSV Mainz 05,10.27,13.0,10,13,True,3,False
+SV Werder Bremen,Borussia Dortmund,11.1,15.0,11,15,True,4,False
+VfL Bochum 1848,SC Freiburg,9.01,17.0,9,17,True,8,True
+Eintracht Frankfurt,TSG Hoffenheim,10.42,6.0,10,6,False,4,False
+Bayer 04 Leverkusen,VfL Wolfsburg,10.8,11.0,11,11,True,0,False
+RC Lens,Stade Brestois,10.67,6.0,11,6,False,5,True
+Paris Saint-Germain,Stade de Reims,10.76,9.0,11,9,False,2,False
+Le Havre,Toulouse,9.07,6.0,9,6,False,3,False
+RC Strasbourg,AS Monaco,8.94,13.0,9,13,True,4,False
+Lille,Stade Rennais,9.59,9.0,10,9,False,1,False
+Olympique de Marseille,Nantes,9.7,10.0,10,10,True,0,False
+Manchester United,Everton,8.64,13.0,9,13,True,4,False
+Wolverhampton,Fulham,9.21,7.0,9,7,False,2,False
+Arsenal,Brentford,10.27,14.0,10,14,True,4,False
+Napoli,Torino,9.63,20.0,10,20,True,10,True
+Bologna,Inter,11.46,9.0,11,9,False,2,False
+Genoa,Monza,8.43,11.0,8,11,True,3,False
+Lecce,Hellas Verona,7.56,17.0,8,17,True,9,True
+Barcelona,Mallorca,9.99,5.0,10,5,False,5,True
+Valencia,Getafe,9.07,10.0,9,10,True,1,False
+Girona FC,Osasuna,9.32,12.0,9,12,True,3,False
+VfB Stuttgart,1. FC Union Berlin,9.74,7.0,10,7,False,3,False
+FC Augsburg,1. FC Heidenheim,8.32,7.0,8,7,False,1,False
+FC Bayern München,1. FSV Mainz 05,10.27,13.0,10,13,True,3,False
+SV Werder Bremen,Borussia Dortmund,11.1,15.0,11,15,True,4,False
+Nice,Montpellier,9.16,13.0,9,13,True,4,False
+RC Lens,Stade Brestois,10.67,6.0,11,6,False,5,True
+Napoli,Torino,9.63,20.0,10,20,True,10,True
+Barcelona,Mallorca,9.99,5.0,10,5,False,5,True
+VfB Stuttgart,1. FC Union Berlin,9.74,7.0,10,7,False,3,False
+Nice,Montpellier,9.16,13.0,9,13,True,4,False
+Inter,Genoa,9.7,9.0,10,9,False,1,False
+Osasuna,Deportivo Alavés,8.88,10.0,9,10,True,1,False
+Manchester City,Manchester United,10.89,17.0,11,17,True,6,True
+Empoli,Cagliari,8.04,11.0,8,11,True,3,False
+Atalanta,Bologna,10.6,8.0,11,8,False,3,False
+Napoli,Juventus,11.56,3.0,12,3,False,9,True
+Inter,Genoa,9.7,9.0,10,9,False,1,False
+Atlético Madrid,Real Betis,9.66,10.0,10,10,True,0,False
+Mallorca,Girona FC,9.19,13.0,9,13,True,4,False
+Athletic Club,Barcelona,11.69,8.0,12,8,False,4,False
+Osasuna,Deportivo Alavés,8.88,10.0,9,10,True,1,False
+TSG Hoffenheim,SV Werder Bremen,10.14,6.0,10,6,False,4,False
+Toulouse,Nice,9.3,13.0,9,13,True,4,False
+Montpellier,RC Strasbourg,8.49,12.0,8,12,True,4,False
+Stade Brestois,Le Havre,9.07,2.0,9,2,False,7,True
+Olympique Lyonnais,RC Lens,10.72,6.0,11,6,False,5,True
+Brentford,Chelsea,9.98,6.0,10,6,False,4,False
+Everton,West Ham United,8.7,9.0,9,9,True,0,False
+Fulham,Brighton & Hove Albion,10.01,8.0,10,8,False,2,False
+Newcastle United,Wolverhampton,9.14,8.0,9,8,False,1,False
+Nottingham Forest,Liverpool,9.68,15.0,10,15,True,5,True
+Tottenham Hotspur,Crystal Palace,9.87,12.0,10,12,True,2,False
+Manchester City,Manchester United,10.89,17.0,11,17,True,6,True
+Monza,Roma,9.24,9.0,9,9,True,0,False
+Torino,Fiorentina,7.94,9.0,8,9,True,1,False
+Empoli,Cagliari,8.04,11.0,8,11,True,3,False
+Atalanta,Bologna,10.6,8.0,11,8,False,3,False
+Napoli,Juventus,11.56,3.0,12,3,False,9,True
+Sevilla,Real Sociedad,8.76,7.0,9,7,False,2,False
+Getafe,Las Palmas,8.28,8.0,8,8,True,0,False
+Valencia,Real Madrid,10.23,4.0,10,4,False,6,True
+Atlético Madrid,Real Betis,9.66,10.0,10,10,True,0,False
+Mallorca,Girona FC,9.19,13.0,9,13,True,4,False
+Athletic Club,Barcelona,11.69,8.0,12,8,False,4,False
+1. FC Heidenheim,Eintracht Frankfurt,9.14,10.0,9,10,True,1,False
+1. FC Union Berlin,Borussia Dortmund,10.79,15.0,11,15,True,4,False
+1. FSV Mainz 05,Borussia M'gladbach,9.12,18.0,9,18,True,9,True
+VfL Bochum 1848,RB Leipzig,9.33,7.0,9,7,False,2,False
+VfL Wolfsburg,VfB Stuttgart,9.83,9.0,10,9,False,1,False
+TSG Hoffenheim,SV Werder Bremen,10.14,6.0,10,6,False,4,False
+Stade de Reims,Lille,8.9,8.0,9,8,False,1,False
+Toulouse,Nice,9.3,13.0,9,13,True,4,False
+Montpellier,RC Strasbourg,8.49,12.0,8,12,True,4,False
+Stade Brestois,Le Havre,9.07,2.0,9,2,False,7,True
+Olympique Lyonnais,RC Lens,10.72,6.0,11,6,False,5,True
+Brentford,Chelsea,9.98,6.0,10,6,False,4,False
+Everton,West Ham United,8.7,9.0,9,9,True,0,False
+Fulham,Brighton & Hove Albion,10.01,8.0,10,8,False,2,False
+Newcastle United,Wolverhampton,9.14,8.0,9,8,False,1,False
+Nottingham Forest,Liverpool,9.68,15.0,10,15,True,5,True
+Tottenham Hotspur,Crystal Palace,9.87,12.0,10,12,True,2,False
+Lazio,Milan,11.41,7.0,11,7,False,4,False
+Monza,Roma,9.24,9.0,9,9,True,0,False
+Torino,Fiorentina,7.94,9.0,8,9,True,1,False
+Sevilla,Real Sociedad,8.76,7.0,9,7,False,2,False
+Getafe,Las Palmas,8.28,8.0,8,8,True,0,False
+Valencia,Real Madrid,10.23,4.0,10,4,False,6,True
+SC Freiburg,FC Bayern München,9.86,9.0,10,9,False,1,False
+1. FC Heidenheim,Eintracht Frankfurt,9.14,10.0,9,10,True,1,False
+1. FC Union Berlin,Borussia Dortmund,10.79,15.0,11,15,True,4,False
+1. FSV Mainz 05,Borussia M'gladbach,9.12,18.0,9,18,True,9,True
+VfL Bochum 1848,RB Leipzig,9.33,7.0,9,7,False,2,False
+VfL Wolfsburg,VfB Stuttgart,9.83,9.0,10,9,False,1,False
+AS Monaco,Paris Saint-Germain,11.02,11.0,11,11,True,0,False
+Stade de Reims,Lille,8.9,8.0,9,8,False,1,False
+Lazio,Milan,11.41,7.0,11,7,False,4,False
+SC Freiburg,FC Bayern München,9.86,9.0,10,9,False,1,False
+AS Monaco,Paris Saint-Germain,11.02,11.0,11,11,True,0,False
+Inter,Atalanta,11.36,5.0,11,5,False,6,True
+Inter,Atalanta,11.36,5.0,11,5,False,6,True
+West Ham United,Brentford,8.99,8.0,9,8,False,1,False
+Roma,Torino,9.1,4.0,9,4,False,5,True
+Fiorentina,Lazio,9.35,15.0,9,15,True,6,True
+Girona FC,Rayo Vallecano,10.06,4.0,10,4,False,6,True
+West Ham United,Brentford,8.99,8.0,9,8,False,1,False
+Cagliari,Napoli,9.99,7.0,10,7,False,3,False
+Lecce,Inter,9.46,17.0,9,17,True,8,True
+Milan,Atalanta,11.09,8.0,11,8,False,3,False
+Roma,Torino,9.1,4.0,9,4,False,5,True
+Fiorentina,Lazio,9.35,15.0,9,15,True,6,True
+Real Betis,Athletic Club,10.05,8.0,10,8,False,2,False
+Las Palmas,Osasuna,8.22,13.0,8,13,True,5,True
+Real Madrid,Sevilla,9.49,9.0,9,9,True,0,False
+Girona FC,Rayo Vallecano,10.06,4.0,10,4,False,6,True
+Eintracht Frankfurt,VfL Wolfsburg,9.82,8.0,10,8,False,2,False
+Borussia Dortmund,TSG Hoffenheim,11.26,13.0,11,13,True,2,False
+FC Augsburg,SC Freiburg,7.97,12.0,8,12,True,4,False
+RC Lens,AS Monaco,10.96,12.0,11,12,True,1,False
+Le Havre,Stade de Reims,9.1,10.0,9,10,True,1,False
+Toulouse,Lille,8.99,14.0,9,14,True,5,True
+Paris Saint-Germain,Stade Rennais,11.08,4.0,11,4,False,7,True
+Olympique de Marseille,Montpellier,10.35,11.0,10,11,True,1,False
