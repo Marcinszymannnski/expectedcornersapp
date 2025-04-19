@@ -21,7 +21,7 @@ Aplikacja do przewidywania liczby rzutów rożnych w meczach piłkarskich na pod
 
 ## 🧪 Testowanie skuteczności
 
-- Do testowania modelu służy osobny skrypt, który **zalicza zakład**, gdy expected corners przekracza daną linię:
+- Do testowania modelu służy osobny skrypt, który **zalicza zakład**, gdy expected corners przekracza daną linię (granie pod overy):
   - Przykład: jeśli linia to 10.5, a model daje 10.59 → zaliczone jako over. 
   - Działa to na zasadzie zaokrąglania:
     - `8.4` → 8
