@@ -26,9 +26,9 @@ Aplikacja do przewidywania liczby rzutów rożnych w meczach piłkarskich na pod
     - `8.6` → 9
 
 Na dzień 13.04:
-✅ Skuteczność: 56.31% (2029/3603)
-📉 Średni błąd bezwzględny: 2.78
-❌ Ekstremalnych przestrzeleń (>=5): 711
+- Skuteczność: 56.31% (2029/3603)
+- Średni błąd bezwzględny: 2.78
+- Ekstremalnych przestrzeleń (>=5): 711
 
 
 ## Fallback i dane
